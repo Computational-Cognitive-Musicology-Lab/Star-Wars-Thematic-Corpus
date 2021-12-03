@@ -1,0 +1,33 @@
+**kern	**text	**text	**text	**text
+!!pagebreak:original
+*clefG2	*	*	*	*
+*k[f#]	*	*	*	*
+*e:	*	*	*	*
+*M4/4	*	*	*	*
+=1	=1	=1	=1	=1
+!LO:TX:t=[quarter]=66	!	!	!	!
+8b	i6	.	.	.
+!LO:TX:a:t=Em/G	!	!	!	!
+[4.b	.	.	.	.
+2b]	.	.	.	.
+=2	=2	=2	=2	=2
+!LO:TX:a:t=Esus2/A	!	!	!	!
+8cc	ii[sus4]	.	.	.
+[4.a	.	.	.	.
+!LO:TX:a:t=Esus4/F©	!	!	!	!
+2a]	.	.	.	.
+=3	=3	=3	=3	=3
+!LO:TX:a:t=Em/B	!	!	!	!
+8ee	i64	.	.	.
+[4.ee	.	.	.	.
+2ee]	.	.	.	.
+=4	=4	=4	=4	=4
+!LO:TX:a:t=B5/A	!	!	!	!
+12ff#L	ii6[sus4]	.	.	.
+!LO:TX:a:t=Cm	!	!	!	!
+12ee-X	bvi	.	.	.
+[12ee-J	.	.	.	.
+2.ee-]	.	.	.	;;
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

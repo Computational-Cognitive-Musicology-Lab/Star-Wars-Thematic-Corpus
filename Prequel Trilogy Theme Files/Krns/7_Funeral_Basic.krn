@@ -1,0 +1,26 @@
+**kern	**text	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*	*
+*k[f#c#g#d#a#]	*	*	*	*	*	*
+*g#:	*	*	*	*	*	*
+*M4/4	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=[quarter]=64	!	!	!	!	!	!
+4.dd#	G#m:	.	.	.	.	G#:min
+8dd#	i	.	.	.	.	.
+2dd#	.	.	.	.	%G#m6[sus2]	.
+=2	=2	=2	=2	=2	=2	=2
+2ee	.	.	.	.	.	.
+.	.	.	.	.	.	G#:min6
+4.dd#	.	.	.	.	.	G#:min
+8dd#	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4.dd#	.	.	.	.	%C#m6[add4,sus2]/E	.
+8cc#	iv6	.	.	.	.	.
+2cc#	.	.	.	.	.	C#:min/b3
+=4	=4	=4	=4	=4	=4	=4
+2a#	ii/65	.	.	.	.	A#:min7(b5)/b5
+2b	i	.	.	;;	.	G#:min
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

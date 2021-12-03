@@ -1,0 +1,27 @@
+**kern	**text	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*
+*d:	*	*	*	*	*	*
+*M4/4	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1
+4.d	i	.	.	.	.	D:min
+8e	ii/42	.	.	.	.	E:min7(b5)/b7
+4.g	.	.	.	.	.	.
+[8f	i	.	.	.	.	D:min
+=2	=2	=2	=2	=2	=2	=2
+1f_	.	.	.	.	.	D:min
+=3	=3	=3	=3	=3	=3	=3
+1f]	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+4.d	i	.	.	.	.	D:min
+8e	ii/42	.	.	.	.	E:min7(b5)/b7
+4.g	.	.	.	.	.	.
+8f	i	.	.	.	.	D:min
+=5	=5	=5	=5	=5	=5	=5
+4.b-X	VI6	.	.	.	.	Bb/3
+8a	i	.	.	.	.	D:min
+2g#X	.	.	Pedal: A	;;	%i64[add#4]	D:dim/5
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

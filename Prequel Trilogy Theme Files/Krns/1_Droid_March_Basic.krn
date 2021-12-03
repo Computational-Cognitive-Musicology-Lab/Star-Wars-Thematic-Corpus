@@ -1,0 +1,45 @@
+**kern	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*
+*k[]	*	*	*	*	*
+*C:	*	*	*	*	*
+*M4/4	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:t=[quarter]=100	!	!	!	!	!
+4r	Cm:	.	Pedal: C	.	.
+8cc	i	.	.	.	C:min
+8r	.	.	.	.	.
+16ccLL	.	.	.	.	.
+16ddJ	.	.	.	.	.
+8ddJ	iio/7	.	.	.	D:min7(b5)/b7
+8r	.	.	.	.	.
+8ee-X	i	.	.	.	C:min
+=2	=2	=2	=2	=2	=2
+8r	.	.	.	.	.
+16ggLL	.	.	.	.	.
+16ffJJ	.	.	.	.	.
+8.ffL	iv	.	.	.	F:min/5
+16ee-XJk	.	.	.	.	.
+8.ee-L	i	.	.	.	C:min
+16ddJk	.	.	.	.	.
+8ddL	v	.	.	.	.
+8gJ	.	.	.	//	G:min/4
+!!linebreak:original
+=3	=3	=3	=3	=3	=3
+12fL	iv6	.	.	.	.
+12a-X	.	.	.	.	F:min/b3
+12gJ	.	.	.	.	.
+4f	.	.	.	.	.
+4c	i	.	.	.	C:min
+12r	.	.	.	.	.
+12dL	.	.	.	.	.
+12e-XJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+12fL	iv6	.	.	.	F:min/b3
+12a-X	.	.	.	.	.
+12gJ	.	.	.	.	.
+4f#X	Fr+6	.	.	.	Ab:7(b5)
+2c	i	.	.	]]	C:min
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

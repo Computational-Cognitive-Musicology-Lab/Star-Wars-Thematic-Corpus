@@ -1,0 +1,64 @@
+**kern	**text	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*
+*a:	*	*	*	*	*	*
+*M12/8	*	*	*	*	*	*
+4.cc	Db:	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1
+4.dd-X	ii/7	.	.	.	.	Eb:min7(b5)
+4.cc	.	.	.	.	.	.
+4.cc	.	.	.	.	\!!The harmonic language here is intensely chromatic, fluctuates between functional & nonfunctional	Eb:min7(b5)/#4
+4.e-X	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+!LO:TX:a:t=CM/A¨	!	!	!	!	!	!
+4.cc	V	.	.	.	.	.
+4.b-X	.	.	.	.	.	.
+!LO:TX:a:t=D¨6/A¨	!	!	!	!	!	!
+4.b-	I64	.	.	.	.	.
+4.d-X	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4.a	bII	.	.	.	.	D:maj7(#11)
+4.g#X	.	.	.	.	.	.
+!LO:TX:a:t=E/D	!	!	!	!	!	!
+4.g#	.	Var1 II42/bII	.	.	.	.
+4.B	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+!LO:TX:a:t=D	!	!	!	!	!	!
+4.f#X	.	.	.	.	.	.
+4.A	.	.	.	.	.	.
+!LO:TX:a:t=D¨	!	!	!	!	!	!
+8.fnL	I	.	//	.	.	.
+8.FnJ	.	.	.	.	.	.
+40%3A-XL	.	.	.	.	.	.
+40%3d-X	.	.	.	.	.	.
+40%3f	.	.	.	.	.	.
+40%3a-X	.	.	.	.	.	.
+40%3dd-XJ	.	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5
+4.ff	ii/7	.	.	.	.	G:min7(b5)
+4.ee	.	.	.	.	.	.
+4.ee	V7	.	.	.	.	C:7(b5)
+4.g	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4.ee	idim7	.	.	.	.	F:dim(#7)
+4.ee-X	.	.	.	.	.	.
+4.dd	X	.	.	.	.	Eb:maj7
+4.e-X	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+4.dd	X	.	.	.	.	B:min
+4.cc#X	.	.	.	.	.	.
+4.cc#	X	.	.	.	.	F#:min
+4.d-X	Fm:	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+[4.d-X	ii/9	.	.	.	.	Bb:min9(b5)
+4d-]	.	.	.	.	.	.
+8c	V7	.	.	.	.	.
+2.c	.	.	PAC	.	.	C:7(*3,4)
+.	.	.	.	.	.	C:7
+=9	=9	=9	=9	=9	=9	=9
+1.F	i	.	]]	.	.	F:min
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]
