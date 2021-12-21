@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-02</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -112,7 +112,7 @@
     <divisions>256</divisions>
     <key color="#000000">
      <fifths>-1</fifths>
-     <mode>major</mode>
+     <mode>minor</mode>
     </key>
     <time color="#000000">
      <beats>4</beats>
@@ -167,12 +167,8 @@
      <syllabic>single</syllabic>
      <text>i</text>
     </lyric>
-    <lyric default-y="-180" number="part1verse5" color="#000000">
-     <syllabic>single</syllabic>
-     <text>!!Highly modal (aeolian) and nonfunctional harmonization prevents simple RN analysis</text>
-    </lyric>
    </note>
-   <note color="#000000" default-x="376" default-y="-39">
+   <note color="#000000" default-x="316" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -185,8 +181,12 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
+    <lyric default-y="-180" number="part1verse5" color="#000000">
+     <syllabic>single</syllabic>
+     <text>!!Highly modal (aeolian) and nonfunctional harmonization prevents simple RN analysis</text>
+    </lyric>
    </note>
-   <note color="#000000" default-x="504" default-y="-39">
+   <note color="#000000" default-x="602" default-y="-39">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -210,7 +210,7 @@
     </bass>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="620" default-y="-40">
+   <note color="#000000" default-x="695" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -484,21 +484,6 @@
   </measure>
   <!--============== Part: P1, Measure: 0 ==============-->
   <measure number="0" width="338">
-   <note color="#000000" default-x="15" default-y="10">
-    <pitch>
-     <step>A</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>512</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>half</type>
-    <stem>up</stem>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>394</duration>
-   </backup>
    <harmony color="#000000" default-y="25">
     <root>
      <root-step>A</root-step>
@@ -519,9 +504,18 @@
     </degree>
     <staff>1</staff>
    </harmony>
-   <forward>
-    <duration>394</duration>
-   </forward>
+   <note color="#000000" default-x="15" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
    <note color="#000000" default-x="134" default-y="2">
     <pitch>
      <step>F</step>

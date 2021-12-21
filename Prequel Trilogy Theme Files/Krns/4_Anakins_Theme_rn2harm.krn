@@ -1,0 +1,59 @@
+**kern	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*
+*k[f#c#g#]	*	*	*	*	*
+*A:	*	*	*	*	*
+*M4/4	*	*	*	*	*
+!LO:TX:t=[quarter]=75	!	!	!	!	!
+4B	A:	.	Pedal: A	.	.
+=1	=1	=1	=1	=1	=1
+4e	I	.	.	.	A
+4a	.	.	.	.	.
+4b	V/V	.	.	.	B/b7
+4ff#	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+4ff#	VII7	.	.	.	G#:7/b2
+8eeL	.	.	.	.	.
+8dd#XJ	.	.	.	.	.
+4dd#	I	.	.	.	A
+4ee	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4ffn	Ger+6	.	Pedal:	.	F:7/7
+8aL	.	.	E	.	.
+8ccnJ	.	.	.	.	.
+4d#X	.	.	.	.	.
+8g#XL	.	.	.	.	.
+8aJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+4ddn	bIIma7	var1 Fr+6/I	.	.	Bb:7(b5)
+8dnL	.	.	.	.	.
+8aJ	.	.	.	{IAC}	.
+2e	I	.	.	//	A:sus4
+.	.	.	.	.	A
+!!linebreak:original
+=5	=5	=5	=5	=5	=5
+4e	.	.	.	.	A
+4a	.	.	.	.	.
+4b	V/V	.	.	.	B/b7
+4ff#	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+4gg#	VII7	.	.	.	G#:7/b2
+8ff#L	.	.	.	.	.
+8dd#XJ	.	.	.	.	.
+4dd#	I	.	.	.	A
+4ee	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4aa	iv	.	.	.	D:min/2
+8aL	.	.	.	.	D:min
+8bJ	.	.	.	.	.
+4b#X	C64	.	.	.	A/5
+8cc#XL	.	.	.	.	.
+8eJ	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4e	iiD5	.	.	{PC}	B:min7(b5)
+4d	.	.	.	.	.
+2a	I	.	.	]]	A:sus4
+.	.	.	.	.	A
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

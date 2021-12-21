@@ -33,10 +33,13 @@ def add_header(file_name, sheet, dir):
 
     df_list = [original_df, prequel_df, sequel_df]
     df = df_list[int(sheet)]
+    
 
     num = file_name.split('/')[-1].split("_")[0]
+
     if num != ".DS":
         row = df[df["Number"] == num]
+        print(row)
         film_year = row["Film/Year Introduced"].iloc[0].split('-')
         film = "!!!GAW: Star Wars: "+film_year[0].strip()
         year = "!!!ODT: "+film_year[1].strip()

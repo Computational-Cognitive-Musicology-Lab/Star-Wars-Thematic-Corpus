@@ -1,13 +1,13 @@
 **kern	**text	**text	**text	**text	**text	**harte
 !!pagebreak:original
 *clefG2	*	*	*	*	*	*
-*k[]	*	*	*	*	*	*
-*a:	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*
+*d:	*	*	*	*	*	*
 *M3/2	*	*	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-2.d	i	.	D	.	\!!An active 8th note ostinato undergirds this entire theme	D:min
+2.d	i	.	D	.	.	D:min
 4e	.	.	.	.	.	.
-2f	.	.	.	.	.	.
+2f	.	.	.	.	\!!An active 8th note ostinato undergirds this entire theme	.
 =2	=2	=2	=2	=2	=2	=2
 2.f	VI	.	.	.	.	Bb/3
 2.e	.	.	.	.	.	.

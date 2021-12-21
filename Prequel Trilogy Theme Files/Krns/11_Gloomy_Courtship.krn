@@ -2,33 +2,28 @@
 !!pagebreak:original
 *clefG2	*	*	*	*	*	*
 *k[]	*	*	*	*	*	*
-*a:	*	*	*	*	*	*
+*	*	*	*	*	*	*
 *M12/8	*	*	*	*	*	*
 4.cc	Db:	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
 4.dd-X	ii/7	.	.	.	.	Eb:min7(b5)
 4.cc	.	.	.	.	.	.
-4.cc	.	.	.	.	\!!The harmonic language here is intensely chromatic, fluctuates between functional & nonfunctional	Eb:min7(b5)/#4
+4.cc	.	.	.	.	.	Eb:min7(b5)/#4
 4.e-X	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-!LO:TX:a:t=CM/A¨	!	!	!	!	!	!
-4.cc	V	.	.	.	.	.
+4.cc	V	.	.	.	\!!The harmonic language here is intensely chromatic, fluctuates between functional & nonfunctional	C/b6
 4.b-X	.	.	.	.	.	.
-!LO:TX:a:t=D¨6/A¨	!	!	!	!	!	!
-4.b-	I64	.	.	.	.	.
+4.b-	I64	.	.	.	.	Db:maj6/5
 4.d-X	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 4.a	bII	.	.	.	.	D:maj7(#11)
 4.g#X	.	.	.	.	.	.
-!LO:TX:a:t=E/D	!	!	!	!	!	!
-4.g#	.	Var1 II42/bII	.	.	.	.
+4.g#	.	Var1 II42/bII	.	.	.	E/b7
 4.B	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-!LO:TX:a:t=D	!	!	!	!	!	!
-4.f#X	.	.	.	.	.	.
+4.f#X	.	.	.	.	.	D
 4.A	.	.	.	.	.	.
-!LO:TX:a:t=D¨	!	!	!	!	!	!
-8.fnL	I	.	//	.	.	.
+8.fnL	I	.	//	.	.	Db
 8.FnJ	.	.	.	.	.	.
 40%3A-XL	.	.	.	.	.	.
 40%3d-X	.	.	.	.	.	.

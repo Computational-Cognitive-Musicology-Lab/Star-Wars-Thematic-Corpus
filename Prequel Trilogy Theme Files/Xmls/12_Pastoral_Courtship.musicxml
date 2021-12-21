@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-07</encoding-date>
+   <encoding-date>2021-11-13</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -153,14 +153,27 @@
      <text>i</text>
      <extend />
     </lyric>
-    <lyric default-y="-180" number="part1verse5" color="#000000">
-     <syllabic>single</syllabic>
-     <text>!!Theme has a densely contrapuntal accompaniment in D aeolian/dorian, does not map well onto chord symbols or RNs</text>
-    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 0 ==============-->
   <measure number="0" width="199">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+    </root>
+    <kind>dominant</kind>
+    <degree>
+     <degree-value>4</degree-value>
+     <degree-alter>0</degree-alter>
+     <degree-type>add</degree-type>
+    </degree>
+    <degree>
+     <degree-value>3</degree-value>
+     <degree-alter>0</degree-alter>
+     <degree-type>subtract</degree-type>
+    </degree>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-39">
     <pitch>
      <step>G</step>
@@ -183,13 +196,6 @@
      <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
     </notations>
    </note>
-   <direction>
-    <direction-type>
-     <words default-x="43" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">D7sus4</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <note color="#000000" default-x="36" default-y="-39">
     <pitch>
      <step>F</step>
@@ -329,6 +335,10 @@
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <lyric default-y="-164" number="part1verse5" color="#000000">
+     <syllabic>single</syllabic>
+     <text>!!Theme has a densely contrapuntal accompaniment in D aeolian/dorian, does not map well onto chord symbols or RNs</text>
+    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 0 ==============-->

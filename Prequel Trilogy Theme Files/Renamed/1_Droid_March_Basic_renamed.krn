@@ -1,0 +1,49 @@
+!!!COM: John Williams
+!!!OTL: Droid March Basic
+!!!GAW: Star Wars: Episode I
+!!!ODT: 1999
+!!!ENC: Frank Lehman
+!!!EED: Claire Arthur
+!!!EED2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence
+*clefG2	*	*	*	*	*
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*	*
+*c:	*c:	*c:	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*
+=1	=1	=1	=1	=1	=1
+*MM100	*	*	*	*	*
+4r	.	Cm:	.	Pedal: C	.
+8cc	C:min	i	.	.	.
+8r	.	.	.	.	.
+16ccLL	.	.	.	.	.
+16ddJ	.	.	.	.	.
+8ddJ	D:min7(D5)/m7	iio/7	.	.	.
+8r	.	.	.	.	.
+8ee-	C:min	i	.	.	.
+=2	=2	=2	=2	=2	=2
+8r	.	.	.	.	.
+16ggLL	.	.	.	.	.
+16ffJJ	.	.	.	.	.
+8.ffL	F:min/5	iv	.	.	.
+16ee-Jk	.	.	.	.	.
+8.ee-L	C:min	i	.	.	.
+16ddJk	.	.	.	.	.
+8ddL	G:min/4	v	.	.	.
+8gJ	.	.	.	.	//
+=3	=3	=3	=3	=3	=3
+12fL	F:min/m3	ivb	.	.	.
+12a-	.	.	.	.	.
+12gJ	.	.	.	.	.
+4f	.	.	.	.	.
+4c	C:min	i	.	.	.
+12r	.	.	.	.	.
+12dL	.	.	.	.	.
+12e-J	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+12fL	F:min/m3	ivb	.	.	.
+12a-	.	.	.	.	.
+12gJ	.	.	.	.	.
+4f#	Ab:7(D5)	Fr+6	.	.	.
+2c	C:min	i	.	.	]]
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
