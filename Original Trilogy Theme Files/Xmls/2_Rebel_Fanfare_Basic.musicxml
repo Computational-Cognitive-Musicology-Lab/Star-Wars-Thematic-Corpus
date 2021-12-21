@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-01</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -95,7 +95,7 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 0 ==============-->
-  <measure number="0" width="344">
+  <measure number="0" width="76">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -108,8 +108,8 @@
    <attributes>
     <divisions>256</divisions>
     <key color="#000000">
-     <fifths>-2</fifths>
-     <mode>major</mode>
+     <fifths>0</fifths>
+     <mode>none</mode>
     </key>
     <time color="#000000">
      <beats>4</beats>
@@ -132,7 +132,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="103" default-y="-35">
+   <note color="#000000" default-x="76" default-y="-35">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -154,7 +154,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="424">
+  <measure number="1" width="563">
    <harmony color="#000000" default-y="25">
     <root>
      <root-step>B</root-step>
@@ -163,7 +163,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="15" default-y="-35">
+   <note color="#000000" default-x="14" default-y="-35">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -191,7 +191,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="87" default-y="-42">
+   <note color="#000000" default-x="111" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -210,7 +210,7 @@
      <extend />
     </lyric>
    </note>
-   <note default-x="127" default-y="-42">
+   <note default-x="165" default-y="-42">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -219,7 +219,14 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-42">
+   <harmony color="#F60000" default-y="25">
+    <root>
+     <root-step>C</root-step>
+    </root>
+    <kind>major</kind>
+    <staff>1</staff>
+   </harmony>
+   <note color="#000000" default-x="235" default-y="-42">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -241,7 +248,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="219" default-y="-35">
+   <note color="#000000" default-x="289" default-y="-35">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -264,7 +271,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="292" default-y="-42">
+   <note color="#000000" default-x="386" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -283,7 +290,7 @@
      <extend />
     </lyric>
    </note>
-   <note default-x="332" default-y="-42">
+   <note default-x="439" default-y="-42">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -292,7 +299,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="384" default-y="-42">
+   <note color="#000000" default-x="509" default-y="-42">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -310,7 +317,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="406">
+  <measure number="2" width="535">
    <harmony color="#000000" default-y="25">
     <root>
      <root-step>D</root-step>
@@ -344,7 +351,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="90" default-y="-29">
+   <note color="#000000" default-x="114" default-y="-29">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -369,7 +376,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="142" default-y="-29">
+   <note color="#000000" default-x="184" default-y="-29">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -396,7 +403,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="182" default-y="-29">
+   <note color="#000000" default-x="238" default-y="-29">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -422,7 +429,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="222" default-y="-39">
+   <note color="#000000" default-x="291" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -446,7 +453,7 @@
     <kind>major</kind>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="275" default-y="-39">
+   <note color="#000000" default-x="362" default-y="-39">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -466,7 +473,7 @@
      <text>V</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="327" default-y="-45">
+   <note color="#000000" default-x="432" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>

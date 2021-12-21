@@ -72,9 +72,9 @@ new_name=${old_name%.*}_renamed.krn
     rm -r merged.txt
 
     # add header information
-    header="!!!COM: John Williams\n!!!ENC: Frank Lehman\n!!!EED: Claire Arthur\n!!!EED2: John McNamara\n"
+    # header="!!!COM: John Williams\n!!!ENC: Frank Lehman\n!!!EED: Claire Arthur\n!!!EED2: John McNamara\n"
     
-    echo $header | cat - $new_name > temp && mv temp $new_name
+    # echo $header | cat - $new_name > temp && mv temp $new_name
 
 
 done

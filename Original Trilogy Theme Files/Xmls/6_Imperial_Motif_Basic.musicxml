@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-25</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -122,6 +122,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>F</root-step>
+     <root-alter>1</root-alter>
+    </root>
+    <kind>minor</kind>
+    <staff>1</staff>
+   </harmony>
    <direction>
     <direction-type>
      <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.5005" font-weight="normal">
@@ -154,21 +162,7 @@
      <extend />
     </lyric>
    </note>
-   <backup>
-    <duration>170</duration>
-   </backup>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>F</root-step>
-     <root-alter>1</root-alter>
-    </root>
-    <kind>minor</kind>
-    <staff>1</staff>
-   </harmony>
-   <forward>
-    <duration>170</duration>
-   </forward>
-   <note color="#000000" default-x="174" default-y="-15">
+   <note color="#000000" default-x="173" default-y="-15">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -194,7 +188,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="285" default-y="-15">
+   <note color="#000000" default-x="284" default-y="-15">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -285,7 +279,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="206">
+  <measure number="1" width="207">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
@@ -302,7 +296,7 @@
      <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="126" default-y="-10">
+   <note color="#000000" default-x="127" default-y="-10">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -316,7 +310,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="166" default-y="-10">
+   <note color="#000000" default-x="167" default-y="-10">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -356,7 +350,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note default-x="90">
+   <note default-x="89">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -375,7 +369,7 @@
     </bass>
     <staff>1</staff>
    </harmony>
-   <note color="#000000" default-x="130" default-y="-5">
+   <note color="#000000" default-x="129" default-y="-5">
     <pitch>
      <step>D</step>
      <octave>4</octave>

@@ -1,0 +1,57 @@
+**kern	**harte	**harm	**altharm	**pedal	**cadence
+*clefF4	*	*	*	*	*
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
+*g:	*g:	*g:	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*
+=1	=1	=1	=1	=1	=1
+*MM60	*	*	*	*	*
+4GG	.	i	.	.	.
+.	G:min	.	.	.	.
+4BB-	.	.	.	.	.
+2GG	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+4BB-	G:min	.	.	.	.
+4GG	.	.	.	.	.
+2FF	Bb:min/5	-iiic	.	.	.
+=3	=3	=3	=3	=3	=3
+4GG	G:min	i	.	.	.
+4BB-	.	.	.	.	.
+4GG	.	.	.	.	.
+4D	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+2C#X	C#:min	#iv	var1 -v	.	.
+2Cn	.	.	.	.	//
+=5	=5	=5	=5	=5	=5
+4GG	G:min	i	.	.	.
+4BB-	.	.	.	.	.
+2GG	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+4BB-	G:min	i	.	.	.
+4GG	.	.	.	.	.
+2FF	Bb:min/5	-iiic	var1 ivc/bvii	.	.
+=7	=7	=7	=7	=7	=7
+4FF	F:min	-vii	.	.	.
+4C	.	.	.	.	.
+4BBn	.	.	.	.	.
+4FF	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+2AA-X	Db:min/5	#ivc	var1 -vic/bvii	.	.
+2GG	Db:dim/5	.	.	.	//
+=9	=9	=9	=9	=9	=9
+4GG	G:min	i	.	.	.
+4BB-	.	.	.	.	.
+2GG	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+4BB-	G:min	i	.	.	.
+4GG	.	.	.	.	.
+2FF	Bb:min/5	-iic	.	.	.
+=11	=11	=11	=11	=11	=11
+4GG	G:min	i	.	.	.
+4BB-	.	.	.	.	.
+4GG	.	.	.	.	.
+4D	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+2C#X	C#:min	#iv	var1 -v	.	//
+2r	.	.	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-

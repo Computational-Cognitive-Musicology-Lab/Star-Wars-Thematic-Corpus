@@ -1,0 +1,98 @@
+**kern	**text	**text	**text	**text	**harte
+!!pagebreak:original
+*clefG2	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*
+*g:	*	*	*	*	*
+*M4/4	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:t=[quarter]=110	!	!	!	!	!
+4g	i	.	Pedal: G	.	G:min
+4g	.	.	.	.	.
+4g	.	.	.	.	.
+8.e-L	bvi	.	.	.	.
+.	.	.	.	.	Eb:min
+16b-Jk	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+4g	i	.	.	.	G:min
+8.e-L	bvi	.	.	.	.
+.	.	.	.	.	Eb:min
+16b-Jk	.	.	.	.	.
+2g	i	.	.	.	G:min
+=3	=3	=3	=3	=3	=3
+4dd	.	.	.	.	G:min
+4dd	.	.	.	.	.
+4dd	.	.	.	.	.
+8.ee-L	bvi	.	.	.	Eb:min
+16b-Jk	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+4g-X	.	.	.	.	Eb:min
+8.e-L	iv/o7	.	.	.	.
+.	.	.	.	.	C:min7(b5)
+16b-Jk	.	.	.	.	.
+2gn	i	.	.	//	G:min
+!!linebreak:original
+=5	=5	=5	=5	=5	=5
+4gg	i	.	.	.	G:min
+8.gL	.	.	.	.	.
+16gJk	.	.	.	.	.
+4gg	.	.	.	.	.
+8.ff#XL	.	.	.	.	.
+16ffnJk	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+16eenLL	#iv	var1 bv	.	.	C#:min
+16dd#XJ	.	.	.	.	.
+8eeJ	.	.	.	.	.
+8r	.	.	.	.	.
+8g#X	.	.	.	.	.
+4cc#X	.	.	.	.	.
+8.ccnL	.	.	.	.	.
+16bnJk	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+16b-XLL	#v	var1 bvi	.	.	D#:min
+16anJ	.	.	.	.	.
+8b-J	.	.	.	.	.
+8r	.	.	.	.	.
+8e-X	.	.	.	.	.
+4g-X	.	.	.	.	.
+8.e-L	.	.	.	.	.
+16g-Jk	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4b-	i	.	.	.	G:min
+8.gL	VI	.	.	.	Eb
+16b-Jk	.	.	.	.	.
+2dd	i	.	.	.	G:min
+!!linebreak:original
+=9	=9	=9	=9	=9	=9
+4gg	VI	.	.	.	Eb
+8.gL	.	.	.	.	.
+16gJk	.	.	.	.	.
+4gg	i	.	.	.	G:min
+8.ff#XL	.	.	.	.	.
+16ffnJk	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+16eenLL	#iv	var1 bv	.	.	C#:min
+16dd#XJ	.	.	.	.	.
+8eeJ	.	.	.	.	.
+8r	.	.	.	.	.
+8g#X	.	.	.	.	.
+4cc#X	.	.	.	.	.
+8.ccnL	.	.	.	.	.
+16bnJk	.	.	.	.	.
+=11	=11	=11	=11	=11	=11
+16b-XLL	#v	var1 bvi	.	.	D#:min
+16anJ	.	.	.	.	.
+8b-J	.	.	.	.	.
+8r	.	.	.	.	.
+8e-X	.	.	.	.	.
+4g-X	.	.	.	.	.
+8.e-L	iv/o7	.	.	.	.
+.	.	.	.	.	C:min7(b5)
+16b-Jk	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+4g	i	.	.	{CC}	G:min
+8.e-L	iv/o7	.	.	.	C:min7(b5)
+16b-Jk	.	.	.	.	.
+2g	i	.	.	]]	G:min
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]

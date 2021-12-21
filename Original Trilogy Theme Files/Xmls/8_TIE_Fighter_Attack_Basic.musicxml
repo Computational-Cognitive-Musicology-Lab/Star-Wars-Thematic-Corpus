@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-25</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -109,7 +109,7 @@
     <divisions>256</divisions>
     <key color="#000000">
      <fifths>0</fifths>
-     <mode>minor</mode>
+     <mode>none</mode>
     </key>
     <time color="#000000">
      <beats>3</beats>
@@ -666,6 +666,17 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <bass>
+     <bass-step>E</bass-step>
+    </bass>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="264">
     <pitch>
      <step>F</step>
@@ -679,20 +690,6 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <backup>
-    <duration>77</duration>
-   </backup>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>D</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>major</kind>
-    <bass>
-     <bass-step>E</bass-step>
-    </bass>
-    <staff>1</staff>
-   </harmony>
   </measure>
   <!--============== Part: P1, Measure: 8 ==============-->
   <measure number="8" width="229">

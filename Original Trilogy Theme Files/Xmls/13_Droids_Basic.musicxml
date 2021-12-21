@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-25</encoding-date>
+   <encoding-date>2021-12-20</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -151,7 +151,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="235">
+  <measure number="1" width="236">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>D</root-step>
@@ -197,7 +197,7 @@
     <beam number="1">end</beam>
     <beam number="2">backward hook</beam>
    </note>
-   <note color="#000000" default-x="67" default-y="-49">
+   <note color="#000000" default-x="68" default-y="-49">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -249,7 +249,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="153" default-y="-49">
+   <note color="#000000" default-x="154" default-y="-49">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -278,7 +278,7 @@
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="189" default-y="-55">
+   <note color="#000000" default-x="190" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -292,7 +292,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="215">
+   <note default-x="216">
     <rest />
     <duration>64</duration>
     <instrument id="P1-I1" />
@@ -362,7 +362,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="115">
+  <measure number="3" width="116">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>D</root-step>
@@ -393,7 +393,7 @@
      <extend />
     </lyric>
    </note>
-   <note default-x="63">
+   <note default-x="64">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -415,7 +415,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="235">
+  <measure number="4" width="236">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>D</root-step>
@@ -461,7 +461,7 @@
     <beam number="1">end</beam>
     <beam number="2">backward hook</beam>
    </note>
-   <note color="#000000" default-x="67" default-y="-49">
+   <note color="#000000" default-x="68" default-y="-49">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -475,7 +475,7 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="85" default-y="-49">
+   <note color="#000000" default-x="86" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -490,7 +490,7 @@
     <beam number="1">continue</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="113" default-y="-49">
+   <note color="#000000" default-x="114" default-y="-49">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -513,7 +513,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="153" default-y="-49">
+   <note color="#000000" default-x="154" default-y="-49">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -527,7 +527,7 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="171" default-y="-49">
+   <note color="#000000" default-x="172" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -542,7 +542,7 @@
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="189" default-y="-55">
+   <note color="#000000" default-x="190" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -556,7 +556,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="215">
+   <note default-x="216">
     <rest />
     <duration>64</duration>
     <instrument id="P1-I1" />
@@ -693,7 +693,15 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="119">
+  <measure number="6" width="116">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major-seventh</kind>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -720,21 +728,7 @@
      <text>//</text>
     </lyric>
    </note>
-   <backup>
-    <duration>481</duration>
-   </backup>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>B</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>major-seventh</kind>
-    <staff>1</staff>
-   </harmony>
-   <forward>
-    <duration>481</duration>
-   </forward>
-   <note default-x="67">
+   <note default-x="64">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -742,7 +736,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="86" default-y="10">
+   <note color="#000000" default-x="84" default-y="10">
     <pitch>
      <step>A</step>
      <octave>5</octave>

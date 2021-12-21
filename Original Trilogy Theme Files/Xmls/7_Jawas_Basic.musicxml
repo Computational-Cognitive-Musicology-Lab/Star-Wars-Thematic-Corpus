@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-25</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -748,6 +748,14 @@
   </measure>
   <!--============== Part: P1, Measure: 5 ==============-->
   <measure number="5" width="340">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major-minor</kind>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
      <step>C</step>
@@ -760,20 +768,6 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <backup>
-    <duration>379</duration>
-   </backup>
-   <harmony color="#000000" default-y="29">
-    <root>
-     <root-step>D</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>major-minor</kind>
-    <staff>1</staff>
-   </harmony>
-   <forward>
-    <duration>379</duration>
-   </forward>
    <note color="#000000" default-x="127" default-y="-20">
     <pitch>
      <step>B</step>

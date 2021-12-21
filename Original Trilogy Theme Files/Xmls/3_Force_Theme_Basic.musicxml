@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-10-01</encoding-date>
+   <encoding-date>2021-11-24</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -73,11 +73,6 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -567,6 +562,16 @@
     <beam number="1">end</beam>
     <beam number="2">backward hook</beam>
    </note>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>G</root-step>
+    </root>
+    <kind>minor</kind>
+    <bass>
+     <bass-step>F</bass-step>
+    </bass>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="304" default-y="-49">
     <pitch>
      <step>D</step>
@@ -586,22 +591,6 @@
      <extend />
     </lyric>
    </note>
-   <backup>
-    <duration>127</duration>
-   </backup>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>G</root-step>
-    </root>
-    <kind>minor</kind>
-    <bass>
-     <bass-step>F</bass-step>
-    </bass>
-    <staff>1</staff>
-   </harmony>
-   <forward>
-    <duration>127</duration>
-   </forward>
    <note color="#000000" default-x="358" default-y="-49">
     <pitch>
      <step>B</step>

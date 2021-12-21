@@ -49,8 +49,10 @@ def rn2harm(filename):
         newfile.write(new_line)
 
 def main():
-    args = sys.argv[1:]
-    rn2harm(args[0])
+    for f in os.listdir():
+        rn2harm(f)
+    # args = sys.argv[1:]
+    # rn2harm(args[0])
     # files = os.listdir()
     # for file in files:
     #     double_split = os.path.splitext(os.path.splitext(file)[0])
