@@ -2,9 +2,9 @@
 !!!OTL: Victory
 !!!GAW: Star Wars: Episode 9
 !!!ODT: 2019
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*	*
@@ -27,7 +27,7 @@
 4ddd-	Db/5	Ic	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
 4aan	Gb:min	iv=Fb:ii	.	.	.	.
-4gg#X	.	.	.	.	.	.
+4gg#	.	.	.	.	.	.
 4aa	B:7(2,*3)	-VII7=V7/Fb	Var1:V7/bIII	.	{HC}	}**Enharmonic modulation here to key minor third above tonic (bIII/Db)
 4bn	B:7	.	.	.	//	.
 =5||	=5||	=5||	=5||	=5||	=5||	=5||
@@ -42,12 +42,12 @@
 4bb	B:7	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 4bb	B/4	Ic	.	.	.	.
-4aa#X	.	.	.	.	.	.
+4aa#	.	.	.	.	.	.
 4bb	.	.	.	.	.	.
 4eee	E	I	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
 2aa	F#:min/5	iic=Db:iv	.	.	.	.
-2b#X	G#	V7/vi=Db:V	.	.	{HC}	.
+2b#	G#	V7/vi=Db:V	.	.	{HC}	.
 =9||	=9||	=9||	=9||	=9||	=9||	=9||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*	*
 *D-:	*D-:	*D-:	*	*	*	*
@@ -66,7 +66,7 @@
 4a-	Db:maj7/3	I7d	.	.	.	.
 4dd-	Bb:min7	vi7	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-2ff-X	Gb:min7	iv7	.	.	.	.
+2ff-	Gb:min7	iv7	.	.	.	.
 2ee-	Eb:min7(D5)	iiD5	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
 4dd-	Db/5	Ic	.	.	.	.
@@ -83,7 +83,7 @@
 4dd-	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 4ee--	Db/5	-II	.	.	.	.
-4dd-X	.	.	.	.	.	.
+4dd-	.	.	.	.	.	.
 4cc	Ab:7	V	.	.	.	.
 4c	.	.	.	.	{PAC}	.
 =17	=17	=17	=17	=17	=17	=17

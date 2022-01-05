@@ -2,9 +2,9 @@
 !!!OTL: Wayfinder
 !!!GAW: Star Wars: Episode 9
 !!!ODT: 2019
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*
@@ -12,12 +12,12 @@
 *M3/4	*M3/4	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1
 4r	.	.	Pedal: G	.	}**Atonal, no RNs provided
-4B-X	.	.	.	.	%Ebm|Gm
-4a-Xt	.	.	.	.	%Dbm|Gm
+4B-	.	.	.	.	%Ebm|Gm
+4a-t	.	.	.	.	%Dbm|Gm
 =2	=2	=2	=2	=2	=2
 4r	.	.	.	.	.
-4B-X	.	.	.	.	%Ebm|Gm
-4a-Xt	.	.	.	.	%Dbm|Gm
+4B-	.	.	.	.	%Ebm|Gm
+4a-t	.	.	.	.	%Dbm|Gm
 =3	=3	=3	=3	=3	=3
 4r	.	.	Pedal: E	.	.
 4c	.	.	.	.	%Fm|Em

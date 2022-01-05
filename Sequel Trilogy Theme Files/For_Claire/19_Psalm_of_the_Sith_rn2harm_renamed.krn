@@ -2,9 +2,9 @@
 !!!OTL: Psalm of the Sith
 !!!GAW: Star Wars: Episode 9
 !!!ODT: 2019
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*	*
@@ -15,22 +15,22 @@
 4e-	.	.	.	.	.
 4d	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
-8.f#XL	C:min	.	.	.	.
+8.f#L	C:min	.	.	.	.
 16cJk	.	.	.	.	.
 2g	.	.	.	.	.
 =3	=3	=3	=3	=3	=3
 8.e-L	C:min	.	.	.	.
 16dJk	.	.	.	.	.
-4f#X	.	.	.	.	.
+4f#	.	.	.	.	.
 4e-	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-2.F#X	B:min/m2	#vii	.	.	{CHC}
+2.F#	B:min/m2	#vii	.	.	{CHC}
 =5	=5	=5	=5	=5	=5
 4c	C:min	i	.	.	//
 4e-	.	.	.	.	.
 4d	.	.	.	.	.
 =6	=6	=6	=6	=6	=6
-8.f#XL	.	.	.	.	.
+8.f#L	.	.	.	.	.
 16gJk	.	.	.	.	.
 2a-	Ab:min/3	-vi	.	.	.
 =7	=7	=7	=7	=7	=7

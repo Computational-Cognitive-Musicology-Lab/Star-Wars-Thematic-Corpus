@@ -2,9 +2,9 @@
 !!!OTL: March of the Resistance (Basic)
 !!!GAW: Star Wars: Episode 7
 !!!ODT: 2015
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
@@ -29,7 +29,7 @@
 16ccJJ	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
 16ddLL	G:min	.	.	.	.
-16cc#XJ	.	.	.	.	.
+16cc#J	.	.	.	.	.
 8ddJ	.	.	.	.	.
 8r	.	.	.	.	.
 8g	.	.	.	.	.
@@ -38,7 +38,7 @@
 4a	A:dim	iio	.	.	.
 =6	=6	=6	=6	=6	=6
 8ddL	G:min	i	.	.	.
-16cc#XL	.	.	.	.	.
+16cc#L	.	.	.	.	.
 16ddJJ	.	.	.	.	.
 8ee-L	C:min/m3	ivb	.	.	.
 16ddL	.	.	.	.	.
@@ -52,7 +52,7 @@
 16ffJJ	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
 8ggL	Eb	VI	.	.	.
-8ff#XJ	D	V	.	.	HC
+8ff#J	D	V	.	.	HC
 4r	.	.	.	.	//
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

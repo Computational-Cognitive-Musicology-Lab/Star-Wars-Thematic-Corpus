@@ -2,9 +2,9 @@
 !!!OTL: Pursuit
 !!!GAW: Star Wars: Episode 7
 !!!ODT: 2015
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*	*
@@ -23,7 +23,7 @@
 8fJ	.	.	.	.	.	.
 8gL	.	.	.	.	.	.
 8f	.	.	.	.	.	.
-8e-XJ	.	.	.	.	.	.
+8e-J	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 *M3/4	*M3/4	*M3/4	*	*	*	*
 8g	D:min7(*3,4)	.	.	.	.	.
@@ -35,15 +35,15 @@
 =4	=4	=4	=4	=4	=4	=4
 *M5/8	*M5/8	*M5/8	*	*	*	*
 8gL	D:min7(*3,4)	.	.	.	.	.
-8a-XJ	.	.	.	.	.	.
+8a-J	.	.	.	.	.	.
 8gL	.	.	.	.	.	.
 8f	.	.	.	.	.	.
-8e-XJ	.	.	.	.	.	.
+8e-J	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
 *M3/4	*M3/4	*M3/4	*	*	*	*
 8g	D:min7(*3,4)	.	.	.	.	.
 8r	.	.	.	.	.	.
-8a-X	.	.	.	.	.	.
+8a-	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8f	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -52,7 +52,7 @@
 8cL	D:min7(*3,4)	.	.	.	.	.
 8dJ	.	.	.	.	.	.
 8dL	.	.	.	.	.	.
-8e-X	.	.	.	.	.	.
+8e-	.	.	.	.	.	.
 8fJ	.	.	.	.	.	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

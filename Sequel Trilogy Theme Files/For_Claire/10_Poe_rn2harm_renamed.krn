@@ -2,9 +2,9 @@
 !!!OTL: Poe
 !!!GAW: Star Wars: Episode 7
 !!!ODT: 2015
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[f#]	*k[f#]	*k[f#]	*	*	*	*
@@ -24,7 +24,7 @@
 4.B	E:min	i	.	.	.	.
 4.b	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-4.cc#X	A	IV	.	.	.	.
+4.cc#	A	IV	.	.	.	.
 4.a	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 2.ee	C	VI	.	.	.	.
@@ -37,14 +37,14 @@
 4.b	G/4	V	.	.	.	.
 4.dd	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-4.ee-X	C:min	i	.	.	.	.
+4.ee-	C:min	i	.	.	.	.
 4.cc	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 4.ffn	F	IV	.	.	.	.
 4.cc	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
 4.gg	C:min	i	.	.	.	.
-4.ee-X	.	.	.	.	.	.
+4.ee-	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
 4.aa	F	IV	.	.	.	.
 4.ffn	.	.	.	.	.	.

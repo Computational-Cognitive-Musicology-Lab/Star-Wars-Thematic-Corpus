@@ -2,9 +2,9 @@
 !!!OTL: Desperation
 !!!GAW: Star Wars: Episode 8
 !!!ODT: 2017
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*
@@ -19,7 +19,7 @@
 =2	=2	=2	=2	=2	=2
 4ee	F:maj7/3	VI7b	.	.	.
 8aL	.	.	.	.	.
-8g#XJ	.	.	.	.	.
+8g#J	.	.	.	.	.
 4b	.	.	.	.	.
 =3	=3	=3	=3	=3	=3
 4cc	A:min	i	.	.	.

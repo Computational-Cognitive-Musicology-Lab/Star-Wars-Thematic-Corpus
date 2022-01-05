@@ -2,9 +2,9 @@
 !!!OTL: Knights of Ren
 !!!GAW: Star Wars: Episode 9
 !!!ODT: 2019
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal
 *clefG2	*	*	*	*
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*
@@ -17,12 +17,12 @@
 4g_	.	.	.	.
 8g]	.	.	.	.
 24gLL	.	.	.	.
-24f#X	.	.	.	.
+24f#	.	.	.	.
 24gJJ	.	.	.	.
 =3	=3	=3	=3	=3
-24a-XLL	Ab:min	.	.	.
+24a-LL	Ab:min	.	.	.
 24g	C:min	.	.	.
-24f#XJJ	C:dim	.	.	.
+24f#JJ	C:dim	.	.	.
 8f#	.	.	.	.
 4r	.	.	.	.
 =4	=4	=4	=4	=4
@@ -40,9 +40,9 @@
 24gg	.	.	.	.
 24ggJJ	.	.	.	.
 =6	=6	=6	=6	=6
-24aa-XLL	Ab:min	.	.	.
+24aa-LL	Ab:min	.	.	.
 24gg	C:min	.	.	.
-24ff#XJJ	C:dim	.	.	.
+24ff#JJ	C:dim	.	.	.
 8ff#	.	.	.	.
 4r	.	.	.	.
 =	=	=	=	=

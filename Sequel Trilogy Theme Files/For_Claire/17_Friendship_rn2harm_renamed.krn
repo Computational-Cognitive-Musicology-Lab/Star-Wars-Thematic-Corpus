@@ -2,9 +2,9 @@
 !!!OTL: Friendship
 !!!GAW: Star Wars: Episode 9
 !!!ODT: 2019
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[f#c#]	*k[f#c#]	*k[f#c#]	*	*	*
@@ -13,7 +13,7 @@
 =1	=1	=1	=1	=1	=1
 2a	D	I	.	.	.
 4b	D:dim7	CT7	.	.	.
-4g#X	.	.	.	.	.
+4g#	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
 2a	D	I	.	.	.
 2d	.	.	.	.	.
@@ -42,14 +42,14 @@
 =8	=8	=8	=8	=8	=8
 4ff#	E:min9	ii9=F#: -vii9	.	.	.
 4ee	.	.	.	.	.
-4aa#X	E:min/m3	.	.	.	.
+4aa#	E:min/m3	.	.	.	.
 4bb	.	.	.	.	//
 =9||	=9||	=9||	=9||	=9||	=9||
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*	*	*
 *F#:	*F#:	*F#:	*	*	*
 2ccc#	F#	I	.	.	{CC}
 4dd#	G#/m7	II7d	.	.	.
-4b#X	.	.	.	.	.
+4b#	.	.	.	.	.
 =10	=10	=10	=10	=10	=10
 2cc#	F#	I	.	.	.
 2f#	F#/5	Ic	.	.	.
