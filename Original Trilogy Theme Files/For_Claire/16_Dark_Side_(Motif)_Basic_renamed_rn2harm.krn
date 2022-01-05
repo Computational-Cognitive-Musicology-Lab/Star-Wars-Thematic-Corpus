@@ -2,25 +2,25 @@
 !!!OTL: Dark Side Motif Basic
 !!!GAW: Star Wars: Episode V: The Empire Strikes Back
 !!!ODT: 1980
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefF4	*	*	*	*	*
-*k[]	*k[]	*k[]	*	*	*
-*C:	*C:	*C:	*	*	*
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
+*B-:	*B-:	*B-:	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*
 =1	=1	=1	=1	=1	=1
 *MM50	*	*	*	*	*
-[1d-X	.	.	.	.	.
+[1d-	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
 *M3/4	*M3/4	*M3/4	*	*	*
 4.d-]	.	.	.	.	.
 8r	.	.	.	.	.
 4r	.	.	.	Pedal: Bb	.
 =3	=3	=3	=3	=3	=3
-16e-X^KL	.	.	.	.	.
-[8.d-XJ	.	.	.	.	.
+16e-^KL	.	.	.	.	.
+[8.d-J	.	.	.	.	.
 2d-_	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
 2.d-_	.	.	.	.	.
@@ -32,11 +32,11 @@
 =6	=6	=6	=6	=6	=6
 1r	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
-2.D-X	Bb:min	i	.	.	.
+2.D-	Bb:min	i	.	.	.
 4D-	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-16E-X^KL	C:min	ii[A5]	.	.	.
-[8.CnJ	A:min	vii[A5]	.	.	.
+16E-^KL	C:min	?iim3A5	.	.	.
+[8.CnJ	A:min	?viim3A5	.	.	.
 2.C]	.	.	.	.	;;
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

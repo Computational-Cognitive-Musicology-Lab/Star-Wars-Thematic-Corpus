@@ -2,9 +2,9 @@
 !!!OTL: Main Theme (B Section) 
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
@@ -52,15 +52,15 @@
 2.g	Eb	IV	.	.	.	.
 4g	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-4ee-	Ab:min/3	-viib	var1 ii[ma7][add6]	.	.	}**Harmony more complex than included in reduction
+4ee-	Ab:min/3	-viib	var1 iim6M7	.	.	}**Harmony more complex than included in reduction
 4dd	.	.	.	.	.	.
 4cc	Ab/3	-VIIb	.	.	.	.
 4b-	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-6b-	Ab/3	.	var1 ii7[add6][no5]	.	.	.
+6b-	Ab/3	.	var1 ?iim3m6m7	.	.	.
 6cc	.	.	.	.	.	.
 6dd	.	.	.	.	.	.
-4.cc	F:9(*3,4)	V9[4]	.	.	.	.
+4.cc	F:9(*3,4)	?vP4P5m7M9	.	.	.	.
 8g	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 2a	F	V	.	.	.	.
@@ -68,15 +68,15 @@
 8ff	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
 3bb-	C:min7(D5)	iiom7	.	.	.	}**Stepwise ascending bassline mm. 13 & 14-
-6aa-X	.	.	.	.	.	.
-3gg-X	C:min7(D5)/m3	.	.	.	.	.
+6aa-	.	.	.	.	.	.
+3gg-	C:min7(D5)/m3	.	.	.	.	.
 6ff	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
 3ee-	C:min7(D5)/D5	.	.	.	.	.
-6dd-X	.	.	.	.	.	.
+6dd-	.	.	.	.	.	.
 3cc	C:min7(D5)/m7	.	.	.	.	.
 6b-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-[1ff	F:7(*3,4)	V7[4]	.	.	//	.
+[1ff	F:7(*3,4)	?vP4P5m7	.	.	//	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

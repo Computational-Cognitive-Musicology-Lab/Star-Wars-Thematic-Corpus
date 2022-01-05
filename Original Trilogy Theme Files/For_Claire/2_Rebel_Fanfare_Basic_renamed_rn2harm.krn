@@ -2,9 +2,9 @@
 !!!OTL: Rebel Fanfare
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*	*
@@ -20,11 +20,11 @@
 4ff	Bb	-VII	.	.	.	.
 16ddKL	G	V	.	.	.	.
 8r	.	.	.	.	.	.
-16aa-XJk	.	.	.	.	.	.
+16aa-Jk	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-4aa-X	Db	-II	.	.	.	.
+4aa-	Db	-II	.	.	.	.
 8ggL	C	I	.	.	.	.
-16aa-XL	Db	-II	.	.	.	.
+16aa-L	Db	-II	.	.	.	.
 16ggJJ	C	I	.	.	.	.
 8ffL	Bb	-VII	.	.	.	.
 (8ddJ	G	V	.	.	.	.

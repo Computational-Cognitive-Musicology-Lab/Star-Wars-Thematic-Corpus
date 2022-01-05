@@ -2,20 +2,20 @@
 !!!OTL: Ewok Parade Basic
 !!!GAW: Star Wars: Episode VI: Return of the Jedi
 !!!ODT: 1983
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
-*g:	*g:	*g:	*	*	*	*
+*B-:	*B-:	*B-:	*	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*	*
 *MM112	*	*	*	*	*	*
 16fKL	.	Bb:	.	.	.	.
 8r	.	.	.	.	.	.
 16enJk	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
-8en	.	I	.	.	.	%Bb(susA4)(addm3)
+8en	.	I	?Im3M3A4P5	.	.	.
 8r	.	.	.	.	.	.
 16fKL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -26,19 +26,19 @@
 8r	.	.	.	.	.	.
 16b-Jk	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-8dd-XL	.	.	.	.	.	%Bb(susA4)(addm3)
-8ff-X	.	.	.	.	.	.
+8dd-L	.	.	?Im3M3A4P5	.	.	.
+8ff-	.	.	.	.	.	.
 8b-	.	.	.	.	.	.
-8dd-XJ	.	.	.	.	.	.
+8dd-J	.	.	.	.	.	.
 8en	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16fKL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16eJk	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-8en	.	.	.	.	.	%Bb(susA4)(addm3)
+8en	.	.	?Im3M3A4P5	.	.	.
 8r	.	.	.	.	.	.
-16dd-XKL	.	.	.	.	.	.
+16dd-KL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16b-Jk	.	.	.	.	.	.
 8b-	.	.	.	.	.	.
@@ -47,14 +47,14 @@
 8r	.	.	.	.	.	.
 16eenJk	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-8een	C:7/4	V[ma7][9]	var* II7[A3][Fped]	.	.	.
+8een	C:7/4	VM7M9	var* ?IIA3P5m7	.	.	.
 4.cc	.	.	.	.	.	.
 4ryy	.	.	.	.	.	.
 16fKL	.	.	.	.	{HC}	.
 8r	.	.	.	.	.	.
 16enJk	.	.	.	.	//	.
 =5	=5	=5	=5	=5	=5	=5
-8en	.	I	.	.	.	%Bb(susA4)(addm3)
+8en	.	I	?Im3M3A4P5	.	.	.
 8r	.	.	.	.	.	.
 16fKL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -65,24 +65,24 @@
 8r	.	.	.	.	.	.
 16b-Jk	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-8dd-XL	.	.	.	.	.	%Bb(susA4)(addm3)
-8ff-X	.	.	.	.	.	.
+8dd-L	.	?Im3M3A4P5	.	.	.
+8ff-	.	.	.	.	.	.
 8b-	.	.	.	.	.	.
-8dd-XJ	.	.	.	.	.	.
+8dd-J	.	.	.	.	.	.
 8en	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16fKL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16eJk	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-8en	.	.	.	.	.	%Bb(susA4)(addm3)
+8en	.	.	?Im3M3A4P5	.	.	.
 8r	.	.	.	.	.	.
-16dd-XKL	.	.	.	.	.	.
+16dd-KL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16b-Jk	.	.	.	.	.	.
 8a	Gb:min	-vi	.	.	.	.
 8r	.	.	.	.	.	.
-16gg-XKL	.	.	.	.	.	.
+16gg-KL	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 16ffJk	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8

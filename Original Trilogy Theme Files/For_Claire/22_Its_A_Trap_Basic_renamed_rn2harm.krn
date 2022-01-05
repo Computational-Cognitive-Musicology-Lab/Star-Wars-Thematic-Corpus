@@ -2,9 +2,9 @@
 !!!OTL: It's A Trap Basic
 !!!GAW: Star Wars: Episode VI: Return of the Jedi
 !!!ODT: 1983
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
@@ -57,10 +57,10 @@
 8b-L	.	.	.	.	.
 8gJ	.	.	.	.	.
 8aL	.	.	.	.	.
-8f#XJ	.	.	.	.	.
+8f#J	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
 8r	.	.	.	.	.
-8f#X	.	.	.	.	.
+8f#	.	.	.	.	.
 8ccL	.	.	.	.	.
 16ccL	.	.	.	.	.
 16aJJ	.	.	.	.	.
@@ -68,9 +68,9 @@
 8gJ	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
 8aL	.	.	.	.	.
-8f#XJ	.	.	.	.	.
+8f#J	.	.	.	.	.
 8gL	.	.	.	.	.
-8e-XJ	.	.	.	.	.
+8e-J	.	.	.	.	.
 8f#L	.	.	.	.	.
 8dJ	.	.	.	.	.
 =	=	=	=	=	=

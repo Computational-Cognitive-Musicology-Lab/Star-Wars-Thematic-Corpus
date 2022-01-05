@@ -2,9 +2,9 @@
 !!!OTL: Emperor's Theme Basic
 !!!GAW: Star Wars: Episode VI: Return of the Jedi
 !!!ODT: 1983
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefF4	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
@@ -12,8 +12,7 @@
 *M4/4	*M4/4	*M4/4	*	*	*
 =1	=1	=1	=1	=1	=1
 *MM60	*	*	*	*	*
-4GG	.	i	.	.	.
-.	G:min	.	.	.	.
+4GG	G:min	i	.	.	.
 4BB-	.	.	.	.	.
 2GG	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
@@ -26,7 +25,7 @@
 4GG	.	.	.	.	.
 4D	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-2C#X	C#:min	#iv	var1 -v	.	.
+2C#	C#:min	#iv	var1 -v	.	.
 2Cn	.	.	.	.	//
 =5	=5	=5	=5	=5	=5
 4GG	G:min	i	.	.	.
@@ -42,7 +41,7 @@
 4BBn	.	.	.	.	.
 4FF	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-2AA-X	Db:min/5	#ivc	var1 -vic/bvii	.	.
+2AA-	Db:min/5	#ivc	var1 -vic/bvii	.	.
 2GG	Db:dim/5	.	.	.	//
 =9	=9	=9	=9	=9	=9
 4GG	G:min	i	.	.	.
@@ -58,7 +57,7 @@
 4GG	.	.	.	.	.
 4D	.	.	.	.	.
 =12	=12	=12	=12	=12	=12
-2C#X	C#:min	#iv	var1 -v	.	//
+2C#	C#:min	#iv	var1 -v	.	//
 2r	.	.	.	.	.
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

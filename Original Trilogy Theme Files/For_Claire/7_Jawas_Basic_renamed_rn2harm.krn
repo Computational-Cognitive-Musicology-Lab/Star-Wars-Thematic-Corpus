@@ -2,9 +2,9 @@
 !!!OTL: Jawa Theme
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[f#]	*k[f#]	*k[f#]	*	*	*	*
@@ -15,7 +15,7 @@
 32BL	.	.	.	.	.	}**Continuous oompah bass of tritone interval not included
 32dJJJ	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
-2c#X	G:7(A9,A11)	I	.	.	.	.
+2c#	G:7(A9,A11)	I	.	.	.	.
 16qqB/LL	.	.	.	.	.	.
 16qqfn/JJ	.	.	.	.	.	.
 4.B	.	.	.	.	.	.
@@ -23,7 +23,7 @@
 32BL	.	.	.	.	.	.
 32dJJJ	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-2c#X	G:7(A9,A11)	.	.	.	.	.
+2c#	G:7(A9,A11)	.	.	.	.	.
 16qqB/LL	.	.	.	.	.	.
 16qqfn/JJ	.	.	.	.	.	.
 4.B	.	.	.	.	.	.
@@ -31,26 +31,26 @@
 32BL	.	.	.	.	.	.
 32dJJJ	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-8.c#XL	G:7(A9,A11)	.	.	.	.	.
+8.c#L	G:7(A9,A11)	.	.	.	.	.
 16dJk	.	.	.	.	.	.
 8.eL	.	.	.	.	.	.
 16f#Jk	.	.	.	.	.	.
 8.gL	.	.	.	.	.	.
 32aLL	.	.	.	.	.	.
 32ddJJJ	.	.	.	.	.	.
-12cc#XL	.	.	.	.	.	.
-12b-X	.	.	.	.	.	.
-12d-XJ	.	.	.	.	.	.
+12cc#L	.	.	.	.	.	.
+12b-	.	.	.	.	.	.
+12d-J	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-[8qd-X/	Db:minmaj7	-v	.	.	.	.
+[8qd-/	Db:minmaj7	-v	.	.	.	.
 2c	.	.	.	.	.	.
-[4.B-X	.	.	.	.	.	.
+[4.B-	.	.	.	.	.	.
 16B-LL]	.	.	.	.	.	.
 32cL	.	.	.	.	.	.
 32gnJJJ	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
 2c	Db:minmaj7	.	.	.	.	.
-4.B-X	.	.	.	.	{CC}	.
+4.B-	.	.	.	.	{CC}	.
 8r	G:pow	I	.	.	;;	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

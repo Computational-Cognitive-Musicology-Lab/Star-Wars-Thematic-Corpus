@@ -2,9 +2,9 @@
 !!!OTL: Imperial Motif
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*	*	*
@@ -60,7 +60,7 @@
 64e	.	.	.	.	.
 64dn	.	.	.	.	.
 64eJJJJ	.	.	.	.	.
-*Xtremolo	*	*	*	*	*
+*tremolo	*	*	*	*	*
 =5	=5	=5	=5	=5	=5
 [16qqc#/LL	F#:min	i	.	.	;;
 16qd/JJ	.	.	.	.	.

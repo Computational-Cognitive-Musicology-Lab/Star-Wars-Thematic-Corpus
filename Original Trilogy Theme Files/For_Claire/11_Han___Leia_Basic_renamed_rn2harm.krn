@@ -2,9 +2,9 @@
 !!!OTL: Han and Leia (Love Theme)
 !!!GAW: Star Wars: Episode V: The Empire Strikes Back
 !!!ODT: 1980
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*	*
@@ -30,7 +30,7 @@
 8f	.	.	.	.	.	.
 8aJ	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-2d#X	F:7/7	-II7	var1 Gn/I	.	.	.
+2d#	F:7/7	-II7	var1 Gn/I	.	.	.
 4en	E	I	.	.	//	.
 4B	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5

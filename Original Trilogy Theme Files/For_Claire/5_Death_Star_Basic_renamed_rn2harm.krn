@@ -2,9 +2,9 @@
 !!!OTL: Death Star Motif
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*
@@ -18,7 +18,7 @@
 12cc	.	.	.	.	.
 12eeJ	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
-[2.gg#X	C#:min/b8	.	.	.	.
+[2.gg#	C#:min/b8	.	.	.	.
 =3	=3	=3	=3	=3	=3
 2.gg#]	.	.	.	.	;;
 =	=	=	=	=	=

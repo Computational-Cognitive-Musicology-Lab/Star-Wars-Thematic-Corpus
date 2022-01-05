@@ -2,9 +2,9 @@
 !!!OTL: Boba Fett Motif
 !!!GAW: Star Wars: Episode V: The Empire Strikes Back
 !!!ODT: 1980
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefFv4	*	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*	*
@@ -12,37 +12,32 @@
 *M4/4	*M4/4	*M4/4	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
 *MM58	*	*	*	*	*	*
-24DD-XLL	.	Bbm:	.	.	.	.
+24DD-LL	.	Bbm:	.	.	.	.
 24DD-	Bb:min(*5)	.	.	.	.	.
 24DD-JJ	.	.	.	.	.	}**Melody harmonized exclusively with parallel thirds, no harmonic function given
 24DD-LL	.	.	.	.	.	.
 24DD-	.	.	.	.	.	.
 [24DD-JJ	.	.	.	.	.	.
 2DD-]	.	.	.	.	.	.
-8CC	.	.	.	.	.	.
-.	A:min(*5)	.	.	.	.	.
+8CC	A:min(*5)	.	.	.	.	.
 8r	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-2DD-X	.	.	.	.	.	.
-.	Bb:min(*5)	.	.	.	.	.
-2EE-X	.	.	.	.	.	.
-.	C:min(*5)	.	.	.	.	.
+2DD-	Bb:min(*5)	.	.	.	.	.
+2EE-	C:min(*5)	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-4.FF-X	.	.	.	.	.	.
-.	Db:min(*5)	.	.	.	.	.
-16EE-XLL	D:min(*5)	.	.	.	.	.
+4.FF-	Db:min(*5)	.	.	.	.	.
+16EE-LL	D:min(*5)	.	.	.	.	.
 16FF-JJ	Db:min(*5)	.	.	.	.	.
-2DD-X	Bb:min(*5)	.	.	.	.	.
+2DD-	Bb:min(*5)	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-1EE-X	.	.	.	.	.	.
-.	C:min(*5)	.	.	.	.	.
+1EE-	C:min(*5)	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
 *M2/4	*M2/4	*M2/4	*	*	*	*
 4.AAn	F:maj(*5)	.	.	.	.	.
 8r	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
 *M4/4	*M4/4	*M4/4	*	*	*	*
-24DD-XLL	.	.	.	.	.	.
+24DD-LL	.	.	.	.	.	.
 24DD-	Bb:min(*5)	.	.	.	.	.
 24DD-JJ	.	.	.	.	.	.
 24DD-LL	.	.	.	.	.	.
@@ -52,10 +47,10 @@
 8CC	A:min(*5)	.	.	.	.	.
 8r	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-4.DD-X	Bb:min(*5)	.	.	.	.	.
+4.DD-	Bb:min(*5)	.	.	.	.	.
 16CCLL	B:min(*5)	.	.	.	.	.
 16DD-JJ	Bb:min(*5)	.	.	.	.	.
-4.EE-X	C:min(*5)	.	.	.	.	.
+4.EE-	C:min(*5)	.	.	.	.	.
 8EE-	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
 *M2/4	*M2/4	*M2/4	*	*	*	*

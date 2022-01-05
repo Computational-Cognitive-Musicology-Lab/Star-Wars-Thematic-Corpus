@@ -2,9 +2,9 @@
 !!!OTL: Yoda's Theme Basic
 !!!GAW: Star Wars: Episode V: The Empire Strikes Back
 !!!ODT: 1980
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*
@@ -17,7 +17,7 @@
 4c	.	.	.	.	.
 4a	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
-1f#X	D/m7	II7d	.	.	.
+1f#	D/m7	II7d	.	.	.
 =3	=3	=3	=3	=3	=3
 4g	C	I	.	.	.
 4e	.	.	.	.	.
@@ -34,7 +34,7 @@
 4a	D:min7/m7	ii7d	.	.	.
 4f	.	.	.	.	.
 4d	.	.	.	.	.
-4ff	Db/A4	V[m9][m13]	.	.	.
+4ff	Db/A4	Vm9m13	.	.	.
 =7	=7	=7	=7	=7	=7
 [1ee	C:maj7	I7	.	.	{IAC}
 =8	=8	=8	=8	=8	=8

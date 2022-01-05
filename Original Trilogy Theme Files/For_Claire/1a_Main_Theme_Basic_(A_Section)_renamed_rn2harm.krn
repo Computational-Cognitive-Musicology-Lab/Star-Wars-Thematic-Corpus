@@ -2,9 +2,9 @@
 !!!OTL: Main Theme (A Section) 
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
@@ -19,7 +19,7 @@
 =2	=2	=2	=2	=2	=2	=2
 1ff	Bb	I	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-6ee-	F:min7(*3,4)	v7[4]	.	.	.	.
+6ee-	F:min7(*3,4)	?vP4P5m7	.	.	.	.
 6dd	.	.	.	.	.	.
 6cc	.	.	.	.	.	.
 [2bb-	.	.	.	.	.	.
@@ -27,7 +27,7 @@
 2bb-]	.	.	.	.	.	.
 2ff	Bb	I	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-6ee-	F:min7(*3,4)	v7[4]	.	.	.	.
+6ee-	F:min7(*3,4)	?vP4P5m7	.	.	.	.
 6dd	.	.	.	.	.	.
 6cc	.	.	.	.	.	.
 [2bb-	.	.	.	.	.	.
@@ -59,7 +59,7 @@
 2bb-]	Eb	IV	.	.	.	.
 2ff	Bb	I	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-6ee-	F:min7(*3,4)	v7[4]	.	.	.	.
+6ee-	F:min7(*3,4)	?vP4P5m7	.	.	.	.
 6dd	.	.	.	.	.	.
 6cc	.	.	.	.	.	.
 [2bb-	.	.	.	.	.	.

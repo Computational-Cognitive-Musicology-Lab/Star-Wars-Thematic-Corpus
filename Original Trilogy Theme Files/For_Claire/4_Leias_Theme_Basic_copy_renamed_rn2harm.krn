@@ -2,9 +2,9 @@
 !!!OTL: Princess Leia's Theme
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*	*
@@ -45,17 +45,17 @@
 8ccL]	.	.	.	.	.	.
 8ccJ	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-8ee-XL	Gb:maj(9)/3	-IIb	.	.	.	.
-16dd-XL	.	.	.	.	.	.
+8ee-L	Gb:maj(9)/3	-IIb	.	.	.	.
+16dd-L	.	.	.	.	.	.
 16ccnJJ	.	.	.	.	.	.
-[2b-X	.	.	.	.	.	.
+[2b-	.	.	.	.	.	.
 8b-L]	.	.	.	.	.	.
 8b-J	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-8dd-XL	Gb/A4	V7[D5][m9]	.	.	.	.
+8dd-L	Gb/A4	?VM3D5m7m9	.	.	.	.
 16ccnL	.	.	.	.	.	.
-16b-XJJ	.	.	.	.	.	.
-[4a-X	F:min/5	ic	.	.	.	.
+16b-JJ	.	.	.	.	.	.
+[4a-	F:min/5	ic	.	.	.	.
 8a-L]	.	.	.	.	.	.
 16gnL	.	.	.	.	.	.
 16a-JJ	.	.	.	.	.	.
@@ -67,7 +67,7 @@
 4.gn	.	.	.	.	.	.
 8g	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9
-8ccnL	F#:min9(D5)	iiom7[9]	.	.	.	.
+8ccnL	F#:min9(D5)	iiom7m9	.	.	.	.
 16bL	.	.	.	.	.	.
 16aJJ	.	.	.	.	.	.
 [4gn	.	.	.	.	.	.

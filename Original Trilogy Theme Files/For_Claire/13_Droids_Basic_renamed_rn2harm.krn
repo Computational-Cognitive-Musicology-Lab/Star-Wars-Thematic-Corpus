@@ -2,9 +2,9 @@
 !!!OTL: Droids Motif
 !!!GAW: Star Wars: Episode V: The Empire Strikes Back
 !!!ODT: 1980
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG^2	*	*	*	*	*
 *k[f#c#]	*k[f#c#]	*k[f#c#]	*	*	*
@@ -17,7 +17,7 @@
 16ccc#Jk	.	.	.	.	.
 16dddLL	.	.	.	.	.
 16ccc#J	.	.	.	.	.
-8bb-XJ	.	.	.	.	.
+8bb-J	.	.	.	.	.
 8r	.	.	.	.	.
 16dddLL	.	.	.	.	.
 16ccc#JJ	.	.	.	.	.
@@ -25,7 +25,7 @@
 16r	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
 8r	D:maj7/7	.	.	.	.
-[4.bb-X	.	.	.	.	.
+[4.bb-	.	.	.	.	.
 2bb-_	.	.	.	.	.
 =3	=3	=3	=3	=3	=3
 2.bb-]	D:maj7	I7	.	.	.
@@ -36,7 +36,7 @@
 16ccc#Jk	.	.	.	.	.
 16dddLL	.	.	.	.	.
 16ccc#J	.	.	.	.	.
-8bb-XJ	.	.	.	.	.
+8bb-J	.	.	.	.	.
 8r	.	.	.	.	.
 16dddLL	.	.	.	.	.
 16ccc#JJ	.	.	.	.	.
@@ -44,43 +44,41 @@
 16r	.	.	.	.	.
 =5	=5	=5	=5	=5	=5
 8r	Bb:maj7/3	-VI7b	.	.	.
-[4.bb-X	.	.	.	.	.
+[4.bb-	.	.	.	.	.
 8.bb-L]	.	.	.	.	.
 16aaJk	.	.	.	.	.
 16bb-LL	.	.	.	.	.
 16aaJ	.	.	.	.	.
-[8ff#XJ	.	.	.	.	.
+[8ff#J	.	.	.	.	.
 =6	=6	=6	=6	=6	=6
 2.ff#]	Bb:maj7	-VI7	.	.	//
 8r	.	.	.	.	.
 8aa	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
-8.dddL	.	I7d	.	.	.
-.	D:maj7/7	.	.	.	.
+8.dddL	D:maj7/7	I7d	.	.	.
 16ccc#Jk	.	.	.	.	.
 16eeeLL	.	.	.	.	.
-16eee-XJ	.	.	.	.	.
+16eee-J	.	.	.	.	.
 8cccnJ	.	.	.	.	.
 8r	.	.	.	.	.
 16dddLL	.	.	.	.	.
-16ccc#XJJ	.	.	.	.	.
-8.bb-X	.	.	.	.	.
+16ccc#JJ	.	.	.	.	.
+8.bb-	.	.	.	.	.
 16r	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-8r	.	I7	.	.	.
-.	D:maj7	.	.	.	.
-32cc#XKLL	.	.	.	.	.
+8r	D:maj7	I7	.	.	.
+32cc#KLL	.	.	.	.	.
 16r	.	.	.	.	.
 32ccnJJk	.	.	.	.	.
-8bb-XL	.	.	.	.	.
-32b-XKL	.	.	.	.	.
+8bb-L	.	.	.	.	.
+32b-KL	.	.	.	.	.
 16r	.	.	.	.	.
 32b-JJk	.	.	.	.	.
 4.bb-	.	.	.	.	.
 [8aa	.	.	.	.	.
 =9	=9	=9	=9	=9	=9
 8aa]	D	.	.	.	.
-[4.ff#X	.	.	.	.	.
+[4.ff#	.	.	.	.	.
 2ff#]	.	.	.	.	]]
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

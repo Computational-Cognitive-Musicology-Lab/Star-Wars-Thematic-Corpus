@@ -2,9 +2,9 @@
 !!!OTL: Jabba's Theme
 !!!GAW: Star Wars: Episode VI: Return of the Jedi
 !!!ODT: 1983
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefF4	*	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
@@ -12,15 +12,15 @@
 *M4/4	*M4/4	*M4/4	*	*	*	*
 *MM70	*	*	*	*	*	*
 48GGLLL	.	Gm:	.	.	.	}**Highly discursive theme, phrase/section distinction blurry
-48AA-X	.	.	.	.	.	.
+48AA-	.	.	.	.	.	.
 48AAnJJJ	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
 [8BB-L	G:minmaj7	i	.	.	.	.
 32BB-LL]	.	.	.	.	.	.
 32D	.	.	.	.	.	.
-32F#X	.	.	.	.	.	.
+32F#	.	.	.	.	.	.
 32B-JJJ	.	.	.	.	.	.
-[8c#XL	.	.	.	.	.	.
+[8c#L	.	.	.	.	.	.
 32c#LL]	.	.	.	.	.	.
 32B-	.	.	.	.	.	.
 32F#	.	.	.	.	.	.
@@ -30,9 +30,9 @@
 24BB-	.	.	.	.	.	.
 24AAJJ	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-8AA-XL	Db:minmaj7	-v	.	.	.	.
-8FF-X	.	.	.	.	.	.
-8DD-X	.	.	.	.	.	.
+8AA-L	Db:minmaj7	-v	.	.	.	.
+8FF-	.	.	.	.	.	.
+8DD-	.	.	.	.	.	.
 8FF-J	.	.	.	.	.	.
 [4AA-	.	.	.	.	.	.
 8AA-L]	.	.	.	.	.	.
@@ -44,26 +44,26 @@
 [8BB-L	G:minmaj7	i	.	.	.	.
 32BB-LL]	.	.	.	.	.	.
 32D	.	.	.	.	.	.
-32F#X	.	.	.	.	.	.
+32F#	.	.	.	.	.	.
 32B-JJJ	.	.	.	.	.	.
-[8c#XL	.	.	.	.	.	.
+[8c#L	.	.	.	.	.	.
 32c#LL]	.	.	.	.	.	.
 32B-	.	.	.	.	.	.
 32F#	.	.	.	.	.	.
 32DJJJ	.	.	.	.	.	.
 4.BB-	.	.	.	.	.	.
-24D-XLL	.	.	.	.	.	.
+24D-LL	.	.	.	.	.	.
 24E--	.	.	.	.	.	.
 24D-JJ	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
 8CL	F:minmaj7	-vii	.	.	.	.
-8AA-X	.	.	.	.	.	.
+8AA-	.	.	.	.	.	.
 8FF	.	.	.	.	.	.
 8AA-J	.	.	.	.	.	.
 [4.C	.	.	.	.	.	.
 16C]	.	.	.	.	.	.
 48FLLL	.	.	.	.	||	.
-48G-X	.	.	.	.	.	.
+48G-	.	.	.	.	.	.
 48FJJJ	.	.	.	.	.	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

@@ -2,9 +2,9 @@
 !!!OTL: Throne Room Theme
 !!!GAW: Star Wars: Episode IV: A New Hope
 !!!ODT: 1977
-!!!ENC: Frank Lehman
-!!!EED: Claire Arthur
-!!!EED2: John McNamara
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*	*
@@ -17,8 +17,7 @@
 8d-	.	I7d	.	.	.	.
 8d-L	Gb/3	IVb	.	.	.	.
 8e-J	.	.	.	.	.	.
-8.cL	.	V7	.	.	.	.
-.	Ab:7	.	.	.	.	.
+8.cL	Ab:7	V7	.	.	.	.
 16A-Jk	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
 8d-L	Gb	IV	.	.	.	.
@@ -37,14 +36,12 @@
 =4	=4	=4	=4	=4	=4	=4
 [2dd-	Eb:min7/m3	iic	.	.	.	.
 4dd-]	Ab:7	V7	.	.	.	.
-8ccL	.	V7d	.	.	.	.
-.	Ab:7/m7	.	.	.	.	.
+8ccL	Ab:7/m7	V7d	.	.	.	.
 8b-J	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
 4.a-	F:min7	iii7	.	.	.	.
 8f	.	.	.	.	.	.
-8ee-L	.	vi7	.	.	.	.
-.	Bb:min7	.	.	.	.	.
+8ee-L	Bb:min7	vi7	.	.	.	.
 8dd-	.	.	.	.	.	.
 8a-	.	.	.	.	.	.
 8fJ	.	.	.	.	.	.
@@ -53,8 +50,7 @@
 16b-LL	.	.	.	.	.	.
 16a-JJ	.	.	.	.	.	.
 4gn	Eb:7	V7/V	.	.	.	.
-8.b-L	.	V7d/V	.	.	.	.
-.	Eb:7/m7	.	.	.	.	.
+8.b-L	Eb:7/m7	V7d/V	.	.	.	.
 16a-Jk	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 4a-	Ab/3	Vb	.	.	.	.
