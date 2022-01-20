@@ -31,7 +31,7 @@
 =8	=8	=8	=8	=8	=8	=8
 2.a	D	VII	.	.	MHC//	.
 =9	=9	=9	=9	=9	=9	=9
-4.cc	F/5	-IIc=IVc/C	.	C ped:	.	}**Pivot Modulation
+4.cc	F/5	-IIc=IVc/C	.	C ped:	.	Pivot Modulation
 4.a	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
 4.b	G/4	V	.	.	.	.
@@ -53,9 +53,9 @@
 =15	=15	=15	=15	=15	=15	=15
 *k[]	*k[]	*k[]	*	*	*	*
 *a:	*a	*a:	*	*	*	*
-4.ee	A:min	vi=i/A	.	.	.	}**Pivot Modulation
-16%3aL	.	Am:	.	A ped:	.	.
-16%3bJ	.	i	.	.	.	.
+4.ee	A:min	vi=i	.	A ped:	.	Pivot Modulation
+8.aL	.	i	.	.	.	.
+8.bJ	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 4.cc	.	i	.	.	.	.
 4.a	.	.	.	.	.	.
