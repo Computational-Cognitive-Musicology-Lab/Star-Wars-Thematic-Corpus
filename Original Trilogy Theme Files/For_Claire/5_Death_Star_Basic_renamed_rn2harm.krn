@@ -13,13 +13,13 @@
 =1	=1	=1	=1	=1	=1
 *MM90	*	*	*	*	*
 4r	.	.	.	Pedal: C	.
-[4a	A:min/m3	.	.	.	.
-12aL]	.	.	.	.	.
-12cc	.	.	.	.	.
-12eeJ	.	.	.	.	.
+[4a	A:min/m3	.	.	Pedal: C	.
+12aL]	.	.	.	Pedal: C	.
+12cc	.	.	.	Pedal: C	.
+12eeJ	.	.	.	Pedal: C	.
 =2	=2	=2	=2	=2	=2
-[2.gg#	C#:min/b8	.	.	.	.
+[2.gg#	C#:min/b8	.	.	Pedal: C	.
 =3	=3	=3	=3	=3	=3
-2.gg#]	.	.	.	.	;;
+2.gg#]	.	.	.	Pedal: C	;;
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

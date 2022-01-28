@@ -11,34 +11,35 @@
 *E-:	*E-:	*E-:	*	*
 *M2/4	*M2/4	*M2/4	*	*
 =1	=1	=1	=1	=1
+*MM75   *   *   *   *
 4r	C:min	i	.	Pedal: Cm
-[4g	.	.	.	.
+[4g	.	.	.	Pedal: Cm
 =2	=2	=2	=2	=2
-4g_	.	.	.	.
-8g]	.	.	.	.
-24gLL	.	.	.	.
-24f#	.	.	.	.
-24gJJ	.	.	.	.
+4g_	.	.	.	Pedal: Cm
+8g]	.	.	.	Pedal: Cm
+24gLL	.	.	.	Pedal: Cm
+24f#	.	.	.	Pedal: Cm
+24gJJ	.	.	.	Pedal: Cm
 =3	=3	=3	=3	=3
-24a-LL	Ab:min	.	.	.
-24g	C:min	.	.	.
-24f#JJ	C:dim	.	.	.
-8f#	.	.	.	.
-4r	.	.	.	.
+24a-LL	Ab:min	.	.	Pedal: Cm
+24g	C:min	.	.	Pedal: Cm
+24f#JJ	C:dim	.	.	Pedal: Cm
+8f#	.	.	.	Pedal: Cm
+4r	.	.	.	Pedal: Cm
 =4	=4	=4	=4	=4
-4r	C:min	.	.	.
-[4gg	.	.	.	.
+4r	C:min	.	.	Pedal: Cm
+[4gg	.	.	.	Pedal: Cm
 =5	=5	=5	=5	=5
-8gg]	.	.	.	.
-24ggLL	.	.	.	.
-24gg	.	.	.	.
-24ggJJ	.	.	.	.
-24ggLL	.	.	.	.
-24gg	.	.	.	.
-24ggJJ	.	.	.	.
-24ggLL	.	.	.	.
-24gg	.	.	.	.
-24ggJJ	.	.	.	.
+8gg]	.	.	.	Pedal: Cm
+24ggLL	.	.	.	Pedal: Cm
+24gg	.	.	.	Pedal: Cm
+24ggJJ	.	.	.	Pedal: Cm
+24ggLL	.	.	.	Pedal: Cm
+24gg	.	.	.	Pedal: Cm
+24ggJJ	.	.	.	Pedal: Cm
+24ggLL	.	.	.	Pedal: Cm
+24gg	.	.	.	Pedal: Cm
+24ggJJ	.	.	.	Pedal: Cm
 =6	=6	=6	=6	=6
 24aa-LL	Ab:min	.	.	.
 24gg	C:min	.	.	.

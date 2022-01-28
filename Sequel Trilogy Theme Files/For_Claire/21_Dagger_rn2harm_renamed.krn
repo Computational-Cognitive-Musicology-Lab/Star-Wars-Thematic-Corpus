@@ -11,35 +11,36 @@
 *C:	*C:	*C:	*	*
 *M4/4	*M4/4	*M4/4	*	*
 =1	=1	=1	=1	=1
+*MM85   *   *   *   *
 4d#	D#:min	.	.	Pedal: Em
-4a#	.	.	.	.
-4dd#	.	.	.	.
-[4gg	E:min	.	.	.
+4a#	.	.	.	Pedal: Em
+4dd#	.	.	.	Pedal: Em
+[4gg	E:min	.	.	Pedal: Em
 =2	=2	=2	=2	=2
 *M3/4	*M3/4	*M3/4	*	*
-4gg]	.	.	.	.
-[4a#	D#:min	.	.	.
+4gg]	.	.	.	Pedal: Em
+[4a#	D#:min	.	.	Pedal: Em
 16a#LL]	.	.	.	Pedal: D#m
-16g	E:min	.	.	.
+16g	E:min	.	.	Pedal: D#m
 16f#	D#:min	.	.	Pedal: Em
-16eJJ	E:min	.	.	.
+16eJJ	E:min	.	.	Pedal: Em
 =3	=3	=3	=3	=3
 *^	*	*	*	*
 *	*	*	*	*	*
-16d#LL	4ryy	D#:min	.	.	.
-16c	.	F:min	.	.	.
-16B	.	E:min	.	.	.
-[16A#JJ	.	D#:min	.	.	.
-2A#]	4ryy	.	.	.	.
-.	4r	.	.	.	.
+16d#LL	4ryy	D#:min	.	.	Pedal: Em
+16c	.	F:min	.	.	Pedal: Em
+16B	.	E:min	.	.	Pedal: Em
+[16A#JJ	.	D#:min	.	.	Pedal: Em
+2A#]	4ryy	.	.	.	Pedal: Em
+.	4r	.	.	.	Pedal: Em
 *v	*v	*	*	*	*
 *	*	*	*	*
 =4	=4	=4	=4	=4
 4r	.	.	.	Pedal: Em/B
-(16f#LL	D#:min	.	.	.
-16A#	.	.	.	.
-16e	E:min	.	.	.
-16d#JJ	D#:min	.	.	.
-4G)	E:min	.	.	.
+(16f#LL	D#:min	.	.	Pedal: Em/B
+16A#	.	.	.	Pedal: Em/B
+16e	E:min	.	.	Pedal: Em/B
+16d#JJ	D#:min	.	.	Pedal: Em/B
+4G)	E:min	.	.	Pedal: Em/B
 =	=	=	=	=
 *-	*-	*-	*-	*-

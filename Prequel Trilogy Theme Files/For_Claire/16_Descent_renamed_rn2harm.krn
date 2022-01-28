@@ -11,30 +11,31 @@
 *a:	*a:	*a:	*	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
+*MM72   *   *   *   *   *   *
 2e	A:min	i	.	Pedal: A	.	.
-8dL	.	.	.	.	.	.
-8c	.	.	.	.	.	.
-8d	.	.	.	.	.	.
-8BJ	.	.	.	.	.	.
+8dL	.	.	.	Pedal: A	.	.
+8c	.	.	.	Pedal: A	.	.
+8d	.	.	.	Pedal: A	.	.
+8BJ	.	.	.	Pedal: A	.	.
 =2	=2	=2	=2	=2	=2	=2
-2c	A:min(m6)	.	.	.	.	.
-4A	.	.	.	.	.	.
-4a	.	.	.	.	.	.
+2c	A:min(m6)	.	.	Pedal: A	.	.
+4A	.	.	.	Pedal: A	.	.
+4a	.	.	.	Pedal: A	.	.
 =3	=3	=3	=3	=3	=3	=3
-2a	.	-?IIA4P5ma7	.	.	.	.
-8b-L	.	.	.	.	.	.
-8a	Bb:maj7	.	.	.	.	.
-8b-	.	.	.	.	.	.
-8gJ	.	.	.	.	.	.
+2a	.	-?IIA4P5ma7	.	Pedal: A	.	.
+8b-L	.	.	.	Pedal: A	.	.
+8a	Bb:maj7	.	.	Pedal: A	.	.
+8b-	.	.	.	Pedal: A	.	.
+8gJ	.	.	.	Pedal: A	.	.
 =4	=4	=4	=4	=4	=4	=4
-4e	Bb:maj7/7	.	.	.	.	.
-4f	.	.	.	.	.	.
+4e	Bb:maj7/7	.	.	Pedal: A	.	.
+4f	.	.	.	Pedal: A	.	.
 6G	.	-vii7	.	.	.	.
 6f	.	.	.	.	.	.
 12fL	G:min7	.	.	.	.	.
 12eJ	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-2f	A:min(m6)	i	.	.	.	.
+2f	A:min(m6)	i	.	.	{PC}	.
 8cL	A:min	.	.	.	.	.
 8B	.	.	.	.	.	.
 8c	.	.	.	.	.	.

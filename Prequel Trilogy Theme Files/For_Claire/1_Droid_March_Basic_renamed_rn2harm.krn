@@ -12,24 +12,24 @@
 *M4/4	*M4/4	*M4/4	*	*	*
 =1	=1	=1	=1	=1	=1
 *MM100	*	*	*	*	*
-4r	.	Cm:	.	Pedal: C	.
-8cc	C:min	i	.	.	.
-8r	.	.	.	.	.
-16ccLL	.	.	.	.	.
-16ddJ	.	.	.	.	.
-8ddJ	D:min7(D5)/m7	iio/7	.	.	.
-8r	.	.	.	.	.
-8ee-	C:min	i	.	.	.
+4r	.	.	.	Pedal: C	.
+8cc	C:min	i	.	Pedal: C	.
+8r	.	.	.	Pedal: C	.
+16ccLL	.	.	.	Pedal: C	.
+16ddJ	.	.	.	Pedal: C	.
+8ddJ	D:min7(D5)/m7	iio/7	.	Pedal: C	.
+8r	.	.	.	Pedal: C	.
+8ee-	C:min	i	.	Pedal: C	.
 =2	=2	=2	=2	=2	=2
-8r	.	.	.	.	.
-16ggLL	.	.	.	.	.
-16ffJJ	.	.	.	.	.
-8.ffL	F:min/5	iv	.	.	.
-16ee-Jk	.	.	.	.	.
-8.ee-L	C:min	i	.	.	.
-16ddJk	.	.	.	.	.
-8ddL	G:min/4	v	.	.	.
-8gJ	.	.	.	.	//
+8r	.	.	.	Pedal: C	.
+16ggLL	.	.	.	Pedal: C	.
+16ffJJ	.	.	.	Pedal: C	.
+8.ffL	F:min/5	iv	.	Pedal: C	.
+16ee-Jk	.	.	.	Pedal: C	.
+8.ee-L	C:min	i	.	Pedal: C	.
+16ddJk	.	.	.	Pedal: C	.
+8ddL	G:min/4	v	.	Pedal: C	.
+8gJ	.	.	.	Pedal: C	//
 =3	=3	=3	=3	=3	=3
 12fL	F:min/m3	ivb	.	.	.
 12a-	.	.	.	.	.
@@ -44,6 +44,6 @@
 12a-	.	.	.	.	.
 12gJ	.	.	.	.	.
 4f#	Ab:7(D5)	Fr+6	.	.	.
-2c	C:min	i	.	.	]]
+2c	C:min	i	.	.	{CC}]]
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
