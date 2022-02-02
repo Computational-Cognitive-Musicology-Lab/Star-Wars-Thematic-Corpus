@@ -11,15 +11,14 @@
 *D-:	*D-:	*D-:	*	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-*MM90   *   *   *   *   *   *
-4aa-	Db/3	.	.	.	.	}**Bass follows melody in parallel 10ths in mm. 1,3,5,7
-4gg-	.	Ib	.	.	.	.
+4aa-	Db/3	Ib	.	.	.	Bass follows melody in parallel 10ths in mm. 1,3,5,7
+4gg-	.	.	.	.	.	.
 4aa-	.	.	.	.	.	.
 4dd-	Db	I	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
 4ee-	Eb:min7/m7	ii7d	.	.	.	.
 4ff	.	.	.	.	.	.
-4gg-	.	V7b	.	.	{HC}	.
+4gg-	.	V7b	.	.	HC	.
 4a-	Ab:7/3	.	.	.	//	.
 =3	=3	=3	=3	=3	=3	=3
 4aa-	Db/3	Ib	.	.	.	.
@@ -27,9 +26,9 @@
 4aa-	.	.	.	.	.	.
 4ddd-	Db/5	Ic	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-4aan	Gb:min	iv=Fb:ii	.	.	.	.
+4aan	Gb:min	iv=ii	.	.	.	.
 4gg#	.	.	.	.	.	.
-4aa	B:7(2,*3)	-VII7=V7/Fb	Var1:V7/bIII	.	{HC}	}**Enharmonic modulation here to key minor third above tonic (bIII/Db)
+4aa	B:7(2,*3)	-VII7=V7/Fb	Var1:V7/bIII	.	HC	Enharmonic modulation here to key minor third above tonic (bIII/Db)
 4bn	B:7	.	.	.	//	.
 =5||	=5||	=5||	=5||	=5||	=5||	=5||
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*	*
@@ -48,18 +47,18 @@
 4eee	E	I	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
 2aa	F#:min/5	iic=Db:iv	.	.	.	.
-2b#	G#	V7/vi=Db:V	.	.	{HC}	.
+2b#	G#	V7/vi=Db:V	.	.	HC	.
 =9||	=9||	=9||	=9||	=9||	=9||	=9||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*	*
 *D-:	*D-:	*D-:	*	*	*	*
-4a-	Db/3	.	.	.	.	.
-4gn	.	Ib	.	.	.	.
+4a-	Db/3	Ib	.	.	.	.
+4gn	.	.	.	.	.	.
 4a-	.	.	.	.	.	.
 4d-	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
 4e-	Eb:min7/m3	ii7b	.	.	.	.
 4f	.	.	.	.	.	.
-4g-	.	V7b	.	.	{HC}	.
+4g-	.	V7b	.	.	HC	.
 4A-	Ab:7/3	.	.	.	//	.
 =11	=11	=11	=11	=11	=11	=11
 4a-	Db	I	.	.	.	.
@@ -86,7 +85,7 @@
 4ee--	Db/5	-II	.	.	.	.
 4dd-	.	.	.	.	.	.
 4cc	Ab:7	V	.	.	.	.
-4c	.	.	.	.	{PAC}	.
+4c	.	.	.	.	PAC	.
 =17	=17	=17	=17	=17	=17	=17
 1d-	Db	I	.	.	.	.
 =	=	=	=	=	=	=

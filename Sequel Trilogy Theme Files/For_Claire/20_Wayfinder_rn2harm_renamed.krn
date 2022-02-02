@@ -11,10 +11,9 @@
 *C:	*C:	*C:	*	*	*
 *M3/4	*M3/4	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1
-*MM80   *   *   *   *   *
-4r	.	.	Pedal: G	.	}**Atonal, no RNs provided
-4B-	.	.	Pedal: G	.	%Ebm|Gm
-4a-t	.	.	Pedal: G	.	%Dbm|Gm
+4r	.	.	Pedal: G	.	Atonal, no RNs provided
+4B-	.	.	.	.	%Ebm|Gm
+4a-t	.	.	.	.	%Dbm|Gm
 =2	=2	=2	=2	=2	=2
 4r	.	.	Pedal: G	.	.
 4B-	.	.	Pedal: G	.	%Ebm|Gm
