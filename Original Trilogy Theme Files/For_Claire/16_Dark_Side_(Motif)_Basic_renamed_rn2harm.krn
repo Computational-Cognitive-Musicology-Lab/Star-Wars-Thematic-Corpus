@@ -7,8 +7,8 @@
 !!!ENC2: John McNamara
 **kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefF4	*	*	*	*	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
-*B-:	*B-:	*B-:	*	*	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
+*b-:	*b-:	*b-:	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*
 =1	=1	=1	=1	=1	=1
 *MM50	*	*	*	*	*
@@ -19,18 +19,18 @@
 8r	.	.	.	.	.
 4r	.	.	.	Pedal: Bb	.
 =3	=3	=3	=3	=3	=3
-16e-^KL	.	.	.	.	.
-[8.d-J	.	.	.	.	.
-2d-_	.	.	.	.	.
+16e-^KL	.	.	.	Pedal: Bb	.
+[8.d-J	.	.	.	Pedal: Bb	.
+2d-_	.	.	.	Pedal: Bb	.
 =4	=4	=4	=4	=4	=4
-2.d-_	.	.	.	.	.
+2.d-_	.	.	.	Pedal: Bb	.
 =5	=5	=5	=5	=5	=5
 *M4/4	*M4/4	*M4/4	*	*	*
-8d-]	.	.	.	.	//
-8r	.	.	.	.	.
-2.r	.	Bbm:	.	.	.
+8d-]	.	.	.	Pedal: Bb	//
+8r	.	.	.	Pedal: Bb	.
+2.r	.	.	.	Pedal: Bb	.
 =6	=6	=6	=6	=6	=6
-1r	.	.	.	.	.
+1r	.	.	.	Pedal: Bb	.
 =7	=7	=7	=7	=7	=7
 2.D-	Bb:min	i	.	.	.
 4D-	.	.	.	.	.

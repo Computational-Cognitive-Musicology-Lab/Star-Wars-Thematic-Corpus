@@ -11,66 +11,67 @@
 *d:	*d:	*d:	*	*	*	*
 *M3/2	*M3/2	*M3/2	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-2.d	D:min	i	.	D	.	.
-4e	.	.	.	.	.	.
-2f	.	.	.	.	.	}**An active 8th note ostinato undergirds this entire theme
+*MM184  *   *   *   *   *   *
+2.d	D:min	i	.	Pedal: D	.	.
+4e	.	.	.	Pedal: D	.	.
+2f	.	.	.	Pedal: D	.	}**An active 8th note ostinato undergirds this entire theme
 =2	=2	=2	=2	=2	=2	=2
-2.f	Bb/3	VI	.	.	.	.
-2.e	.	.	.	.	.	.
+2.f	Bb/3	VI	.	Pedal: D	.	.
+2.e	.	.	.	Pedal: D	.	.
 =3	=3	=3	=3	=3	=3	=3
-2.c	E:min/m7	ii	.	.	.	.
-2.e	.	.	.	.	.	.
+2.c	E:min/m7	ii	.	Pedal: D	.	.
+2.e	.	.	.	Pedal: D	.	.
 =4	=4	=4	=4	=4	=4	=4
-2.e	E:min/m7	.	.	.	.	.
-[2.d	D:min	i	.	.	.	.
+2.e	E:min/m7	.	.	Pedal: D	.	.
+[2.d	D:min	i	.	Pedal: D	.	.
 =5	=5	=5	=5	=5	=5	=5
 *M2/2	*M2/2	*M2/2	*	*	*	*
-1d_	D:min	i	.	.	//	.
+1d_	D:min	i	.	Pedal: D	//	.
 =6	=6	=6	=6	=6	=6	=6
-1d_	Bb/3	VI	.	.	.	.
+1d_	Bb/3	VI	.	Pedal: D	.	.
 =7	=7	=7	=7	=7	=7	=7
-8d]	D:min	i	.	.	.	.
-8r	.	.	.	.	.	.
-4r	.	.	.	.	.	.
-2r	.	.	.	.	.	.
+8d]	D:min	i	.	Pedal: D	.	.
+8r	.	.	.	Pedal: D	.	.
+4r	.	.	.	Pedal: D	.	.
+2r	.	.	.	Pedal: D	.	.
 =8	=8	=8	=8	=8	=8	=8
-1r	Bb/3	VI	.	.	.	.
+1r	Bb/3	VI	.	Pedal: D	.	.
 =9	=9	=9	=9	=9	=9	=9
 *M3/2	*M3/2	*M3/2	*	*	*	*
-2.d	.	i	.	.	.	.
-.	D:min	.	.	.	.	.
-4e	.	.	.	.	.	.
-2f	.	.	.	.	.	.
+2.d	.	i	.	Pedal: D	.	.
+.	D:min	.	.	Pedal: D	.	.
+4e	.	.	.	Pedal: D	.	.
+2f	.	.	.	Pedal: D	.	.
 =10	=10	=10	=10	=10	=10	=10
-2.f	Bb/3	VI	.	.	.	.
-2.e	.	.	.	.	.	.
+2.f	Bb/3	VI	.	Pedal: D	.	.
+2.e	.	.	.	Pedal: D	.	.
 =11	=11	=11	=11	=11	=11	=11
-2.c	E:min/m7	ii	.	.	.	.
-2.e	.	.	.	.	.	.
+2.c	E:min/m7	ii	.	Pedal: D	.	.
+2.e	.	.	.	Pedal: D	.	.
 =12	=12	=12	=12	=12	=12	=12
-2.e	E:min/m7	.	.	.	.	.
-[2.d	D:min	ii	.	.	.	.
+2.e	E:min/m7	.	.	Pedal: D	.	.
+[2.d	D:min	ii	.	Pedal: D	.	.
 =13	=13	=13	=13	=13	=13	=13
 *M2/2	*M2/2	*M2/2	*	*	*	*
-1d_	D:min	.	.	.	//	.
+1d_	D:min	.	.	Pedal: D	//	.
 =14	=14	=14	=14	=14	=14	=14
-1d_	D:min	.	.	.	.	.
+1d_	D:min	.	.	Pedal: D	.	.
 =15	=15	=15	=15	=15	=15	=15
-8d]	D:min	.	.	.	.	.
-8r	.	.	.	.	.	.
-4r	.	.	.	.	.	.
-2r	.	.	.	.	.	.
+8d]	D:min	.	.	Pedal: D	.	.
+8r	.	.	.	Pedal: D	.	.
+4r	.	.	.	Pedal: D	.	.
+2r	.	.	.	Pedal: D	.	.
 =16	=16	=16	=16	=16	=16	=16
-1r	D:min	.	.	.	.	.
+1r	D:min	.	.	Pedal: D	.	.
 =17	=17	=17	=17	=17	=17	=17
 *M3/2	*M3/2	*M3/2	*	*	*	*
-[2f	D:min	i	.	.	.	.
-4.f]	.	.	.	.	.	.
-8g	.	.	.	.	.	.
-2a	.	.	.	.	.	.
+[2f	D:min	i	.	Pedal: D	.	.
+4.f]	.	.	.	Pedal: D	.	.
+8g	.	.	.	Pedal: D	.	.
+2a	.	.	.	Pedal: D	.	.
 =18	=18	=18	=18	=18	=18	=18
-2.a	Bb:maj7/3	VI7	.	.	.	.
-2.g	E:min7(D5)/m7	ii/7	.	.	.	.
+2.a	Bb:maj7/3	VI7	.	Pedal: D	.	.
+2.g	E:min7(D5)/m7	ii/7	.	Pedal: D	.	.
 =19	=19	=19	=19	=19	=19	=19
 *M2/2	*M2/2	*M2/2	*	*	*	*
 8dL	D:min	i	.	.	.	.
@@ -80,13 +81,13 @@
 8fL	.	.	.	.	.	.
 8eJ	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-4e	D:min/4	i	var1 iv	.	]]	.
+4e	D:min/4	i	var1 iv	.	{MC}	.
 2.f	D:min/5	.	var1 v	.	.	.
 =21	=21	=21	=21	=21	=21	=21
-1r	D:min	.	.	D	.	.
+1r	D:min	.	.	Pedal: D	]]	.
 =22	=22	=22	=22	=22	=22	=22
-1r	D:min	.	.	.	.	.
+1r	D:min	.	.	Pedal: D	.	.
 =23	=23	=23	=23	=23	=23	=23
-1r	.	.	.	.	.	.
+1r	.	.	.	Pedal: D	.	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

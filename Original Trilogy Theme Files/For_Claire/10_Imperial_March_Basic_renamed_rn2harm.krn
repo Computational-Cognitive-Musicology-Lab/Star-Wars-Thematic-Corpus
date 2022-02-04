@@ -13,21 +13,21 @@
 =1	=1	=1	=1	=1	=1
 *MM110	*	*	*	*	*
 4g	G:min	i	.	Pedal: G	.
-4g	.	.	.	.	.
-4g	.	.	.	.	.
-8.e-L	Eb:min	-vi	.	.	.
-16b-Jk	.	.	.	.	.
+4g	.	.	.	Pedal: G	.
+4g	.	.	.	Pedal: G	.
+8.e-L	Eb:min	-vi	.	Pedal: G	.
+16b-Jk	.	.	.	Pedal: G	.
 =2	=2	=2	=2	=2	=2
-4g	G:min	i	.	.	.
-8.e-L	Eb:min	-vi	.	.	.
-16b-Jk	.	.	.	.	.
-2g	G:min	i	.	.	.
+4g	G:min	i	.	Pedal: G	.
+8.e-L	Eb:min	-vi	.	Pedal: G	.
+16b-Jk	.	.	.	Pedal: G	.
+2g	G:min	i	.	Pedal: G	.
 =3	=3	=3	=3	=3	=3
-4dd	G:min	.	.	.	.
-4dd	.	.	.	.	.
-4dd	.	.	.	.	.
-8.ee-L	Eb:min	-vi	.	.	.
-16b-Jk	.	.	.	.	.
+4dd	G:min	.	.	Pedal: G	.
+4dd	.	.	.	Pedal: G	.
+4dd	.	.	.	Pedal: G	.
+8.ee-L	Eb:min	-vi	.	Pedal: G	.
+16b-Jk	.	.	.	Pedal: G	.
 =4	=4	=4	=4	=4	=4
 4g-	Eb:min	.	.	.	.
 8.e-L	C:min7(D5)	ivom7	.	.	.

@@ -11,6 +11,7 @@
 *c:	*c:	*c:	*	*	*
 *M6/8	*M6/8	*M6/8	*	*	*
 =1	=1	=1	=1	=1	=1
+*MM84   *   *   *   *   *
 8CL	i	.	.	.	}**Theme not harmonized with triads; tonal functions lightly implied by melody
 16r	.	.	.	.	.
 16E-k	.	.	.	.	.
@@ -41,7 +42,7 @@
 8F	.	var1 V	.	.	.
 4D	.	.	.	.	.
 =5	=5	=5	=5	=5	=5
-8r	.	i	.	.	.
+8r	.	i	.	{IAC}	.
 16CLL	.	.	.	.	.
 16F	.	.	.	.	.
 16F	.	.	.	.	.

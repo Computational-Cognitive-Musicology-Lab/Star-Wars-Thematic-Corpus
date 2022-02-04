@@ -8,26 +8,26 @@
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*	*
-*	*	*	*	*	*	*
+*C:	*C:	*C:	*	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*	*
 *MM150	*	*	*	*	*	*
-16ff	.	C:	.	.	.	}**Key flexible, sometimes indeterminate
+16ff	.	.	.	.	.	}**Key flexible, sometimes indeterminate
 =1	=1	=1	=1	=1	=1	=1
 4ff	Bb	-VII	.	Pedal: C	.	.
-16ddKL	G	V	.	.	.	.
-8r	.	.	.	.	.	.
-16ffJk	C	.	.	.	.	.
-4ff	Bb	-VII	.	.	.	.
-16ddKL	G	V	.	.	.	.
-8r	.	.	.	.	.	.
-16aa-Jk	.	.	.	.	.	.
+16ddKL	G	V	.	Pedal: C	.	.
+8r	.	.	.	Pedal: C	.	.
+16ffJk	C	.	.	Pedal: C	.	.
+4ff	Bb	-VII	.	Pedal: C	.	.
+16ddKL	G	V	.	Pedal: C	.	.
+8r	.	.	.	Pedal: C	.	.
+16aa-Jk	.	.	.	Pedal: C	.	.
 =2	=2	=2	=2	=2	=2	=2
-4aa-	Db	-II	.	.	.	.
-8ggL	C	I	.	.	.	.
-16aa-L	Db	-II	.	.	.	.
-16ggJJ	C	I	.	.	.	.
-8ffL	Bb	-VII	.	.	.	.
-(8ddJ	G	V	.	.	.	.
-4dd)	.	.	.	.	;;	.
+4aa-	Db	-II	.	Pedal: C	.	.
+8ggL	C	I	.	Pedal: C	.	.
+16aa-L	Db	-II	.	Pedal: C	.	.
+16ggJJ	C	I	.	Pedal: C	.	.
+8ffL	Bb	-VII	.	Pedal: C	.	.
+(8ddJ	G	V	.	Pedal: C	.	.
+4dd)	.	.	.	Pedal: C	;;	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

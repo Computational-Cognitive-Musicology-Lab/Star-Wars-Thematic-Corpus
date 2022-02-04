@@ -11,20 +11,20 @@
 *A:	*A:	*A:	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*
 *MM75	*	*	*	*	*
-4B	.	A:	.	Pedal: A	.
+4B	.	.	.	Pedal: A	.
 =1	=1	=1	=1	=1	=1
-4e	A	I	.	.	.
-4a	.	.	.	.	.
-4b	B/m7	V/V	.	.	.
-4ff#	.	.	.	.	.
+4e	A	I	.	Pedal: A	.
+4a	.	.	.	Pedal: A	.
+4b	B/m7	V/V	.	Pedal: A	.
+4ff#	.	.	.	Pedal: A	.
 =2	=2	=2	=2	=2	=2
-4ff#	G#:7/m2	VII7	.	.	.
-8eeL	.	.	.	.	.
-8dd#J	.	.	.	.	.
-4dd#	A	I	.	.	.
-4ee	.	.	.	.	.
+4ff#	G#:7/m2	VII7	.	Pedal: A	.
+8eeL	.	.	.	Pedal: A	.
+8dd#J	.	.	.	Pedal: A	.
+4dd#	A	I	.	Pedal: A	.
+4ee	.	.	.	Pedal: A	.
 =3	=3	=3	=3	=3	=3
-4ffn	F:7/7	Gn+6	.	Pedal:	.
+4ffn	F:7/7	Gn+6	.	Pedal: E	.
 8aL	.	.	.	E	.
 8ccnJ	.	.	.	.	.
 4d#	.	.	.	.	.
