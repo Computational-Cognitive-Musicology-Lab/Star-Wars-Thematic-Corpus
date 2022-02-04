@@ -26,9 +26,9 @@
 4aa-	.	.	.	.	.	.
 4ddd-	Db/5	Ic	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-4aan	Gb:min	iv=ii	.	.	.	.
+4aan	Gb:min	iv	.	.	.	.
 4gg#	.	.	.	.	.	.
-4aa	B:7(2,*3)	-VII7=V7/Fb	Var1:V7/bIII	.	HC	Enharmonic modulation here to key minor third above tonic (bIII/Db)
+4aa	B:7(2,*3)	-VII7=V7	Var1:V7/bIII	.	HC	Enharmonic modulation here to key minor third above tonic (bIII/Db)
 4bn	B:7	.	.	.	//	.
 =5||	=5||	=5||	=5||	=5||	=5||	=5||
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*	*
@@ -46,8 +46,8 @@
 4bb	.	.	.	.	.	.
 4eee	E	I	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
-2aa	F#:min/5	iic=Db:iv	.	.	.	.
-2b#	G#	V7/vi=Db:V	.	.	HC	.
+2aa	F#:min/5	iic	.	.	.	.
+2b#	G#	V7/vi=V	.	.	HC	.
 =9||	=9||	=9||	=9||	=9||	=9||	=9||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*	*
 *D-:	*D-:	*D-:	*	*	*	*
