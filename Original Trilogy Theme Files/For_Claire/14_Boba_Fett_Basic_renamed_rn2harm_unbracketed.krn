@@ -8,9 +8,8 @@
 **kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefFv4	*	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*	*
-*	*	*	*	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
 *MM58	*MM58	*MM58	*	*	*	*
 24DD-LL	.	.	.	.	.	.
 24DD-	Bb:min(*5)	.	.	.	.	.
