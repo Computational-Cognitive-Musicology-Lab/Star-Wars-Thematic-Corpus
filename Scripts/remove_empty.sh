@@ -15,15 +15,15 @@ do
         # echo "$removed";
         # myVar=`echo $removed | sed 's/ *$//g'`
         # echo $myVar
-        python "../../Scripts/remove_empty.py" $k
-        # if [ "$myVar" == '' ];
-        # then
-        #     # echo $k
-        #     # echo "is empty"
+        # python "../../Scripts/remove_empty.py" $k
+        if [ "$myVar" == '' ];
+        then
+            echo $k
+            # echo "is empty"
         #     # assemble new_name spine > new_name;
-        # else
-        #     # echo "not empty"
-        # fi
+        else
+            echo "not empty"
+        fi
     done
 
 done
