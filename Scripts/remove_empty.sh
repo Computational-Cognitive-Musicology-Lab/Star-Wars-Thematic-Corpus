@@ -16,7 +16,7 @@ do
         # myVar=`echo $removed | sed 's/ *$//g'`
         # echo $myVar
         # python "../../Scripts/remove_empty.py" $k
-        if [ "$myVar" == '' ];
+        if [ "$removed" == "" ];
         then
             echo $k
             # echo "is empty"
