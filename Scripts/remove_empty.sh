@@ -5,26 +5,23 @@ for i in "$@"
 do
     old_name="$i"
     new_name=${old_name%.*}_remove_empty.krn
+    # echo "" > $new_name
     array=$(seq 1 7)
-    let k=0
+    fstring=""
+
     for j in $array;
     do
-        # spine= extract -f $j $i;
-        let k++;
-        removed= extractx -s $j $i | ridx -GLIdM;
-        # echo "$removed";
-        # myVar=`echo $removed | sed 's/ *$//g'`
-        # echo $myVar
-        # python "../../Scripts/remove_empty.py" $k
-        #if [ "$removed" == "" ];
+        removed=$(extract -f $j $i | ridx -GLIdM);
+
 	if [ -z "$removed" ]
         then
-            echo $k
-            # echo "is empty"
-        #     # assemble new_name spine > new_name;
+            array=( "${array[@]/$j}" ) 
         else
-            echo "not empty"
+            fstring="$fstring,$j"
         fi
     done
+
+    fstring="${fstring:1}"
+    extract -f ${fstring} ${i} > $new_name
 
 done
