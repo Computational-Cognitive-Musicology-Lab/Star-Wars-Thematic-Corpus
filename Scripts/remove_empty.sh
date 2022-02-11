@@ -11,12 +11,13 @@ do
     do
         # spine= extract -f $j $i;
         let k++;
-        removed= extract -f $j $i | ridx -GLIdM;
+        removed= extractx -s $j $i | ridx -GLIdM;
         # echo "$removed";
         # myVar=`echo $removed | sed 's/ *$//g'`
         # echo $myVar
         # python "../../Scripts/remove_empty.py" $k
-        if [ "$removed" == "" ];
+        #if [ "$removed" == "" ];
+	if [ -z "$removed" ]
         then
             echo $k
             # echo "is empty"
