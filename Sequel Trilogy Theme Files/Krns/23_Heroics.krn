@@ -1,47 +1,36 @@
-**kern
+**kern	**text	**text	**text	**text	**harte
 !!pagebreak:original
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-!LO:TX:t=[quarter]=150
-!LO:TX:a:t=B¨
-!LO:TX:b:t=I = BbLength = 10 mm. [4+6]
-2.B-
-=2
-!LO:TX:a:t=A¨
-4.e-
-!LO:TX:a:t=B¨/A¨
-4.d
-=3
-!LO:TX:a:t=D¨
-2.f
-=4
-!LO:TX:a:t=B¨
-2.B-
-=5
-!LO:TX:a:t=F
-4.F
-4.c
-=6
-!LO:TX:a:t=D¨
-4.a-X
-4.e-
-=7
-!LO:TX:a:t=B¨/F
-2.b-
-=8
-!LO:TX:a:t=B¨/F
-4.f
-4.B-
-=9
-!LO:TX:a:t=Cm7b5/F
-4.e-
-4.c
-=10
-!LO:TX:a:t=B¨
-2.f
-=
-*-
+*clefG2	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*
+*B-:	*	*	*	*	*
+*M3/4	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+2.B-	I	.	.	.	.
+.	.	.	.	.	Bb
+=2	=2	=2	=2	=2	=2
+4.e-	bVII	.	.	.	Ab
+4.d	.	.	.	.	Bb/b7
+=3	=3	=3	=3	=3	=3
+2.f	bIII	.	.	.	Db
+=4	=4	=4	=4	=4	=4
+2.B-	I	.	.	//	Bb
+=5	=5	=5	=5	=5	=5
+4.F	V	.	.	.	F
+4.c	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+4.a-X	bIII	.	.	.	Db
+4.e-	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+2.b-	C64	.	.	.	Bb/5
+=8	=8	=8	=8	=8	=8
+4.f	.	.	.	.	Bb/5
+4.B-	.	.	.	.	.
+=9	=9	=9	=9	=9	=9
+4.e-	V7[b9,11]	.	.	.	.
+.	.	.	.	.	C:min7(b5)/4
+4.c	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+2.f	I	.	.	]]	Bb
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1)]

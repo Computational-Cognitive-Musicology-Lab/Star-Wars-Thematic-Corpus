@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2022-01-05</encoding-date>
+   <encoding-date>2022-02-10</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -73,6 +73,11 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -95,7 +100,7 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="174">
+  <measure number="1" width="171">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -125,35 +130,7 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <direction>
-    <direction-type>
-     <words default-x="18" default-y="-80" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.0354" font-weight="normal">I = B</words>
-     <words justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="9.0354" font-weight="normal">b</words>
-     <words justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.0354" font-weight="normal"> </words>
-     <words justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.0354" font-weight="normal">Length = 10 mm. [4+6]</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <metronome default-y="27" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.0354" font-weight="normal">
-      <beat-unit>quarter</beat-unit>
-      <per-minute>150</per-minute>
-     </metronome>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <words default-x="121" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨</words>
-    </direction-type>
-    <offset sound="no">192</offset>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <note color="#000000" default-x="104" default-y="-20">
+   <note color="#000000" default-x="103" default-y="-20">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -166,18 +143,38 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>Bb:</text>
+    </lyric>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>I</text>
+    </lyric>
    </note>
+   <backup>
+    <duration>576</duration>
+   </backup>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <staff>1</staff>
+   </harmony>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="109">
-   <direction>
-    <direction-type>
-     <words default-x="25" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">A¨</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="2" width="108">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>A</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
-   <note color="#000000" default-x="16" default-y="-5">
+   </harmony>
+   <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -190,14 +187,24 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>bVII</text>
+     <extend />
+    </lyric>
    </note>
-   <direction>
-    <direction-type>
-     <words default-x="75" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨/A¨</words>
-    </direction-type>
-    <voice>1</voice>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <bass>
+     <bass-step>A</bass-step>
+     <bass-alter>-1</bass-alter>
+    </bass>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="62" default-y="-10">
     <pitch>
      <step>D</step>
@@ -213,14 +220,15 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="84">
-   <direction>
-    <direction-type>
-     <words default-x="27" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">D¨</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="3" width="81">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -233,17 +241,22 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>bIII</text>
+    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="84">
-   <direction>
-    <direction-type>
-     <words default-x="25" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="4" width="88">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>B</step>
@@ -257,17 +270,25 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>I</text>
+    </lyric>
+    <lyric default-y="-155" number="part1verse4" color="#000000">
+     <syllabic>single</syllabic>
+     <text>//</text>
+    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="108">
-   <direction>
-    <direction-type>
-     <words default-x="22" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">F</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="5" width="107">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>F</root-step>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>F</step>
@@ -280,8 +301,13 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>V</text>
+     <extend />
+    </lyric>
    </note>
-   <note color="#000000" default-x="61" default-y="-15">
+   <note color="#000000" default-x="60" default-y="-15">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -296,15 +322,16 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="109">
-   <direction>
-    <direction-type>
-     <words default-x="26" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">D¨</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="6" width="107">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
-   <note color="#000000" default-x="16" default-y="10">
+   </harmony>
+   <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -318,8 +345,13 @@
     <accidental>flat</accidental>
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>bIII</text>
+     <extend />
+    </lyric>
    </note>
-   <note color="#000000" default-x="63" default-y="-5">
+   <note color="#000000" default-x="61" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -335,14 +367,18 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 7 ==============-->
-  <measure number="7" width="84">
-   <direction>
-    <direction-type>
-     <words default-x="22" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨/F</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="7" width="83">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <bass>
+     <bass-step>F</bass-step>
+    </bass>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>B</step>
@@ -356,17 +392,26 @@
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>C64</text>
+     <extend />
+    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 8 ==============-->
-  <measure number="8" width="108">
-   <direction>
-    <direction-type>
-     <words default-x="22" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨/F</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="8" width="106">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <bass>
+     <bass-step>F</bass-step>
+    </bass>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -380,7 +425,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="61" default-y="-20">
+   <note color="#000000" default-x="60" default-y="-20">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -396,15 +441,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 9 ==============-->
-  <measure number="9" width="108">
-   <direction>
-    <direction-type>
-     <words default-x="37" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">Cm7b5/F</words>
-    </direction-type>
-    <offset sound="no">184</offset>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
+  <measure number="9" width="118">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
@@ -418,8 +455,34 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>V7[b9,11]</text>
+     <extend />
+    </lyric>
    </note>
-   <note color="#000000" default-x="61" default-y="-15">
+   <backup>
+    <duration>200</duration>
+   </backup>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>C</root-step>
+    </root>
+    <kind>minor-seventh</kind>
+    <bass>
+     <bass-step>F</bass-step>
+    </bass>
+    <degree>
+     <degree-value>5</degree-value>
+     <degree-alter>-1</degree-alter>
+     <degree-type>alter</degree-type>
+    </degree>
+    <staff>1</staff>
+   </harmony>
+   <forward>
+    <duration>200</duration>
+   </forward>
+   <note color="#000000" default-x="66" default-y="-15">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -434,14 +497,15 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 10 ==============-->
-  <measure number="10" width="100">
-   <direction>
-    <direction-type>
-     <words default-x="22" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="9.4341" font-weight="normal">B¨</words>
-    </direction-type>
-    <voice>1</voice>
+  <measure number="10" width="98">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>B</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -454,6 +518,18 @@
     <dot />
     <stem>up</stem>
     <staff>1</staff>
+    <lyric default-y="-80" number="part1verse1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>I</text>
+    </lyric>
+    <lyric default-y="-155" number="part1verse4" color="#000000">
+     <syllabic>single</syllabic>
+     <text>{PAC}</text>
+    </lyric>
+    <lyric default-y="-155" number="part1verse4" color="#000000">
+     <syllabic>single</syllabic>
+     <text>]]</text>
+    </lyric>
    </note>
   </measure>
  </part>
