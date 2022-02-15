@@ -5,7 +5,6 @@ for i in "$@"
 do
     old_name="$i"
     new_name=${old_name%.*}_remove_empty.krn
-    # echo "" > $new_name
     array=$(seq 1 7)
     fstring=""
 
