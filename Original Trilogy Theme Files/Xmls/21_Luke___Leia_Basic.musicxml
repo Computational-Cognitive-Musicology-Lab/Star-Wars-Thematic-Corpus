@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-01</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -73,11 +73,6 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -167,7 +162,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="201" default-y="10">
+   <note color="#000000" default-x="202" default-y="10">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -248,6 +243,14 @@
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
   <measure number="2" width="161">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>D</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>major</kind>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -269,14 +272,6 @@
      <extend />
     </lyric>
    </note>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>D</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>major</kind>
-    <staff>1</staff>
-   </harmony>
    <note default-x="42">
     <rest />
     <duration>128</duration>
@@ -298,7 +293,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="97" default-y="-10">
+   <note color="#000000" default-x="98" default-y="-10">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -326,7 +321,24 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="157">
+  <measure number="3" width="154">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>C</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>dominant</kind>
+    <bass>
+     <bass-step>D</bass-step>
+     <bass-alter>-1</bass-alter>
+    </bass>
+    <degree>
+     <degree-value>11</degree-value>
+     <degree-alter>1</degree-alter>
+     <degree-type>add</degree-type>
+    </degree>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>G</step>
@@ -345,24 +357,7 @@
      <extend />
     </lyric>
    </note>
-   <harmony color="#000000" default-y="30">
-    <root>
-     <root-step>C</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>dominant</kind>
-    <bass>
-     <bass-step>D</bass-step>
-     <bass-alter>-1</bass-alter>
-    </bass>
-    <degree>
-     <degree-value>11</degree-value>
-     <degree-alter>1</degree-alter>
-     <degree-type>add</degree-type>
-    </degree>
-    <staff>1</staff>
-   </harmony>
-   <note color="#000000" default-x="50">
+   <note color="#000000" default-x="46">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -374,7 +369,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="82" default-y="-5">
+   <note color="#000000" default-x="79" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -388,7 +383,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="125" default-y="-10">
+   <note color="#000000" default-x="121" default-y="-10">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -403,7 +398,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="142">
+  <measure number="4" width="143">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>D</root-step>
@@ -429,7 +424,7 @@
      <extend />
     </lyric>
    </note>
-   <note color="#000000" default-x="46" default-y="-20">
+   <note color="#000000" default-x="47" default-y="-20">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -653,7 +648,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="125" default-y="-20">
+   <note color="#000000" default-x="126" default-y="-20">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -1048,13 +1043,18 @@
   </measure>
   <!--============== Part: P1, Measure: 13 ==============-->
   <measure number="13" width="136">
-   <direction>
-    <direction-type>
-     <words default-x="22" default-y="30" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="8.7697" font-weight="normal">G¨m(6)</words>
-    </direction-type>
-    <voice>1</voice>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>G</root-step>
+    </root>
+    <kind>minor</kind>
+    <degree>
+     <degree-value>9</degree-value>
+     <degree-alter>0</degree-alter>
+     <degree-type>add</degree-type>
+    </degree>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>B</step>
@@ -1212,13 +1212,23 @@
      <extend />
     </lyric>
    </note>
-   <direction>
-    <direction-type>
-     <words default-x="140" default-y="25" justify="center" valign="middle" font-family="Opus Chords Std" font-style="normal" font-size="8.7697" font-weight="normal">F¨susÊ/C¨</words>
-    </direction-type>
-    <voice>1</voice>
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>F</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>suspended-fourth</kind>
+    <bass>
+     <bass-step>C</bass-step>
+     <bass-alter>-1</bass-alter>
+    </bass>
+    <degree>
+     <degree-value>2</degree-value>
+     <degree-alter>0</degree-alter>
+     <degree-type>add</degree-type>
+    </degree>
     <staff>1</staff>
-   </direction>
+   </harmony>
    <note color="#000000" default-x="155" default-y="5">
     <pitch>
      <step>G</step>
@@ -1651,6 +1661,23 @@
   </measure>
   <!--============== Part: P1, Measure: 21 ==============-->
   <measure number="21" width="171">
+   <harmony color="#000000" default-y="25">
+    <root>
+     <root-step>C</root-step>
+     <root-alter>-1</root-alter>
+    </root>
+    <kind>dominant</kind>
+    <bass>
+     <bass-step>D</bass-step>
+     <bass-alter>-1</bass-alter>
+    </bass>
+    <degree>
+     <degree-value>11</degree-value>
+     <degree-alter>1</degree-alter>
+     <degree-type>add</degree-type>
+    </degree>
+    <staff>1</staff>
+   </harmony>
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>G</step>
@@ -1669,23 +1696,6 @@
      <extend />
     </lyric>
    </note>
-   <harmony color="#000000" default-y="25">
-    <root>
-     <root-step>C</root-step>
-     <root-alter>-1</root-alter>
-    </root>
-    <kind>dominant</kind>
-    <bass>
-     <bass-step>D</bass-step>
-     <bass-alter>-1</bass-alter>
-    </bass>
-    <degree>
-     <degree-value>11</degree-value>
-     <degree-alter>1</degree-alter>
-     <degree-type>add</degree-type>
-    </degree>
-    <staff>1</staff>
-   </harmony>
    <note color="#000000" default-x="52">
     <pitch>
      <step>F</step>

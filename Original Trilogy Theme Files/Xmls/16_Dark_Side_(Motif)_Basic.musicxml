@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-24</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -94,8 +94,8 @@
   <part-group type="stop" number="1" />
  </part-list>
  <part id="P1">
-  <!--============== Part: P1, Measure: 0 ==============-->
-  <measure number="0" width="197">
+  <!--============== Part: P1, Measure: 1 ==============-->
+  <measure number="1" width="250">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -108,8 +108,8 @@
    <attributes>
     <divisions>256</divisions>
     <key color="#000000">
-     <fifths>0</fifths>
-     <mode>major</mode>
+     <fifths>-5</fifths>
+     <mode>minor</mode>
     </key>
     <time color="#000000">
      <beats>4</beats>
@@ -132,7 +132,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="108">
+   <note color="#000000" default-x="169">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -143,15 +143,14 @@
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>whole</type>
-    <accidental>flat</accidental>
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="over" />
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="151">
+  <!--============== Part: P1, Measure: 2 ==============-->
+  <measure number="2" width="141">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -176,7 +175,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note default-x="85">
+   <note default-x="81">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -184,7 +183,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="113">
+   <note default-x="106">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -198,8 +197,8 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="150">
+  <!--============== Part: P1, Measure: 3 ==============-->
+  <measure number="3" width="145">
    <note color="#000000" default-x="17" default-y="-19">
     <pitch>
      <step>E</step>
@@ -210,7 +209,6 @@
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>16th</type>
-    <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
@@ -233,7 +231,6 @@
     <voice>1</voice>
     <type>eighth</type>
     <dot />
-    <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
@@ -261,8 +258,8 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="91">
+  <!--============== Part: P1, Measure: 4 ==============-->
+  <measure number="4" width="85">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>D</step>
@@ -284,8 +281,8 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="205">
+  <!--============== Part: P1, Measure: 5 ==============-->
+  <measure number="5" width="200">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -313,7 +310,7 @@
      <text>//</text>
     </lyric>
    </note>
-   <note default-x="61">
+   <note default-x="59">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -321,7 +318,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="88">
+   <note default-x="84">
     <rest />
     <duration>768</duration>
     <instrument id="P1-I1" />
@@ -335,8 +332,8 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="130">
+  <!--============== Part: P1, Measure: 6 ==============-->
+  <measure number="6" width="119">
    <note>
     <rest />
     <duration>1024</duration>
@@ -346,8 +343,8 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="130">
+  <!--============== Part: P1, Measure: 7 ==============-->
+  <measure number="7" width="120">
    <harmony color="#000000" default-y="25">
     <root>
      <root-step>B</root-step>
@@ -367,7 +364,6 @@
     <voice>1</voice>
     <type>half</type>
     <dot />
-    <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
@@ -376,7 +372,7 @@
      <extend />
     </lyric>
    </note>
-   <note color="#000000" default-x="91" default-y="-55">
+   <note color="#000000" default-x="85" default-y="-55">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -390,8 +386,8 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 7 ==============-->
-  <measure number="7" width="215">
+  <!--============== Part: P1, Measure: 8 ==============-->
+  <measure number="8" width="209">
    <harmony color="#000000" default-y="25">
     <root>
      <root-step>C</root-step>
@@ -409,7 +405,6 @@
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>16th</type>
-    <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
@@ -421,7 +416,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>ii[#5]</text>
+     <text>ii[#3]</text>
     </lyric>
    </note>
    <harmony color="#000000" default-y="25">
@@ -451,7 +446,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>vii[#5]</text>
+     <text>vii[#3]</text>
      <extend />
     </lyric>
    </note>

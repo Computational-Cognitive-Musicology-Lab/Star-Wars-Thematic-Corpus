@@ -1,79 +1,82 @@
-**kern	**text	**text	**text	**text	**harte
-!!pagebreak:original
-*clefG2	*	*	*	*	*
-*k[]	*	*	*	*	*
-*C:	*	*	*	*	*
-*M4/4	*	*	*	*	*
-!LO:TX:t=[quarter]=88	!	!	!	!	!
-16gLL	C:	.	.	.	.
-16gJJ	.	.	.	.	.
-=1	=1	=1	=1	=1	=1
-[4g	I	.	.	.	C
-16gLL]	.	.	.	.	C/b6
-16r	.	.	.	.	.
-16g	.	.	.	.	.
-16gJJ	.	.	.	.	.
-[4g	.	.	.	.	C
-16gKL]	.	.	.	.	C/b6
-16r	.	.	.	.	.
-16gL	.	.	.	.	.
-16gJJ	.	.	.	.	.
-=2	=2	=2	=2	=2	=2
-8gL	.	.	.	.	C
-8ccJ	.	.	.	.	.
-16BLL	.	.	.	.	C/b6
-16cJ	.	.	.	.	.
-8c#XJ	.	.	.	.	.
-8.fL	iv6	.	.	.	F:min6/b3
-16a-XJk	.	.	.	.	.
-8G	I	.	.	.	C
-8r	V/ii	.	.	.	A
-!!linebreak:original
-=3	=3	=3	=3	=3	=3
-8r	V/V	.	.	.	D
-16e-XLL	.	.	.	.	.
-16enJJ	.	.	.	.	.
-8f	.	.	.	.	.
-8r	V/#IV	.	.	.	C#
-8r	#IV	.	.	.	F#
-16fLL	.	.	.	.	.
-16f#XJJ	.	.	.	.	.
-8g	.	.	.	.	.
-8r	V/bVI	.	.	.	Eb
-=4	=4	=4	=4	=4	=4
-8r	bVI	.	.	.	Ab
-16ee-XLL	.	.	.	.	.
-16ee-JJ	.	.	.	.	.
-8ee-L	.	.	.	.	.
-8ee-J	.	.	.	.	.
-8.a-XL	.	.	.	.	.
-32eenLL	.	.	.	.	.
-32ffnJJJ	.	.	.	.	.
-8.ff#XL	bIII	.	.	.	Eb
-32ffnLL	.	.	.	.	.
-32ff#XJJJ	.	.	.	||	.
-!!linebreak:original
-=5	=5	=5	=5	=5	=5
-[4g	I	.	.	.	C
-16gLL]	.	.	.	.	C/b6
-16r	.	.	.	.	.
-16g	.	.	.	.	.
-16gJJ	.	.	.	.	.
-[4g	.	.	.	.	C
-16gKL]	.	.	.	.	C/b6
-16r	.	.	.	.	.
-16gL	.	.	.	.	.
-16gJJ	.	.	.	.	.
-=6	=6	=6	=6	=6	=6
-8gL	.	.	.	.	C
-8ccJ	.	.	.	.	.
-16BLL	.	.	.	.	C/b6
-16cJ	.	.	.	.	.
-8c#XJ	.	.	.	.	.
-8.fL	iv6	.	.	.	F:min6
-16a-XJk	.	.	.	.	.
-8G	I	.	.	//	C
-8r	.	.	.	.	.
-=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]
+!!!COM: John Williams
+!!!OTL: Jar Jar Basic
+!!!GAW: Star Wars: Episode I
+!!!ODT: 1999
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**cadence
+*clefG2	*	*	*
+*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*
+*MM88	*MM88	*MM88	*
+16gLL	.	.	.
+16gJJ	.	.	.
+=1	=1	=1	=1
+[4g	C	I	.
+16gLL]	C/m6	.	.
+16r	.	.	.
+16g	.	.	.
+16gJJ	.	.	.
+[4g	C	.	.
+16gKL]	C/m6	.	.
+16r	.	.	.
+16gL	.	.	.
+16gJJ	.	.	.
+=2	=2	=2	=2
+8gL	C	.	.
+8ccJ	.	.	.
+16BLL	C/m6	.	.
+16cJ	.	.	.
+8c#J	.	.	.
+8.fL	F:min6/m3	ivb	.
+16a-Jk	.	.	.
+8G	C	I	.
+8r	A	V/ii	.
+=3	=3	=3	=3
+8r	D	V/V	.
+16e-LL	.	.	.
+16enJJ	.	.	.
+8f	.	.	.
+8r	C#	V/#IV	.
+8r	F#	#IV	.
+16fLL	.	.	.
+16f#JJ	.	.	.
+8g	.	.	.
+8r	Eb	V/-VI	.
+=4	=4	=4	=4
+8r	Ab	-VI	.
+16ee-LL	.	.	.
+16ee-JJ	.	.	.
+8ee-L	.	.	.
+8ee-J	.	.	.
+8.a-L	.	.	.
+32eenLL	.	.	.
+32ffnJJJ	.	.	.
+8.ff#L	Eb	-III	CHC
+32ffnLL	.	.	.
+32ff#JJJ	.	.	//
+=5	=5	=5	=5
+[4g	C	I	.
+16gLL]	C/m6	.	.
+16r	.	.	.
+16g	.	.	.
+16gJJ	.	.	.
+[4g	C	.	.
+16gKL]	C/m6	.	.
+16r	.	.	.
+16gL	.	.	.
+16gJJ	.	.	.
+=6	=6	=6	=6
+8gL	C	.	PC
+8ccJ	.	.	.
+16BLL	C/m6	.	.
+16cJ	.	.	.
+8c#J	.	.	.
+8.fL	F:min6	ivb	.
+16a-Jk	.	.	.
+8G	C	I	||
+8r	.	.	.
+=	=	=	=
+*-	*-	*-	*-

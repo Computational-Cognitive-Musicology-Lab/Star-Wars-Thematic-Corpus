@@ -1,22 +1,28 @@
-**kern	**text	**text	**text	**text	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: Han and Leia (Love Theme)
+!!!GAW: Star Wars: Episode V: The Empire Strikes Back
+!!!ODT: 1980
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
-*k[f#c#g#d#]	*	*	*	*	*	*
-*E:	*	*	*	*	*	*
-*M4/4	*	*	*	*	*	*
-!LO:TX:t=[quarter]=102	!	!	!	!	!	!
-4B	E:	.	.	.	.	.
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*	*
+*E:	*E:	*E:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*	*
+*MM102	*MM102	*MM102	*	*	*	*
+4B	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
-[2g#	I	.	Pedal: E	.	.	E
+[2g#	E	I	.	Pedal: E	.	.
 8g#L]	.	.	.	.	.	.
 8f#	.	.	.	.	.	.
 8g#	.	.	.	.	.	.
 8bJ	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-2.f#	ii/o7	.	.	.	.	F#:9(b5)/b7
+2.f#	F#:9(D5)/m7	iiom7	.	.	.	.
 4A	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-8fn	bII	.	.	.	.	F/7
+8fn	F/7	-II	.	.	.	.
 8r	.	.	.	.	.	.
 [4f	.	.	.	.	.	.
 8fL]	.	.	.	.	.	.
@@ -24,25 +30,24 @@
 8f	.	.	.	.	.	.
 8aJ	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-2d#X	bII7	var1 Ger/I	.	.	.	F:7/7
-4en	I	.	.	//	.	E
-4B	.	.	.	.	.	.
-!!linebreak:original
+2d#	F:7/7	-II7	var1 Gn/I	.	.	.
+4en	E	I	.	.	//	.
+4B	.	.	.	Pedal: None	.	.
 =5	=5	=5	=5	=5	=5	=5
-[2g#	I	.	.	.	.	E
+[2g#	E	I	.	.	.	.
 8g#L]	.	.	.	.	.	.
 8f#	.	.	.	.	.	.
 8g#	.	.	.	.	.	.
 8bJ	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-4.a	bII	.	.	.	.	F
+4.a	F	-II	.	.	.	.
 8gn	.	.	.	.	.	.
 8fnL	.	.	.	.	.	.
 8g	.	.	.	.	.	.
-8a	.	.	.	.	.	F/7
+8a	F/7	.	.	.	.	.
 8bJ	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-8ccnL	bvii7	.	.	.	.	D:min7
+8ccnL	D:min7	-vii7	.	.	.	.
 8bJ	.	.	.	.	.	.
 [4a	.	.	.	.	.	.
 8aL]	.	.	.	.	.	.
@@ -50,10 +55,9 @@
 8cc	.	.	.	.	.	.
 8ddnJ	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
-[2b	iii	.	.	.	\!!On a larger level G#m serves as Emaj's mediant, but locally it behaves as a nonfunctional tonal deflection-	G#:min
+[2b	G#:min	iii	.	.	.	On a larger level G#m serves as Emaj's mediant, but locally it behaves as a nonfunctional tonal deflection-
 8b]	.	.	.	.	.	.
-4r	.	.	.	||	.	.
+4r	.	.	.	.	||	.
 8r	.	.	.	.	.	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]

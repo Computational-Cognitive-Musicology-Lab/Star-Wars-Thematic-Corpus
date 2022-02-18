@@ -1,98 +1,98 @@
-**kern	**text	**text	**text	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: The Imperial March (Darth Vader's Theme)
+!!!GAW: Star Wars: Episode V: The Empire Strikes Back
+!!!ODT: 1980
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
-*k[b-e-]	*	*	*	*	*
-*g:	*	*	*	*	*
-*M4/4	*	*	*	*	*
-=1	=1	=1	=1	=1	=1
-!LO:TX:t=[quarter]=110	!	!	!	!	!
-4g	i	.	Pedal: G	.	G:min
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
+*g:	*g:	*g:	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*MM110	*MM110	*MM110	*	*	*
+4g	G:min	i	.	Pedal: G	.
 4g	.	.	.	.	.
 4g	.	.	.	.	.
-8.e-L	bvi	.	.	.	.
-.	.	.	.	.	Eb:min
+8.e-L	Eb:min	-vi	.	.	.
 16b-Jk	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
-4g	i	.	.	.	G:min
-8.e-L	bvi	.	.	.	.
-.	.	.	.	.	Eb:min
+4g	G:min	i	.	.	.
+8.e-L	Eb:min	-vi	.	.	.
 16b-Jk	.	.	.	.	.
-2g	i	.	.	.	G:min
+2g	G:min	i	.	.	.
 =3	=3	=3	=3	=3	=3
-4dd	.	.	.	.	G:min
+4dd	G:min	.	.	.	.
 4dd	.	.	.	.	.
 4dd	.	.	.	.	.
-8.ee-L	bvi	.	.	.	Eb:min
+8.ee-L	Eb:min	-vi	.	.	.
 16b-Jk	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-4g-X	.	.	.	.	Eb:min
-8.e-L	iv/o7	.	.	.	.
-.	.	.	.	.	C:min7(b5)
+4g-	Eb:min	.	.	Pedal: None	.
+8.e-L	C:min7(D5)	ivom7	.	.	.
 16b-Jk	.	.	.	.	.
-2gn	i	.	.	//	G:min
-!!linebreak:original
+2gn	G:min	i	.	.	//
 =5	=5	=5	=5	=5	=5
-4gg	i	.	.	.	G:min
+4gg	G:min	i	.	.	.
 8.gL	.	.	.	.	.
 16gJk	.	.	.	.	.
 4gg	.	.	.	.	.
-8.ff#XL	.	.	.	.	.
+8.ff#L	.	.	.	.	.
 16ffnJk	.	.	.	.	.
 =6	=6	=6	=6	=6	=6
-16eenLL	#iv	var1 bv	.	.	C#:min
-16dd#XJ	.	.	.	.	.
+16eenLL	C#:min	#iv	var1 -v	.	.
+16dd#J	.	.	.	.	.
 8eeJ	.	.	.	.	.
 8r	.	.	.	.	.
-8g#X	.	.	.	.	.
-4cc#X	.	.	.	.	.
+8g#	.	.	.	.	.
+4cc#	.	.	.	.	.
 8.ccnL	.	.	.	.	.
 16bnJk	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
-16b-XLL	#v	var1 bvi	.	.	D#:min
+16b-LL	D#:min	#v	var1 -vi	.	.
 16anJ	.	.	.	.	.
 8b-J	.	.	.	.	.
 8r	.	.	.	.	.
-8e-X	.	.	.	.	.
-4g-X	.	.	.	.	.
+8e-	.	.	.	.	.
+4g-	.	.	.	.	.
 8.e-L	.	.	.	.	.
 16g-Jk	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-4b-	i	.	.	.	G:min
-8.gL	VI	.	.	.	Eb
+4b-	G:min	i	.	.	.
+8.gL	Eb	VI	.	.	.
 16b-Jk	.	.	.	.	.
-2dd	i	.	.	.	G:min
-!!linebreak:original
+2dd	G:min	i	.	.	.
 =9	=9	=9	=9	=9	=9
-4gg	VI	.	.	.	Eb
+4gg	Eb	VI	.	.	.
 8.gL	.	.	.	.	.
 16gJk	.	.	.	.	.
-4gg	i	.	.	.	G:min
-8.ff#XL	.	.	.	.	.
+4gg	G:min	i	.	.	.
+8.ff#L	.	.	.	.	.
 16ffnJk	.	.	.	.	.
 =10	=10	=10	=10	=10	=10
-16eenLL	#iv	var1 bv	.	.	C#:min
-16dd#XJ	.	.	.	.	.
+16eenLL	C#:min	#iv	var1 -v	.	.
+16dd#J	.	.	.	.	.
 8eeJ	.	.	.	.	.
 8r	.	.	.	.	.
-8g#X	.	.	.	.	.
-4cc#X	.	.	.	.	.
+8g#	.	.	.	.	.
+4cc#	.	.	.	.	.
 8.ccnL	.	.	.	.	.
 16bnJk	.	.	.	.	.
 =11	=11	=11	=11	=11	=11
-16b-XLL	#v	var1 bvi	.	.	D#:min
+16b-LL	D#:min	#v	var1 -vi	.	.
 16anJ	.	.	.	.	.
 8b-J	.	.	.	.	.
 8r	.	.	.	.	.
-8e-X	.	.	.	.	.
-4g-X	.	.	.	.	.
-8.e-L	iv/o7	.	.	.	.
-.	.	.	.	.	C:min7(b5)
+8e-	.	.	.	.	.
+4g-	.	.	.	.	.
+8.e-L	.	ivom7	.	.	.
+.	C:min7(D5)	.	.	.	.
 16b-Jk	.	.	.	.	.
 =12	=12	=12	=12	=12	=12
-4g	i	.	.	{CC}	G:min
-8.e-L	iv/o7	.	.	.	C:min7(b5)
+4g	G:min	i	.	.	CC
+8.e-L	C:min7(D5)	ivom7	.	.	.
 16b-Jk	.	.	.	.	.
-2g	i	.	.	]]	G:min
+2g	G:min	i	.	.	]]
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]

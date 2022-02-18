@@ -1,59 +1,63 @@
-**kern	**text	**text	**text	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: Anakin
+!!!GAW: Star Wars: Episode I
+!!!ODT: 1999
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence
 *clefG2	*	*	*	*	*
-*k[f#c#g#]	*	*	*	*	*
-*A:	*	*	*	*	*
-*M4/4	*	*	*	*	*
-!LO:TX:t=[quarter]=75	!	!	!	!	!
-4B	A:	.	Pedal: A	.	.
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*	*	*
+*A:	*A:	*A:	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*
+*MM75	*MM75	*MM75	*	*	*
+4B	.	.	.	Pedal: A	.
 =1	=1	=1	=1	=1	=1
-4e	I	.	.	.	A
+4e	A	I	.	.	.
 4a	.	.	.	.	.
-4b	V/V	.	.	.	B/b7
+4b	B/m7	V/V	.	.	.
 4ff#	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
-4ff#	VII7	.	.	.	G#:7/b2
+4ff#	G#:7/m2	VII7	.	.	.
 8eeL	.	.	.	.	.
-8dd#XJ	.	.	.	.	.
-4dd#	I	.	.	.	A
+8dd#J	.	.	.	.	.
+4dd#	A	I	.	.	.
 4ee	.	.	.	.	.
 =3	=3	=3	=3	=3	=3
-4ffn	Ger+6	.	Pedal:	.	F:7/7
-8aL	.	.	E	.	.
+4ffn	F:7/7	Gn+6	.	Pedal: E	.
+8aL	.	.	.	.	.
 8ccnJ	.	.	.	.	.
-4d#X	.	.	.	.	.
-8g#XL	.	.	.	.	.
+4d#	.	.	.	.	.
+8g#L	.	.	.	.	.
 8aJ	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-4ddn	bIIma7	var1 Fr+6/I	.	.	Bb:7(b5)
+4ddn	Bb:7(D5)	-IIma7	var1 Fr+6/I	Pedal: None	.
 8dnL	.	.	.	.	.
-8aJ	.	.	.	{IAC}	.
-2e	I	.	.	//	A:sus4
-.	.	.	.	.	A
-!!linebreak:original
+8aJ	.	.	.	.	IAC
+2e	A:sus4	I	.	.	//
+.	A	.	.	.	.
 =5	=5	=5	=5	=5	=5
-4e	.	.	.	.	A
+4e	A	.	.	.	.
 4a	.	.	.	.	.
-4b	V/V	.	.	.	B/b7
+4b	B/m7	V/V	.	.	.
 4ff#	.	.	.	.	.
 =6	=6	=6	=6	=6	=6
-4gg#	VII7	.	.	.	G#:7/b2
+4gg#	G#:7/m2	VII7	.	.	.
 8ff#L	.	.	.	.	.
-8dd#XJ	.	.	.	.	.
-4dd#	I	.	.	.	A
+8dd#J	.	.	.	.	.
+4dd#	A	I	.	.	.
 4ee	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
-4aa	iv	.	.	.	D:min/2
-8aL	.	.	.	.	D:min
+4aa	D:min/2	iv	.	.	.
+8aL	D:min	.	.	.	.
 8bJ	.	.	.	.	.
-4b#X	C64	.	.	.	A/5
-8cc#XL	.	.	.	.	.
+4b#	A/5	C64	.	.	.
+8cc#L	.	.	.	.	.
 8eJ	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-4e	ii/o7	.	.	{PC}	B:min7(b5)
+4e	B:min7(D5)	iiom7	.	.	PC
 4d	.	.	.	.	.
-2a	I	.	.	]]	A:sus4
-.	.	.	.	.	A
+2a	A:sus4	I	.	.	]]
+.	A	.	.	.	.
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]

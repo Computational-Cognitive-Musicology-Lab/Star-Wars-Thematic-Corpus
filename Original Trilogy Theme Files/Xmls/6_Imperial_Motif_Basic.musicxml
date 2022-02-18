@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-24</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -94,8 +94,8 @@
   <part-group type="stop" number="1" />
  </part-list>
  <part id="P1">
-  <!--============== Part: P1, Measure: 0 ==============-->
-  <measure number="0" width="340">
+  <!--============== Part: P1, Measure: 1 ==============-->
+  <measure number="1" width="340">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -202,8 +202,8 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 0 ==============-->
-  <measure number="0" width="207">
+  <!--============== Part: P1, Measure: 2 ==============-->
+  <measure number="2" width="207">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>F</root-step>
@@ -278,8 +278,8 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="207">
+  <!--============== Part: P1, Measure: 3 ==============-->
+  <measure number="3" width="207">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
@@ -324,8 +324,8 @@
     <beam number="1">end</beam>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="240">
+  <!--============== Part: P1, Measure: 4 ==============-->
+  <measure number="4" width="240">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>A</root-step>
@@ -418,8 +418,8 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="179">
+  <!--============== Part: P1, Measure: 5 ==============-->
+  <measure number="5" width="179">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>F</root-step>

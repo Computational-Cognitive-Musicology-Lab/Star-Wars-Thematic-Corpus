@@ -1,88 +1,92 @@
-**kern	**text	**text	**text	**text	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: Battle of the Heroes Theme Basic
+!!!GAW: Star Wars: Episode III
+!!!ODT: 2005
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
-*k[b-]	*	*	*	*	*	*
-*d:	*	*	*	*	*	*
-*M3/2	*	*	*	*	*	*
+*k[b-]	*k[b-]	*k[b-]	*	*	*	*
+*d:	*d:	*d:	*	*	*	*
+*M3/2	*M3/2	*M3/2	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-2.d	i	.	D	.	.	D:min
+*MM184  *MM184   *MM184   *   *   *   *						
+2.d	D:min	i	.	Pedal: D	.	.
 4e	.	.	.	.	.	.
-2f	.	.	.	.	\!!An active 8th note ostinato undergirds this entire theme	.
+2f	.	.	.	.	.	An active 8th note ostinato undergirds this entire theme
 =2	=2	=2	=2	=2	=2	=2
-2.f	VI	.	.	.	.	Bb/3
+2.f	Bb/3	VI	.	.	.	.
 2.e	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-2.c	ii	.	.	.	.	E:min/b7
+2.c	E:min/m7	ii	.	.	.	.
 2.e	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-2.e	.	.	.	.	.	E:min/b7
-[2.d	i	.	.	.	.	D:min
-!!linebreak:original
+2.e	E:min/m7	.	.	.	.	.
+[2.d	D:min	i	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-*M2/2	*	*	*	*	*	*
-1d_	i	.	.	//	.	D:min
+*M2/2	*M2/2	*M2/2	*	*	*	*
+1d_	D:min	i	.	.	//	.
 =6	=6	=6	=6	=6	=6	=6
-1d_	VI	.	.	.	.	Bb/3
+1d_	Bb/3	VI	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-8d]	i	.	.	.	.	D:min
+8d]	D:min	i	.	.	.	.
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
-1r	VI	.	.	.	.	Bb/3
+1r	Bb/3	VI	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9
-*M3/2	*	*	*	*	*	*
-2.d	i	.	.	.	.	.
-.	.	.	.	.	.	D:min
+*M3/2	*M3/2	*M3/2	*	*	*	*
+2.d	.	i	.	.	.	.
+.	D:min	.	.	.	.	.
 4e	.	.	.	.	.	.
 2f	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-2.f	VI	.	.	.	.	Bb/3
+2.f	Bb/3	VI	.	.	.	.
 2.e	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-2.c	ii	.	.	.	.	E:min/b7
+2.c	E:min/m7	ii	.	.	.	.
 2.e	.	.	.	.	.	.
-!!linebreak:original
 =12	=12	=12	=12	=12	=12	=12
-2.e	.	.	.	.	.	E:min/b7
-[2.d	ii	.	.	.	.	D:min
+2.e	E:min/m7	.	.	.	.	.
+[2.d	D:min	ii	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-*M2/2	*	*	*	*	*	*
-1d_	.	.	.	//	.	D:min
+*M2/2	*M2/2	*M2/2	*	*	*	*
+1d_	D:min	.	.	.	//	.
 =14	=14	=14	=14	=14	=14	=14
-1d_	.	.	.	.	.	D:min
+1d_	D:min	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-8d]	.	.	.	.	.	D:min
+8d]	D:min	.	.	.	.	.
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
-1r	.	.	.	.	.	D:min
+1r	D:min	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-*M3/2	*	*	*	*	*	*
-[2f	i	.	.	.	.	D:min
+*M3/2	*M3/2	*M3/2	*	*	*	*
+[2f	D:min	i	.	.	.	.
 4.f]	.	.	.	.	.	.
 8g	.	.	.	.	.	.
 2a	.	.	.	.	.	.
-!!linebreak:original
 =18	=18	=18	=18	=18	=18	=18
-2.a	VI7	.	.	.	.	Bb:maj7/3
-2.g	ii/7	.	.	.	.	E:min7(b5)/b7
+2.a	Bb:maj7/3	VI7	.	.	.	.
+2.g	E:min7(D5)/m7	ii/7	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-*M2/2	*	*	*	*	*	*
-8dL	i	.	.	.	.	D:min
+*M2/2	*M2/2	*M2/2	*	*	*	*
+8dL	D:min	i	.	Pedal: None	.	.
 8gJ	.	.	.	.	.	.
 4f	.	.	.	.	.	.
 4e	.	.	.	.	.	.
 8fL	.	.	.	.	.	.
 8eJ	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-4e	i	var1 iv	.	]]	.	D:min/4
-2.f	.	var1 v	.	.	.	D:min/5
+4e	D:min/4	i	var1 iv	.	MC	.
+2.f	D:min/5	.	var1 v	.	.	.
 =21	=21	=21	=21	=21	=21	=21
-1r	.	.	D	.	.	D:min
+1r	D:min	.	.	Pedal: D	]]	.
 =22	=22	=22	=22	=22	=22	=22
-1r	.	.	.	.	.	D:min
+1r	D:min	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23
 1r	.	.	.	.	.	.
 =	=	=	=	=	=	=

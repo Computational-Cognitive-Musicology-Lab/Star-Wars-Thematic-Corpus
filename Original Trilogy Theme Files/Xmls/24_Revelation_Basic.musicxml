@@ -7,7 +7,7 @@
  <identification>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2021-12-20</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -74,6 +74,11 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -130,6 +135,16 @@
     <kind>minor</kind>
     <staff>1</staff>
    </harmony>
+   <direction>
+    <direction-type>
+     <metronome default-y="30" color="#000000" font-family="Helsinki Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>90</per-minute>
+     </metronome>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note default-x="73">
     <rest />
     <duration>256</duration>

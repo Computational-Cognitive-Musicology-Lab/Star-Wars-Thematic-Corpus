@@ -1,33 +1,37 @@
-**kern	**text	**text	**text	**text	**text
-!!pagebreak:original
-*clefF4	*	*	*	*	*
-*k[b-e-a-]	*	*	*	*	*
-*c:	*	*	*	*	*
-*M4/4	*	*	*	*	*
-=1	=1	=1	=1	=1	=1
-1CC	Cm:	.	.	.	\!!Unaccompanied low male choir, no harmony or implied progression
-=2	=2	=2	=2	=2	=2
-1CC	.	.	.	.	.
-=3	=3	=3	=3	=3	=3
-1CC	.	.	.	.	.
-=4	=4	=4	=4	=4	=4
-1CC	.	.	.	.	.
-=5	=5	=5	=5	=5	=5
-1CC	.	.	.	.	.
-=6	=6	=6	=6	=6	=6
-1BBBn	.	.	.	.	.
-=7	=7	=7	=7	=7	=7
-4CC	.	.	.	.	.
-2.DD	.	.	.	.	.
-=8	=8	=8	=8	=8	=8
-1EE-	.	.	.	.	.
-!!linebreak:original
-=9	=9	=9	=9	=9	=9
-1CC	.	.	.	.	.
-=10	=10	=10	=10	=10	=10
-*M5/4	*	*	*	*	*
-[1BBBn	.	.	.	.	.
-4BBB]	.	.	.	.	.
-=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]
+!!!COM: John Williams
+!!!OTL: Snoke
+!!!GAW: Star Wars: Episode 7
+!!!ODT: 2015
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harm	**text
+*clefF4	*	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M4/4	*M4/4	*
+=1-	=1-	=1-
+1CC	Cm:	Unaccompanied low male choir, no harmony or implied progression
+=2	=2	=2
+1CC	.	.
+=3	=3	=3
+1CC	.	.
+=4	=4	=4
+1CC	.	.
+=5	=5	=5
+1CC	.	.
+=6	=6	=6
+1BBBn	.	.
+=7	=7	=7
+4CC	.	.
+2.DD	.	.
+=8	=8	=8
+1EE-	.	.
+=9	=9	=9
+1CC	.	.
+=10	=10	=10
+*M5/4	*M5/4	*
+[1BBBn	.	.
+4BBB]	.	.
+=	=	=
+*-	*-	*-

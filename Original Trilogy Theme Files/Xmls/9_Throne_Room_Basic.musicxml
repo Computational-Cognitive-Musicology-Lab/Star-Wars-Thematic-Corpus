@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-12-01</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -640,6 +640,10 @@
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>V42</text>
+    </lyric>
+    <lyric default-y="-155" number="part1verse4" color="#000000">
+     <syllabic>single</syllabic>
+     <text>{EC}</text>
     </lyric>
    </note>
    <backup>

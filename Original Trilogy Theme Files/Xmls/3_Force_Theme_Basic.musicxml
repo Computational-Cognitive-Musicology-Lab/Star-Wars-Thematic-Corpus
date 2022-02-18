@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-11-24</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -149,8 +149,8 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 0 ==============-->
-  <measure number="0" width="256">
+  <!--============== Part: P1, Measure: 1 ==============-->
+  <measure number="1" width="256">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>G</root-step>
@@ -218,8 +218,8 @@
     <beam number="2">end</beam>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="234">
+  <!--============== Part: P1, Measure: 2 ==============-->
+  <measure number="2" width="234">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>G</root-step>
@@ -266,8 +266,8 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="323">
+  <!--============== Part: P1, Measure: 3 ==============-->
+  <measure number="3" width="323">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>G</root-step>
@@ -404,8 +404,8 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="198">
+  <!--============== Part: P1, Measure: 4 ==============-->
+  <measure number="4" width="198">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>C</root-step>
@@ -482,8 +482,8 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="393">
+  <!--============== Part: P1, Measure: 5 ==============-->
+  <measure number="5" width="393">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -607,8 +607,8 @@
     <beam number="2">backward hook</beam>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="296">
+  <!--============== Part: P1, Measure: 6 ==============-->
+  <measure number="6" width="296">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>E</root-step>
@@ -708,8 +708,8 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="323">
+  <!--============== Part: P1, Measure: 7 ==============-->
+  <measure number="7" width="323">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>G</root-step>
@@ -841,8 +841,8 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 7 ==============-->
-  <measure number="7" width="162">
+  <!--============== Part: P1, Measure: 8 ==============-->
+  <measure number="8" width="162">
    <harmony color="#000000" default-y="30">
     <root>
      <root-step>G</root-step>

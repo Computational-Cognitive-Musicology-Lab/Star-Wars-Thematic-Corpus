@@ -1,31 +1,37 @@
-**kern	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: Kylo Ren B 
+!!!GAW: Star Wars: Episode 7
+!!!ODT: 2015
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm
 *clefF4	*	*
-*k[f#c#g#d#]	*	*
-*c#:	*	*
-*M3/4	*	*
-=1	=1	=1
-8r	i	C#:min
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*c#:	*c#:	*c#:
+*M3/4	*M3/4	*M3/4
+*MM74 	*MM74 	*MM74
+=1-	=1-	=1-
+8r	C#:min	i
 8E	.	.
 8EL	.	.
 8EJ	.	.
 8EL	.	.
 8D#J	.	.
 =2	=2	=2
-4.D#	bvi	A:min
+4.D#	A:min	-vi
 [8Cn	.	.
 4C]	.	.
 =3	=3	=3
-8r	i	C#:min
+8r	C#:min	i
 8E	.	.
 8EL	.	.
 8EJ	.	.
 8EL	.	.
 8D#J	.	.
 =4	=4	=4
-4.D#	bvi	A:min
+4.D#	A:min	-vi
 [8Cn	.	.
 4C]	.	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: [(s1)]

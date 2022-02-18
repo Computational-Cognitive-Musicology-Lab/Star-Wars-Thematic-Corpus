@@ -1,89 +1,93 @@
-**kern	**text	**text	**text	**text	**text	**harte
-!!pagebreak:original
-*clefG2	*	*	*	*	*	*
-*k[b-e-a-d-g-]	*	*	*	*	*	*
-*D-:	*	*	*	*	*	*
-*M4/4	*	*	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1
-4aa-	Db:	.	.	.	\!!Bass follows melody in parallel 10ths in mm. 1,3,5,7	Db/3
-4gg-	I6	.	.	.	.	.
-4aa-	.	.	.	.	.	.
-4dd-	I	.	.	.	.	Db
-=2	=2	=2	=2	=2	=2	=2
-4ee-	ii42	.	.	.	.	Eb:min7/b7
-4ff	.	.	.	.	.	.
-4gg-	V65	.	.	{HC}	.	.
-4a-	.	.	.	//	.	Ab:7/3
-=3	=3	=3	=3	=3	=3	=3
-4aa-	I6	.	.	.	.	Db/3
-4gg-	.	.	.	.	.	.
-4aa-	.	.	.	.	.	.
-4ddd-	I64	.	.	.	.	Db/5
-=4	=4	=4	=4	=4	=4	=4
-4aan	iv=Fb:ii	.	.	.	.	Gb:min
-4gg#X	.	.	.	.	.	.
-4aa	bVII7=V7/Fb	Var1:V7/bIII	.	{HC}	\!!Enharmonic modulation here to key minor third above tonic (bIII/Db)	B:7(2,*3)
-4bn	.	.	.	//	.	B:7
-!!linebreak:original
-=5||	=5||	=5||	=5||	=5||	=5||	=5||
-*k[f#c#g#d#]	*	*	*	*	*	*
-*E:	*	*	*	*	*	*
-4bb	I64	.	.	.	.	E/5
-4aa	.	.	.	.	.	.
-4bb	.	.	.	.	.	.
-4eee	.	.	.	.	.	.
-=6	=6	=6	=6	=6	=6	=6
-2.aa	V	.	.	.	.	B:7(2,*3,4)
-4bb	.	.	.	.	.	B:7
-=7	=7	=7	=7	=7	=7	=7
-4bb	I64	.	.	.	.	B/4
-4aa#X	.	.	.	.	.	.
-4bb	.	.	.	.	.	.
-4eee	I	.	.	.	.	E
-=8	=8	=8	=8	=8	=8	=8
-2aa	ii64=Db:iv	.	.	.	.	F#:min/5
-2b#X	V7/vi=Db:V	.	.	{HC}	.	G#
-=9||	=9||	=9||	=9||	=9||	=9||	=9||
-*k[b-e-a-d-g-]	*	*	*	*	*	*
-*D-:	*	*	*	*	*	*
-4a-	Db:	.	.	.	.	Db/3
-4gn	I6	.	.	.	.	.
-4a-	.	.	.	.	.	.
-4d-	.	.	.	.	.	.
-=10	=10	=10	=10	=10	=10	=10
-4e-	ii65	.	.	.	.	Eb:min7/b3
-4f	.	.	.	.	.	.
-4g-	V65	.	.	{HC}	.	.
-4A-	.	.	.	//	.	Ab:7/3
-!!linebreak:original
-=11	=11	=11	=11	=11	=11	=11
-4a-	I	.	.	.	.	Db
-4gn	.	.	.	.	.	.
-4a-	I42	.	.	.	.	Db:maj7/3
-4dd-	vi7	.	.	.	.	Bb:min7
-=12	=12	=12	=12	=12	=12	=12
-2ff-X	iv7	.	.	.	.	Gb:min7
-2ee-	ii/07	.	.	.	.	Eb:min7(b5)
-=13	=13	=13	=13	=13	=13	=13
-4dd-	I64	.	.	.	.	Db/5
-4a-	.	.	.	.	.	.
-4ggn	I42	.	.	.	.	Db/7
-4aa-	.	.	.	.	.	.
-=14	=14	=14	=14	=14	=14	=14
-2aan	bII6	.	.	.	.	Eb/b3
-2cc	V	.	.	;;	.	Ab
-=15	=15	=15	=15	=15	=15	=15
-4ddd-	I6	.	.	.	.	Db/3
-4ccc	.	.	.	.	.	.
-4ddd-	I64	.	.	.	.	Db/5
-4dd-	.	.	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16
-4ee--	bII	.	.	.	.	Db/5
-4dd-X	.	.	.	.	.	.
-4cc	V	.	.	.	.	Ab:7
-4c	.	.	.	{PAC}	.	.
-=17	=17	=17	=17	=17	=17	=17
-1d-	I	.	.	.	.	Db
-=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]
+!!!COM: John Williams
+!!!OTL: Victory
+!!!GAW: Star Wars: Episode 9
+!!!ODT: 2019
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**cadence	**text
+*clefG2	*	*	*	*	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
+*D-:	*D-:	*D-:	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*
+*MM80-110	*MM80-110	*MM80-110 	* 	*	*
+=1-	=1-	=1-	=1-	=1-	=1-
+4aa-	Db/3	Ib	.	.	Bass follows melody in parallel 10ths in mm. 1,3,5,7
+4gg-	.	.	.	.	.
+4aa-	.	.	.	.	.
+4dd-	Db	I	.	.	.
+=2	=2	=2	=2	=2	=2
+4ee-	Eb:min7/m7	ii7d	.	.	.
+4ff	.	.	.	.	.
+4gg-	.	V7b	.	HC	.
+4a-	Ab:7/3	.	.	//	.
+=3	=3	=3	=3	=3	=3
+4aa-	Db/3	Ib	.	.	.
+4gg-	.	.	.	.	.
+4aa-	.	.	.	.	.
+4ddd-	Db/5	Ic	.	.	.
+=4	=4	=4	=4	=4	=4
+4aan	Gb:min	iv	.	.	.
+4gg#	.	.	.	.	.
+4aa	B:7(2,*3)	-VII7=V7	Var1:V7/bIII	HC	Enharmonic modulation here to key minor third above tonic (bIII/Db)
+4bn	B:7	.	.	//	.
+=5||	=5||	=5||	=5||	=5||	=5||
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*
+*E:	*E:	*E:	*	*	*
+4bb	E/5	Ic	.	.	.
+4aa	.	.	.	.	.
+4bb	.	.	.	.	.
+4eee	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+2.aa	B:7(2,*3,4)	V	.	.	.
+4bb	B:7	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4bb	B/4	Ic	.	.	.
+4aa#	.	.	.	.	.
+4bb	.	.	.	.	.
+4eee	E	I	.	.	.
+=8	=8	=8	=8	=8	=8
+2aa	F#:min/5	iic	.	.	.
+2b#	G#	V7/vi=V	.	HC	.
+=9||	=9||	=9||	=9||	=9||	=9||
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
+*D-:	*D-:	*D-:	*	*	*
+4a-	Db/3	Ib	.	.	.
+4gn	.	.	.	.	.
+4a-	.	.	.	.	.
+4d-	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+4e-	Eb:min7/m3	ii7b	.	.	.
+4f	.	.	.	.	.
+4g-	.	V7b	.	HC	.
+4A-	Ab:7/3	.	.	//	.
+=11	=11	=11	=11	=11	=11
+4a-	Db	I	.	.	.
+4gn	.	.	.	.	.
+4a-	Db:maj7/3	I7d	.	.	.
+4dd-	Bb:min7	vi7	.	.	.
+=12	=12	=12	=12	=12	=12
+2ff-	Gb:min7	iv7	.	.	.
+2ee-	Eb:min7(D5)	iiD5	.	.	.
+=13	=13	=13	=13	=13	=13
+4dd-	Db/5	Ic	.	.	.
+4a-	.	.	.	.	.
+4ggn	Db/7	I7d	.	.	.
+4aa-	.	.	.	.	.
+=14	=14	=14	=14	=14	=14
+2aan	Eb/m3	-IIb	.	.	.
+2cc	Ab	V	.	;;	.
+=15	=15	=15	=15	=15	=15
+4ddd-	Db/3	Ib	.	.	.
+4ccc	.	.	.	.	.
+4ddd-	Db/5	Ic	.	.	.
+4dd-	.	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4ee--	Db/5	-II	.	.	.
+4dd-	.	.	.	.	.
+4cc	Ab:7	V	.	.	.
+4c	.	.	.	PAC	.
+=17	=17	=17	=17	=17	=17
+1d-	Db	I	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-

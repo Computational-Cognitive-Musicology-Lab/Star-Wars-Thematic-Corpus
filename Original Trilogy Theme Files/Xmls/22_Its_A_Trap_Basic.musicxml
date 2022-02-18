@@ -7,7 +7,7 @@
  <identification>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2021-11-24</encoding-date>
+   <encoding-date>2022-02-18</encoding-date>
    <encoder>JOHN MCNAMARA</encoder>
    <software>Sibelius 21.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -867,6 +867,10 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
+    <lyric default-y="-155" number="part1verse4" color="#000000">
+     <syllabic>single</syllabic>
+     <text>;;</text>
+    </lyric>
    </note>
    <note color="#000000" default-x="196" default-y="-5">
     <pitch>

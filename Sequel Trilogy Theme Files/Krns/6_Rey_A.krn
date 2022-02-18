@@ -1,34 +1,41 @@
-**kern	**text	**text	**text	**text	**text	**harte
-!!pagebreak:original
+!!!COM: John Williams
+!!!OTL: Rey A (Theme)
+!!!GAW: Star Wars: Episode 7
+!!!ODT: 2015
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*	*
-*k[]	*	*	*	*	*	*
-*a:	*	*	*	*	*	*
-*M4/4	*	*	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1
-4a	i	.	.	.	%Am(sus2)	.
+*k[]	*k[]	*k[]	*	*	*	*
+*a:	*a:	*a:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*	*	*	*
+*MM104	*MM104 	*MM104 	* 	* 	* 	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+4a	.	i	?iM2P5	.	.	%Am(sus2)
 4cc	.	.	.	.	.	.
 4.e	.	.	.	.	.	.
 8a	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-4dd	.	.	.	.	%Am(sus2/4)	.
+4dd	.	.	?iM2P4P5	.	.	%Am(sus24)
 2.ee	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-4.a	.	.	.	.	.	A:min
+4.a	A:min	.	.	.	.	.
 16ddLL	.	.	.	.	.	.
 16ccJJ	.	.	.	.	.	.
-4b	.	.	.	.	.	A:sus4
-4cc	VI6	.	.	.	.	F/3
+4b	A:sus4	.	.	.	.	.
+4cc	F/3	VIb	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-2.a	IV	.	.	//	.	D
+2.a	D	IV	.	.	//	.
 [4a	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-4a]	i	.	.	.	%Am(sus2)	.
+4a]	.	i	?iM2P5	.	.	%Am(sus2)
 4cc	.	.	.	.	.	.
 4.a	.	.	.	.	.	.
 8ee	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-4ff#X	IV	.	.	PHC	.	D
-2dd	.	.	.	//	.	.
+4ff#	D	IV	.	.	PHC	.
+2dd	.	.	.	.	//	.
 28aLL	.	.	.	.	.	.
 28b	.	.	.	.	.	.
 28cc	.	.	.	.	.	.
@@ -37,39 +44,37 @@
 28ffn	.	.	.	.	.	.
 28ggJJ	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-[2aa	i	.	.	.	.	A:min(b6)
+[2aa	A:min(m6)	i	.	.	.	.
 8aaL]	.	.	.	.	.	.
 8gg	.	.	.	.	.	.
 8cc	.	.	.	.	.	.
 8ffJ	.	.	.	.	.	.
-!!linebreak:original
 =8	=8	=8	=8	=8	=8	=8
-2dd	VII7	.	.	.	.	G:sus4
+2dd	G:sus4	VII7	.	.	.	.
 4dd	.	.	.	.	.	.
-16eLL	.	.	.	.	.	G:min7
+16eLL	G:min7	.	.	.	.	.
 16f	.	.	.	.	.	.
-16b	bII	.	.	.	.	Bb
+16b	Bb	-II	.	.	.	.
 16ddJJ	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9
-[2ff	i64	.	.	.	.	A:min(b6)/5
-8ffL]	i	.	.	.	.	A:min(b6)
+[2ff	A:min(m6)/5	imb	.	.	.	.
+8ffL]	A:min(m6)	i	.	.	.	.
 8ee	.	.	.	.	.	.
 8e	.	.	.	.	.	.
 8ddJ	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-2.b	v	.	.	.	.	E:sus4
-.	.	.	.	.	.	G
-4b	VII	.	.	.	.	.
+2.b	E:sus4	v	.	.	.	.
+4b	G	VII	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-2cc	III7	.	.	.	.	C:maj7
-8r	VI	.	.	.	.	F
+2cc	C:maj7	III7	.	.	.	.
+8r	F	VI	.	.	.	.
 8b	.	.	.	.	.	.
-8dL	VII	.	Pedal: C	.	.	G/4
+8dL	G/4	VII	.	.	.	.
 8bJ	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-2a	VI6	.	.	.	.	F/5
-2g	VII	.	.	.	.	G
+2a	F/5	VIb	.	Pedal: C	.	.
+2g	G	VII	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-1a	i	.	.	]]	.	A:min
+1a	A:min	i	.	.	]]	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-

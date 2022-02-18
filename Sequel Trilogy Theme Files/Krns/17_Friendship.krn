@@ -1,83 +1,87 @@
-**kern	**text	**text	**text	**text	**harte
-!!pagebreak:original
-*clefG2	*	*	*	*	*
-*k[f#c#]	*	*	*	*	*
-*D:	*	*	*	*	*
-*M4/4	*	*	*	*	*
-=1	=1	=1	=1	=1	=1
-2a	I	.	.	.	D
-4b	CT7	.	.	.	D:dim7
-4g#X	.	.	.	.	.
-=2	=2	=2	=2	=2	=2
-2a	I	.	.	.	D
-2d	.	.	.	.	.
-=3	=3	=3	=3	=3	=3
-4a	IV	.	.	.	G
-4g	.	.	.	.	.
-4b	.	.	.	.	.
-4dd	.	.	.	.	.
-=4	=4	=4	=4	=4	=4
-2ff#	iii	.	.	.	F#:min
-2cc#	.	.	.	.	.
-=5	=5	=5	=5	=5	=5
-4a	IV	.	.	.	G
-4g	.	.	.	.	.
-4b	.	.	.	.	.
-4dd	.	.	.	.	.
-=6	=6	=6	=6	=6	=6
-2aa	iii	.	.	.	F#:min
-4.ff#	.	.	.	.	.
-8cc#	.	.	.	.	.
-=7	=7	=7	=7	=7	=7
-4cc#	IV	.	.	.	G
-4b	.	.	.	.	.
-4.cc#	.	.	.	.	.
-8dd	.	.	.	.	.
-!!linebreak:original
-=8	=8	=8	=8	=8	=8
-4ff#	ii9=F#: bvii9	.	.	.	E:min9
-4ee	.	.	.	.	.
-4aa#X	.	.	.	.	E:min/b3
-4bb	.	.	.	//	.
-=9||	=9||	=9||	=9||	=9||	=9||
-*k[f#c#g#d#a#e#]	*	*	*	*	*
-*F#:	*	*	*	*	*
-2ccc#	I	.	.	{CC}	F#
-4dd#	II42	.	.	.	G#/b7
-4b#X	.	.	.	.	.
-=10	=10	=10	=10	=10	=10
-2cc#	I	.	.	.	F#
-2f#	I64	.	.	.	F#/5
-=11	=11	=11	=11	=11	=11
-4cc#	IV	.	.	.	B:sus2
-4b	.	.	.	.	B
-4dd#	.	.	.	.	.
-4ff#	.	.	.	.	.
-=12	=12	=12	=12	=12	=12
-2aa#	iii64	.	.	.	A#:min/5
-2ee#	iii	.	.	.	A#:min
-!!linebreak:original
-=13	=13	=13	=13	=13	=13
-4cc#	IV64	.	.	.	F#:pow
-4b	.	.	.	.	B/5
-4dd#	.	.	.	.	.
-4ff#	.	.	.	.	.
-=14	=14	=14	=14	=14	=14
-2eee#	iii	.	.	.	A#:min
-4.ccc#	.	.	.	.	.
-8cc#	.	.	.	.	.
-=15	=15	=15	=15	=15	=15
-4ee#	IV	.	.	.	B:sus4(2)
-[4dd#	.	.	.	.	B
-6dd#]	IV42	.	.	.	B/7
-6ff#	.	.	.	.	.
-6ddd#	.	.	.	.	.
-=16	=16	=16	=16	=16	=16
-2fff#	ii7	.	.	.	G#:min7
-2f#	V11	.	.	.	B/2
-=17	=17	=17	=17	=17	=17
-2f#	I	.	.	]]	F#
-2r	.	.	.	{IAC}	.
-=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)]
+!!!COM: John Williams
+!!!OTL: Friendship
+!!!GAW: Star Wars: Episode 9
+!!!ODT: 2019
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**cadence
+*clefG2	*	*	*
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*D:	*
+*M4/4	*M4/4	*M4/4	*
+*MM100	*MM100	*MM100 	*
+=1-	=1-	=1-	=1-
+2a	D	I	.
+4b	D:dim7	CT7	.
+4g#	.	.	.
+=2	=2	=2	=2
+2a	D	I	.
+2d	.	.	.
+=3	=3	=3	=3
+4a	G	IV	.
+4g	.	.	.
+4b	.	.	.
+4dd	.	.	.
+=4	=4	=4	=4
+2ff#	F#:min	iii	.
+2cc#	.	.	.
+=5	=5	=5	=5
+4a	G	IV	.
+4g	.	.	.
+4b	.	.	.
+4dd	.	.	.
+=6	=6	=6	=6
+2aa	F#:min	iii	.
+4.ff#	.	.	.
+8cc#	.	.	.
+=7	=7	=7	=7
+4cc#	G	IV	.
+4b	.	.	.
+4.cc#	.	.	.
+8dd	.	.	.
+=8	=8	=8	=8
+4ff#	E:min9	ii9=-vii9	.
+4ee	.	.	.
+4aa#	E:min/m3	.	.
+4bb	.	.	//
+=9||	=9||	=9||	=9||
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*F#:	*
+2ccc#	F#	I	CC
+4dd#	G#/m7	II7d	.
+4b#	.	.	.
+=10	=10	=10	=10
+2cc#	F#	I	.
+2f#	F#/5	Ic	.
+=11	=11	=11	=11
+4cc#	B:sus2	IV	.
+4b	B	.	.
+4dd#	.	.	.
+4ff#	.	.	.
+=12	=12	=12	=12
+2aa#	A#:min/5	iiic	.
+2ee#	A#:min	iii	.
+=13	=13	=13	=13
+4cc#	F#:pow	IVc	.
+4b	B/5	.	.
+4dd#	.	.	.
+4ff#	.	.	.
+=14	=14	=14	=14
+2eee#	A#:min	iii	.
+4.ccc#	.	.	.
+8cc#	.	.	.
+=15	=15	=15	=15
+4ee#	B:sus4(2)	IM2	.
+[4dd#	B	.	.
+6dd#]	B/7	IV7d	.
+6ff#	.	.	.
+6ddd#	.	.	.
+=16	=16	=16	=16
+2fff#	G#:min7	ii7	.
+2f#	B/2	V11	.
+=17	=17	=17	=17
+2f#	F#	I	IAC
+2r	.	.	]]
+=	=	=	=
+*-	*-	*-	*-
