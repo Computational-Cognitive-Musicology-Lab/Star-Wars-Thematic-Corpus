@@ -8,9 +8,9 @@
 **kern	**harte	**harm	**altharm	**cadence	**text
 *clefG2	*	*	*	*	*
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
-*D-:	*D-:	*D-:	*	*	*
-*M4/4	*M4/4	*M4/4	*	*	*
-*MM80-110	*MM80-110	*MM80-110 	* 	*	*
+*D-:	*D-:	*D-:	*D-:	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*
+*MM80-110	*MM80-110	*MM80-110 	*MM80-110 	*	*
 =1-	=1-	=1-	=1-	=1-	=1-
 4aa-	Db/3	Ib	.	.	Bass follows melody in parallel 10ths in mm. 1,3,5,7
 4gg-	.	.	.	.	.
@@ -29,7 +29,7 @@
 =4	=4	=4	=4	=4	=4
 4aan	Gb:min	iv	.	.	.
 4gg#	.	.	.	.	.
-4aa	B:7(2,*3)	-VII7=V7	Var1:V7/bIII	HC	Enharmonic modulation here to key minor third above tonic (bIII/Db)
+4aa	B:7(2,*3)	-VII7=V7	Var1:V7/bIII	HC	Enharmonic modulation to key minor third above tonic (Fb = E)
 4bn	B:7	.	.	//	.
 =5||	=5||	=5||	=5||	=5||	=5||
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*
@@ -48,7 +48,7 @@
 4eee	E	I	.	.	.
 =8	=8	=8	=8	=8	=8
 2aa	F#:min/5	iic	.	.	.
-2b#	G#	V7/vi=V	.	HC	.
+2b#	G#	V7/vi=V	.	HC	Enharmonic modulation back to Db (C# = Db)
 =9||	=9||	=9||	=9||	=9||	=9||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
 *D-:	*D-:	*D-:	*	*	*
@@ -76,7 +76,8 @@
 4aa-	.	.	.	.	.
 =14	=14	=14	=14	=14	=14
 2aan	Eb/m3	-IIb	.	.	.
-2cc	Ab	V	.	;;	.
+2cc	Ab	V	.	EC	.
+.	.	.	.	;;	.
 =15	=15	=15	=15	=15	=15
 4ddd-	Db/3	Ib	.	.	.
 4ccc	.	.	.	.	.
@@ -88,6 +89,6 @@
 4cc	Ab:7	V	.	.	.
 4c	.	.	.	PAC	.
 =17	=17	=17	=17	=17	=17
-1d-	Db	I	.	.	.
+1d-	Db	I	.	]]	.
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
