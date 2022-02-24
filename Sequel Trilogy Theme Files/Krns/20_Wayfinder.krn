@@ -1,31 +1,31 @@
 !!!COM: John Williams
 !!!OTL: Wayfinder
-!!!GAW: Star Wars: Episode 9
+!!!GAW: Star Wars:	Episode 9
 !!!ODT: 2019
-!!!OCL: Frank Lehman
+!!!OCL:	Frank Lehman
 !!!ENC: Claire Arthur
 !!!ENC2: John McNamara
-**kern  **harte	**pedal	**cadence	**text
-*clefG2 *	*	*	*
-*k[]    *k[]	*	*	*
-*C:     *C: *   *	*
-*M3/4   *M3/4	*	*	*
-*MM80   *MM80 	* 	* 	*
-=1- =1-	=1-	=1-	=1-
-4r  .   Pedal: G	.	Atonal, no RNs provided
-4B- G:min(b6, b8, b10)   .	.	.
-4a-t    G:min(b5, bb7, b9)	.	.	.
-=2  =2  =2	=2	=2
-4r  .   .	.	.
-4B- G:min(b6, b8, b10   .	.	.
-4a-t    G:min(b5, bb7, b9)   .	.	.
-=3	=3  =3	=3	=3
-4r  .   .	.	.
-4c  E:min(b2, b4, 6)   .	.	.
-4bnt    F:min(7, 9, #11)   .	.	.
-=4	=4  =4	=4	=4
-4r	.   .	.	.
-4c	E:min(b2, b4, 6)   .	.	.
-4bn	F:min(7, 9, #11)   .	;;	.
-=	=   =	=	=
-*-	*-  *-	*-	*-
+**kern	**harte	**pedal	**cadence	**text
+*clefG2	*	*	*	*
+*k[]	*k[]	*	*	*
+*C:	*C:	*	*	*
+*M3/4	*M3/4	*	*	*
+*MM80	*MM80	*	*	*
+=1-	=1-	=1-	=1-	=1-
+4r	.	Pedal:G	.	Atonal, no RNs provided
+4B-	G:min(b6, b8, b10)	.	.	.
+4a-t	G:min(b5, bb7, b9)	.	.	.
+=2	=2	=2	=2	=2
+4r	.	.	.	.
+4B-	G:min(b6, b8, b10)	.	.	.
+4a-t	G:min(b5, bb7, b9)	.	.	.
+=3	=3	=3	=3	=3
+4r	.	.	.	.
+4c	E:min(b2, b4, 6)	.	.	.
+4bnt	F:min(7, 9, #11)	.	.	.
+=4	=4	=4	=4	=4
+4r	.	.	.	.
+4c	E:min(b2, b4, 6)	.	.	.
+4bnt	F:min(7, 9, #11)	.	;;	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
