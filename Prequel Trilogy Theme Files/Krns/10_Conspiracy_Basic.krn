@@ -14,7 +14,7 @@
 *MM60   *MM60   *MM60   *   *   *					
 4BB-	G:min	i	.	.	.
 4BB-	.	.	.	.	.
-16CLL	Eb:minmaj7/A2	-vib	.	.	.
+16CLL	Eb:minmaj7/A2	vib	.	.	.
 16BB-JJ	.	.	.	.	.
 4.AA	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
@@ -23,11 +23,11 @@
 =3	=3	=3	=3	=3	=3
 4BB-	G:min	i	.	.	.
 4BB-	.	.	.	.	.
-16CLL	Eb:minmaj7/A2	-vib	.	.	.
+16CLL	Eb:minmaj7/A2	vib	.	.	.
 16BB-JJ	.	.	.	.	.
 4.AA	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-2D-	Bb:min/5	-iiib	var1ib/Bbm	.	Theme is inherently modulatory, last phrase best understood as preparing i=Bbm
-2C	F#:dim	#viidim	var1-vi(D5)/Bbm	;;	.
+2D-	Bb:min/5	iiib	ib/iii	.	Theme is inherently modulatory, last phrase best understood as preparing i=Bbm
+2C	F#:dim	viio	vio/iii	;;	.
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-

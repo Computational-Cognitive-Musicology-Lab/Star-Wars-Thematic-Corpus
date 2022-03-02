@@ -11,7 +11,7 @@
 *d:	*d:	*d:	*	*	*	*
 *M3/2	*M3/2	*M3/2	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-*MM184  *MM184   *MM184   *   *   *   *						
+*MM184	*MM184 	*MM184 	* 	* 	* 	*
 2.d	D:min	i	.	Pedal: D	.	.
 4e	.	.	.	.	.	.
 2f	.	.	.	.	.	An active 8th note ostinato undergirds this entire theme
@@ -71,7 +71,7 @@
 2a	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18
 2.a	Bb:maj7/3	VI7	.	.	.	.
-2.g	E:min7(D5)/m7	ii/7	.	.	.	.
+2.g	E:min7(D5)/m7	iiom7d	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
 *M2/2	*M2/2	*M2/2	*	*	*	*
 8dL	D:min	i	.	Pedal: None	.	.
@@ -81,10 +81,10 @@
 8fL	.	.	.	.	.	.
 8eJ	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-4e	D:min/4	i	var1 iv	.	MC	.
-2.f	D:min/5	.	var1 v	.	.	.
+4e	D:min/4	i	iv	.	MC	.
+2.f	D:min/5	.	v	.	]]	.
 =21	=21	=21	=21	=21	=21	=21
-1r	D:min	.	.	Pedal: D	]]	.
+1r	D:min	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
 1r	D:min	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23
