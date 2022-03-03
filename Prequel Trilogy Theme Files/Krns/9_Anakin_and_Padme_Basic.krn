@@ -10,7 +10,7 @@
 *k[b-]	*k[b-]	*k[b-]	*	*
 *d:	*d:	*d:	*	*
 *M12/8	*M12/8	*M12/8	*	*
-*MM113  *MM113   *MM113   *   *   *				
+*MM113	*MM113 	*MM113 	* 	* 
 4.a	.	.	.	.
 =1	=1	=1	=1	=1
 [2.ff	D:min	i	.	.
@@ -39,13 +39,13 @@
 2.ff	D:min	i	.	.
 4.dd	.	.	.	.
 =7	=7	=7	=7	=7
-8ddL	E:min7(D5)/D5	ii/7c	.	.
+8ddL	E:min7(D5)/D5	iiom7c	.	.
 8ee	.	.	.	.
 8ffJ	.	.	.	.
 4.gg	.	.	.	.
 4.ee	.	.	.	.
 =8	=8	=8	=8	=8
-4.aa	D:min/5	ic	var1 C64	.
+4.aa	D:min/5	ic	C64	.
 2.gg	Eb	-II	.	.
 =9	=9	=9	=9	=9
 2.aa	D:min	i	.	MC
