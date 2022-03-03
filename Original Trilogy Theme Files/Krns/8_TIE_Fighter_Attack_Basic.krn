@@ -10,14 +10,14 @@
 *k[]	*k[]	*k[]	*	*
 *MM145	*MM145	*MM145	*	*
 *M3/4	*M3/4	*M3/4	*	*
-=1-	=1-	=1-	=1-	=1-
 *MM145	*MM145	*MM145	*	*
+=1-	=1-	=1-	=1-	=1-
 8B-	Bb	I	.	Thoroughly nonfunctional harmony, no roman numerals offered/possible
 8r	.	.	.	.
 8B-	Bb:aug/A4	.	.	.
 8r	.	.	.	.
 8r	.	.	.	.
-8B-	Eb:min/6	.	.	.
+8B-	Eb:min/M6	.	.	.
 =2	=2	=2	=2	=2
 4r	.	.	.	.
 8B-	Bb:aug/3	.	.	.
@@ -42,7 +42,7 @@
 8B-	Bb:aug/A4	.	.	.
 8r	.	.	.	.
 8r	.	.	.	.
-8B-	Eb:min/6	.	.	.
+8B-	Eb:min/M6	.	.	.
 =7	=7	=7	=7	=7
 4r	.	.	.	.
 8B-	Bb:aug/3	.	.	.
@@ -52,7 +52,7 @@
 =8	=8	=8	=8	=8
 *M2/4	*M2/4	*M2/4	*	*
 8cc#L	A	.	.	.
-8a#J	Bb:min/2	.	.	.
+8a#J	Bb:min/M2	.	.	.
 4f#	D	.	.	.
 =9	=9	=9	=9	=9
 4e-	B/5	.	.	.
