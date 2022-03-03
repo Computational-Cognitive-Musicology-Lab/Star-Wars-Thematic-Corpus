@@ -15,18 +15,18 @@
 4g	G:min	i	.	Pedal: G	.
 4g	.	.	.	.	.
 4g	.	.	.	.	.
-8.e-L	Eb:min	-vi	.	.	.
+8.e-L	Eb:min	vi	.	.	.
 16b-Jk	.	.	.	.	.
 =2	=2	=2	=2	=2	=2
 4g	G:min	i	.	.	.
-8.e-L	Eb:min	-vi	.	.	.
+8.e-L	Eb:min	vi	.	.	.
 16b-Jk	.	.	.	.	.
 2g	G:min	i	.	.	.
 =3	=3	=3	=3	=3	=3
 4dd	G:min	.	.	.	.
 4dd	.	.	.	.	.
 4dd	.	.	.	.	.
-8.ee-L	Eb:min	-vi	.	.	.
+8.ee-L	Eb:min	vi	.	.	.
 16b-Jk	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
 4g-	Eb:min	.	.	Pedal: None	.
@@ -50,7 +50,7 @@
 8.ccnL	.	.	.	.	.
 16bnJk	.	.	.	.	.
 =7	=7	=7	=7	=7	=7
-16b-LL	D#:min	#v	var1 -vi	.	.
+16b-LL	D#:min	#v	var1 vi	.	.
 16anJ	.	.	.	.	.
 8b-J	.	.	.	.	.
 8r	.	.	.	.	.
@@ -80,7 +80,7 @@
 8.ccnL	.	.	.	.	.
 16bnJk	.	.	.	.	.
 =11	=11	=11	=11	=11	=11
-16b-LL	D#:min	#v	var1 -vi	.	.
+16b-LL	D#:min	#v	var1 vi	.	.
 16anJ	.	.	.	.	.
 8b-J	.	.	.	.	.
 8r	.	.	.	.	.
