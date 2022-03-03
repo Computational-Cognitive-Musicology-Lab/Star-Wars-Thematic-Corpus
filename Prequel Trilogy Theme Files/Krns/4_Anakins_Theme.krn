@@ -24,18 +24,18 @@
 4dd#	A	I	.	.
 4ee	.	.	.	.
 =3	=3	=3	=3	=3
-4ffn	F:7/7	Gn+6	.	.
+4ffn	F:7/7	Gn	.	.
 8aL	.	.	.	.
 8ccnJ	.	.	.	.
 4d#	.	.	.	.
 8g#L	.	.	.	.
 8aJ	.	.	.	.
-=4	=4	=4	=4	=4	=4
-4ddn	Bb:7(D5)	-IIma7	var1 Fr+6/I	.
+=4	=4	=4	=4	=4
+4ddn	Bb:7(A4)	-IIM7	Fr/I	.
 8dnL	.	.	.	.
-8aJ	.	.	.	IAC
-2e	A:sus4	I	.	//
-.	A	.	.	.
+8aJ	.	.	.	.
+2e	A:sus4	I	.	IAC	
+.	A	.	.	//
 =5	=5	=5	=5	=5
 4e	A	.	.	.
 4a	.	.	.	.
@@ -55,9 +55,9 @@
 8cc#L	.	.	.	.
 8eJ	.	.	.	.
 =8	=8	=8	=8	=8
-4e	B:min7(D5)	iiom7	.	PC
+4e	B:min7(D5)	iiom7	.	.
 4d	.	.	.	.
-2a	A:sus4	I	.	]]
-.	A	.	.	.
+2a	A:sus4	I	.	PC
+.	A	.	.	]]
 =	=	=	=	=
 *-	*-	*-	*-	*-
