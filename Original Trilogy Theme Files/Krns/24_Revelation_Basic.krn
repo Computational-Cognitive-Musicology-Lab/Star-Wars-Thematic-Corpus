@@ -8,7 +8,7 @@
 **kern	**harte	**harm	**pedal	**cadence	**text
 *clefG2	*	*	*	*	*
 *k[]	*k[]	*k[]	*	*	*
-*C:	*C:	*C:	*	*	*
+*a:	*a:	*a:	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-
 *MM90	*MM90	*MM90	*	*	*
@@ -30,9 +30,9 @@
 =3	=3	=3	=3	=3	=3
 8ee]	.	.	.	.	.
 8r	.	.	.	.	.
-2.r	.	.	Pedal: Caug	.	.
+2.r	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-4r	A:min	.	.	.	.
+4r	A:min	.	Pedal: Caug	.	.
 12eeL	.	.	.	.	.
 12cc	.	.	.	.	.
 12aJ	.	.	.	.	.

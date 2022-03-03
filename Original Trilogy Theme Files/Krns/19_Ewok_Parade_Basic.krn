@@ -15,7 +15,7 @@
 8r	.	.	.	.
 16enJk	.	.	.	.
 =1	=1	=1	=1	=1
-8en	.	I	?Im3M3A4P5	.
+8en	Bb:min(A4)	I	?Im3M3A4P5	.
 8r	.	.	.	.
 16fKL	.	.	.	.
 8r	.	.	.	.
@@ -47,14 +47,14 @@
 8r	.	.	.	.
 16eenJk	.	.	.	.
 =4	=4	=4	=4	=4
-8een	C:7/4	VM7M9	var* ?IIA3P5m7	.
+8een	C:7/4	VM7M9	?IIA3P5m7	.
 4.cc	.	.	.	.
 4ryy	.	.	.	.
 16fKL	.	.	.	HC
 8r	.	.	.	.
 16enJk	.	.	.	//
 =5	=5	=5	=5	=5
-8en	.	I	?Im3M3A4P5	.
+8en	Bb:min(A4)	I	?Im3M3A4P5	.
 8r	.	.	.	.
 16fKL	.	.	.	.
 8r	.	.	.	.
@@ -87,7 +87,7 @@
 16ffJk	.	.	.	.
 =8	=8	=8	=8	=8
 8ff	Bb	I	.	CC
-4.b-	.	.	.	.
+4.b-	.	.	.	||
 2r	.	.	.	.
 =	=	=	=	=
 *-	*-	*-	*-	*-
