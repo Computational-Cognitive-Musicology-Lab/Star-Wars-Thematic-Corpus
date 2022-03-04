@@ -1,0 +1,82 @@
+!!!COM: John Williams
+!!!OTL: Main Theme (B Section) 
+!!!GAW: Star Wars: Episode IV: A New Hope
+!!!ODT: 1977
+!!!OCL: Frank Lehman
+!!!ENC: Claire Arthur
+!!!ENC2: John McNamara
+**kern	**harte	**harm	**altharm	**pedal	**cadence	**text
+*clefG2	*	*	*	*	*	*
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
+*B-:	*B-:	*B-:	*	*	*	*
+*M2/2	*M2/2	*M2/2	*	*	*	*
+*MM200	*MM200	*MM200	*	*	*	*
+4.f	F	I	.	Pedal: F	.	.
+8f	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1
+2.g	E-/2	IV	.	.	.	.
+4g	.	.	.	..	.	.
+=2	=2	=2	=2	=2	=2	=2
+4ee-	E-/2	.	.	.	.	.
+4dd	.	.	.	.	.	.
+4cc	.	.	.	.	.	.
+4b-	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+6b-	E-/2	.	.	.	.	.
+6cc	.	.	.	.	.	.
+6dd	.	.	.	.	.	.
+4.cc	.	.	.	.	.	.
+8g	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+2a	F	V	.	.	.	.
+4.f	.	.	.	.	.	.
+8f	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+2.g	E-/2	IV	.	.	.	.
+8gL	.	.	.	.	.	.
+8ee-J	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4ee-	E-/2	.	.	.	.	.
+4dd	.	.	.	.	.	.
+4cc	.	.	.	.	.	.
+8b-L	.	.	.	.	.	.
+8ffJ	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+4.ff	D-	-III	.	Pedal: None	.	.
+8cc	.	.	.	.	.	.
+[2cc	F	V	.	.	HC	.
+=8	=8	=8	=8	=8	=8	=8
+2.cc]	F:7(*3,4)	.	.	.	.	.
+4f	F	.	.	.	//	.
+=9	=9	=9	=9	=9	=9	=9
+2.g	E-	IV	.	.	.	.
+4g	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+4ee-	A-:min/3	-viib	var1 iim6M7	.	.	Harmony more complex than included in reduction
+4dd	.	.	.	.	.	.
+4cc	A-/3	-VIIb	.	.	.	.
+4b-	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+6b-	A-/3	.	var1 ?iim3m6m7	.	.	.
+6cc	.	.	.	.	.	.
+6dd	.	.	.	.	.	.
+4.cc	F:9(*3,4)	?vP4P5m7M9	.	.	.	.
+8g	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+2a	F	V	.	.	.	.
+4.ff	.	.	.	.	.	.
+8ff	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+3bb-	C:min7(D5)	iiom7	.	.	.	Stepwise ascending bassline mm. 13 & 14-
+6aa-	.	.	.	.	.	.
+3gg-	C:min7(D5)/m3	.	.	.	.	.
+6ff	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14
+3ee-	C:min7(D5)/D5	.	.	.	.	.
+6dd-	.	.	.	.	.	.
+3cc	C:min7(D5)/m7	.	.	.	.	.
+6b-	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+[1ff	F:7(*3,4)	?vP4P5m7	.	.	//	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
