@@ -5,13 +5,13 @@
 !!!OCL: Frank Lehman
 !!!ENC: Claire Arthur
 !!!ENC2: John McNamara
-**kern	**harte	**harm	**altharm 	**cadence	**text
+**kern	**harte	**harm	**altharm	**cadence	**text
 *clefF4	*	*	*	*	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*
 *g:	*g:	*g:	*	*	*
 *M4/4	*M4/4	*M4/4	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-
-*MM60 	*MM60 	*MM60 	* 	* 	*
+*MM60	*MM60	*MM60	*	*	*
 4BB-	G:min	i	.	.	.
 4BB-	.	.	.	.	.
 16CLL	E-:minmaj7/A2	vib	.	.	.
