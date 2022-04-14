@@ -37,9 +37,74 @@ The corpus’s musical files have been organized into folders based on the three
 Each file includes relevant bibliographic metadata in the humdrum reference records (see: https://www.humdrum.org/reference-records/). Reference records at the top of each file include: the composer, title, associated work, date of composition, transcriber, and digital encoders. 
 
 ## Harte Encoding
-The inclusion of a new non-functional harmony encoding in humdrum format is aimed to facilitate data sharing, and provide a more robust encoding method for songs that contain harmony where traditional Roman numeral interpretations frequently become inappropriate or inconsistent (e.g., popular, jazz, and film music). We chose the Harte (2005, 2010) representation since it provides a comprehensive method for encoding any chord as well as a simple, condensed method for common chords; and because it is already widely encountered in the music information retrieval (MIR) community. See Harte (2010) for a complete explanation.
+The inclusion of a new non-functional harmony encoding in humdrum format is aimed to facilitate data sharing, and provide a more robust encoding method for songs that contain harmony where traditional Roman numeral interpretations frequently become inappropriate or inconsistent (e.g., popular, jazz, and film music). We chose the representation proposed by Harte (2005, 2010) since it provides a comprehensive method for encoding any chord as well as a simple, condensed method for common chords; and because it is already widely encountered in the music information retrieval (MIR) community. See Harte (2010) for a complete explanation.
 
-Note that we had to make one small modification in order to make the data more appropriate for use with the the humdrum toolkit and other humdrum tools (e.g., [Verovio Humdrum Viewer](https://github.com/humdrum-tools/verovio-humdrum-viewer), Sapp; [humdrumR](https://github.com/Computational-Cognitive-Musicology-Lab/humdrumR), Condit-Schultz). That is, since in kern the lower case letter “b” is used to represent chordal inversions, a flat is instead represented with a minus symbol (-). Since Harte encodings are specified in the following format: root: intervals above bass, we chose to convert flats in the root encoding to be consistent with humdrum syntax. In addition, we observed a lack of clarity in Harte’s documentation as to the default syntax for representing intervals above the bass. This is extremely important as the exact intervals must be easily understood and systematically applied so as to allow for ease of use with computational methods. We inferred from Harte’s examples that perfect intervals and major imperfect intervals are defaults, and therefore any minor, augmented, or diminished intervals must be explicitly specified. As such, a C major 7th chord over the 7th would be written as C:maj7/7 while a minor 7th chord or major-minor 7th must be written as explicitly over a minor seventh (e.g., C:min7/m7; C:7/m7, respectively). 
+Note that we had to make one small modification in order to make the data more appropriate for use with the the humdrum toolkit and other humdrum tools (e.g., [Verovio Humdrum Viewer](https://github.com/humdrum-tools/verovio-humdrum-viewer), Sapp; [humdrumR](https://github.com/Computational-Cognitive-Musicology-Lab/humdrumR), Condit-Schultz). That is, since in kern the lower case letter “b” is used to represent chordal inversions, a flat is instead represented with a minus symbol (-). Since Harte encodings are specified in the following format: root: intervals above bass, we chose to convert flats in the root encoding to be consistent with humdrum syntax. In addition, we observed a lack of clarity in Harte’s documentation as to the default syntax for representing intervals above the bass. This is extremely important as the exact intervals must be easily understood and systematically applied so as to allow for ease of use with computational methods. We inferred from Harte’s examples that perfect intervals and major imperfect intervals are defaults, and therefore any minor, augmented, or diminished intervals must be explicitly specified. As such, a C major 7th chord over the 7th would be written as C:maj7/7 while a minor 7th chord or major-minor 7th must be written as explicitly over a minor seventh (e.g., C:min7/b7; C:7/b7, respectively). Note also that struck chords are labeled at their beginning time point and null tokens are used to extend the duration of the chord until it is superceded by a newly struck chord. Where a silence is explicitly intended to be encoded, we use "NC". 
+
+The table of shorthands for the most commonly used symbols (copied from Harte, 2010, p.103) are outlined below:
+
+| Chordtype | | Shorthand | Interval List |
+| --------- | - | ----- | -------------- |
+| Triad Chords | Major | maj | (1,3,5) |
+|	| Minor | min | (1,b3,5) |
+|	| Diminished | dim | (1,b3,b5)|
+|	| Augmented | aug | (1,3,#5)|
+| Seventh Chords | Major Seventh | maj7 | (1,3,5,7)|
+| 	| Minor Seventh | min7 | (1,b3,5,b7) |
+| 	| Major-minor Seventh | 7 | (1,3,5,b7)|
+|	| Diminishished Seventh | dim7 | (1,b3,b5,bb7) |
+|	| Half-diminished Seventh | hdim7 | (1,b3,b5,b7) |
+|	| Minor-major Seventh | minmaj7 | (1,b3,5,7) |
+| Sixth Chords | Major Sixth | maj6 | (1,3,5,6) |
+|	| Minor Sixth | min6 | (1,b3,5,6)|
+| Extended Chords | Ninth | 9 | (1,3,5,b7,9) |
+|	| Major Ninth | maj9 | (1,3,5,7,9) |
+|	| Minor Ninth | min9 | (1,b3,5,b7,9) |
+| Suspended Chords | Suspended 2nd | sus2 | (1,2,5) |
+|	| Suspended 4th | sus4 | (1,4,5) |
+
+### Helpful Examples
+A made-up example shown in the humdrum syntax may be found below:
+
+| \*\*kern | \*\*harte |
+| *clefF4 | \* |
+| *k[] | \* |
+| *M4/4 | \* |
+| =1 | =1 |
+| 8c | C:min7 |
+| 8B- | . |
+| 8c | . |
+| [8e- | . |
+| 8e-] | . |
+| 4e- | . |
+| [8e- | F:min9 | 
+| =2 | = 2 |
+| 8e-] | . |
+| 8c | . |
+| 8B- | . |
+| 8G | . |
+| 8G- | G-:dim7 |
+| 8F | . |
+| 8r | . |
+| [8G- | E-:maj6/5 |
+| =3 | =3 |
+| 8G-] | . |
+| 8F | . |
+| 8E- | . |
+| [8C | . |
+| 8C] | . | 
+| 4c |F#:dim7 |
+| 8g- | . |
+| =4 | =4 |
+| 4f | G:7 |
+| 4r | . |
+| 2r | . |
+| == | == |
+| *- | *- |
+
+
+
+
 
 ## Scripts
 The files in the “Scripts” folder were used to revise and edit the krn files created from the musicxml conversion into humdrum format. 
