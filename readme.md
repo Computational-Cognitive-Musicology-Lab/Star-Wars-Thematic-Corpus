@@ -66,44 +66,41 @@ The table of shorthands for the most commonly used symbols (copied from Harte, 2
 ### Helpful Examples
 A made-up example shown in the humdrum syntax may be found below:
 
-| \*\*kern | \*\*harte |
-| *clefF4 | \* |
-| *k[] | \* |
-| *M4/4 | \* |
-| =1 | =1 |
-| 8c | C:min7 |
-| 8B- | . |
-| 8c | . |
-| [8e- | . |
-| 8e-] | . |
-| 4e- | . |
-| [8e- | F:min9 | 
-| =2 | = 2 |
-| 8e-] | . |
-| 8c | . |
-| 8B- | . |
-| 8G | . |
-| 8G- | G-:dim7 |
-| 8F | . |
-| 8r | . |
-| [8G- | E-:maj6/5 |
-| =3 | =3 |
-| 8G-] | . |
-| 8F | . |
-| 8E- | . |
-| [8C | . |
-| 8C] | . | 
-| 4c |F#:dim7 |
-| 8g- | . |
-| =4 | =4 |
-| 4f | G:7 |
-| 4r | . |
-| 2r | . |
-| == | == |
-| *- | *- |
-
-
-
+| \*\*kern | \*\*harte |  
+| *clefF4 | \* |  
+| *k[] | \* |  
+| *M4/4 | \* |  
+| =1 | =1 |  
+| 8c | C:min7 |  
+| 8B- | . |  
+| 8c | . |  
+| \[8e- | . |  
+| 8e-] | . |  
+| 4e- | . |  
+| \[8e- | F:min9 | 
+| =2 | = 2 |  
+| 8e-] | . |  
+| 8c | . |  
+| 8B- | . |  
+| 8G | . |  
+| 8G- | G-:dim7 |  
+| 8F | . |  
+| 8r | . |  
+| \[8G- | E-:maj6/5 |  
+| =3 | =3 |  
+| 8G-] | . |  
+| 8F | . |  
+| 8E- | . |  
+| \[8C | . |  
+| 8C] | . |   
+| 4c | F#:dim7 |  
+| 8g- | . |  
+| =4 | =4 |  
+| 4f | G:7 |  
+| 4r | . |  
+| 2r | . |  
+| == | == |  
+| *- | *- |  
 
 
 ## Scripts
