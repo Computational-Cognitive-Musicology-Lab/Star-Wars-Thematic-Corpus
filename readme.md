@@ -66,7 +66,8 @@ The table of shorthands for the most commonly used symbols (copied from Harte, 2
 ### Helpful Examples
 A made-up example shown in the humdrum syntax may be found below:
 
-| \*\*kern | \*\*harte |  
+| \*\*kern | \*\*harte | 
+| -------- | --------- |
 | *clefF4 | \* |  
 | *k[] | \* |  
 | *M4/4 | \* |  
