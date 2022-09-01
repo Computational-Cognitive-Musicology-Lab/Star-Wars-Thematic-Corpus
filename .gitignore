@@ -1,6 +1,12 @@
 .DS_Store
 .backup
 OriginalTrilogyThemeFiles/Archive
+OriginalTrilogyThemeFiles/Krns/old_flats
+OriginalTrilogyThemeFiles/Krns/old_intervals
+PrequelTriologyThemeFiles/Krns/old_flats
+PrequelTrilogyThemeFiles/Krns/old_intervals
+SequelTrilogyThemeFiles/Krns/old_flats
+SequelTrilogyThemeFiles/Krns/old_intervals
 SequelTrilogyThemeFiles/Modified Tempo
 Analysis/
 Analysis2/
