@@ -13,19 +13,19 @@
 *MM80	*MM80	*	*	*
 =1-	=1-	=1-	=1-	=1-
 4r	.	Pedal:G	.	Atonal, no RNs provided
-4B-	G:min(b6, b8, b10)	.	.	.
-4a-t	G:min(b5, bb7, b9)	.	.	.
+4B-	G:min(b6, b8)	.	.	.
+4a-t	G:min(5, b5, b7, b9)	.	.	.
 =2	=2	=2	=2	=2
 4r	.	.	.	.
-4B-	G:min(b6, b8, b10)	.	.	.
-4a-t	G:min(b5, bb7, b9)	.	.	.
+4B-	G:min(b6, b8)	.	.	.
+4a-t	G:min(5, b5, b7, b9)	.	.	.
 =3	=3	=3	=3	=3
 4r	.	Pedal:E	.	.
-4c	E:min(b2, b4, 6)	.	.	.
+4c	E:min(b9, b11, b13)	.	.	.
 4bnt	F:min(7, 9, #11)	.	.	.
 =4	=4	=4	=4	=4
 4r	.	.	.	.
-4c	E:min(b2, b4, 6)	.	.	.
+4c	E:min(b9, b11, b13)	.	.	.
 4bnt	F:min(7, 9, #11)	.	;;	.
 =	=	=	=	=
 *-	*-	*-	*-	*-
