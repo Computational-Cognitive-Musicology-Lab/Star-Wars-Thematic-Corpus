@@ -17,7 +17,7 @@
 4aa-	.	.	.	.	.
 4dd-	D-	I	.	.	.
 =2	=2	=2	=2	=2	=2
-4ee-	E-:min7/b7	ii7d	.	.	.
+4ee-	E-:min7/b7	iim7d	.	.	.
 4ff	.	.	.	.	.
 4gg-	.	V7b	.	HC	.
 4a-	A-:7/3	.	.	//	.
@@ -29,7 +29,7 @@
 =4	=4	=4	=4	=4	=4
 4aan	G-:min	iv	.	.	.
 4gg#	.	.	.	.	.
-4aa	B:7(2,*3)	-VII7=V7	V7/bIII	HC	Enharmonic modulation to key minor third above tonic (F- = E)
+4aa	B:7(2,*3)	-VIIm7=V7	V7/bIII	HC	Enharmonic modulation to key minor third above tonic (F- = E)
 4bn	B:7	.	.	//	.
 =5||	=5||	=5||	=5||	=5||	=5||
 *k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*	*
@@ -48,7 +48,7 @@
 4eee	E	I	.	.	.
 =8	=8	=8	=8	=8	=8
 2aa	F#:min/5	iic	.	.	.
-2b#	G#	V7/vi=V	.	HC	Enharmonic modulation back to D- (C# = D-)
+2b#	G#	V/vi=V	.	HC	Enharmonic modulation back to D- (C# = D-)
 =9||	=9||	=9||	=9||	=9||	=9||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*	*	*
 *D-:	*D-:	*D-:	*	*	*
@@ -57,22 +57,22 @@
 4a-	.	.	.	.	.
 4d-	.	.	.	.	.
 =10	=10	=10	=10	=10	=10
-4e-	E-:min7/b3	ii7b	.	.	.
+4e-	E-:min7/b3	iim7b	.	.	.
 4f	.	.	.	.	.
 4g-	A-:7/3	V7b	.	HC	.
 4A-	.	.	.	//	.
 =11	=11	=11	=11	=11	=11
 4a-	D-	I	.	.	.
 4gn	.	.	.	.	.
-4a-	D-:maj7/3	I7d	.	.	.
-4dd-	B-:min7	vi7	.	.	.
+4a-	D-:maj7/3	IM7d	.	.	.
+4dd-	B-:min7	vim7	.	.	.
 =12	=12	=12	=12	=12	=12
-2ff-	G-:min7	iv7	.	.	.
+2ff-	G-:min7	ivm7	.	.	.
 2ee-	E-:min7(b5)	iiom7	.	.	.
 =13	=13	=13	=13	=13	=13
 4dd-	D-/5	Ic	.	.	.
 4a-	.	.	.	.	.
-4ggn	D-/7	I7d	.	.	.
+4ggn	D-/7	IM7d	.	.	.
 4aa-	.	.	.	.	.
 =14	=14	=14	=14	=14	=14
 2aan	E--/3	-IIb	.	.	.
