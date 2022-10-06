@@ -2,7 +2,7 @@
 
 This document serves as an extended table-of-contents for the Star Wars Thematic Corpus, outlining its organization and the kinds of files contained in the final corpus.
 
-## Star Wars Thematic Corpus (SWTC)
+## Star Wars Thematic Corpus (SWTC) - version 1.0
 This repository contains a dataset of melodic and harmonic transcriptions of the major themes from the complete Star Wars trilogies (Episodes I-IX). There are a total of 64 distinct themes, each with its own file available in multiple formats (.sib, .musicxml, .krn), with the primary human-computer-readable encoding in humdrum format (https://www.humdrum.org/).
 
 ## Contributions
