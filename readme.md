@@ -63,6 +63,10 @@ The table of shorthands for the most commonly used symbols (copied from Harte, 2
 | Suspended Chords | Suspended 2nd | sus2 | (1,2,5) |
 |	| Suspended 4th | sus4 | (1,4,5) |
 
+In addition to these, modifiers may be added to shorthands using `\*` for omissions and `()` for added intervals, in the following format:  
+``root : shorthand (extra-intervals) / bass``
+
+
 ### Helpful Examples
 A made-up example shown in the humdrum syntax may be found below:
 
