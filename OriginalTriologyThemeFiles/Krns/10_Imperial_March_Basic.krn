@@ -12,7 +12,7 @@
 *M4/4	*M4/4	*M4/4	*	*	*
 *MM110	*MM110	*MM110	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-
-4g	G:min	i	.	Pedal: G	.
+4g	G:min	i	None	Pedal: G	.
 4g	.	.	.	.	.
 4g	.	.	.	.	.
 8.e-L	E-:min	vi	.	.	.
@@ -59,7 +59,7 @@
 8.e-L	.	.	.	.	.
 16g-Jk	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
-4b-	G:min	i	.	.	.
+4b-	G:min	i	None	.	.
 8.gL	E-	VI	.	.	.
 16b-Jk	.	.	.	.	.
 2dd	G:min	i	.	.	.
@@ -86,7 +86,7 @@
 8r	.	.	.	.	.
 8e-	.	.	.	.	.
 4g-	.	.	.	.	.
-8.e-L	C:min7(b5)	ivom7	.	.	.
+8.e-L	C:min7(b5)	ivom7	None	.	.
 .	.	.	.	.	.
 16b-Jk	.	.	.	.	.
 =12	=12	=12	=12	=12	=12

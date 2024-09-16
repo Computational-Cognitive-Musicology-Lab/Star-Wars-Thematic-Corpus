@@ -11,7 +11,7 @@
 *B-:	*B-:	*B-:	*	*	*	*
 *M2/2	*M2/2	*M2/2	*	*	*	*
 *MM200	*MM200	*MM200	*	*	*	*
-4.f	F	I	.	Pedal: F	.	.
+4.f	F	I	None	Pedal: F	.	.
 8f	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
 2.g	E-	IV	.	.	.	.
@@ -55,13 +55,13 @@
 =10	=10	=10	=10	=10	=10	=10
 4ee-	A-:min/b3	-viib	?iim6M7	.	.	Harmony more complex than included in reduction
 4dd	.	.	.	.	.	.
-4cc	A-/3	-VIIb	.	.	.	.
+4cc	A-/3	-VIIb	None	.	.	.
 4b-	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
 6b-	A-/3	.	?iim3m6m7	.	.	.
 6cc	.	.	.	.	.	.
 6dd	.	.	.	.	.	.
-4.cc	F:9(*3,4)	?vP4P5m7M9	.	.	.	.
+4.cc	F:9(*3,4)	?vP4P5m7M9	None	.	.	.
 8g	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 2a	F	V	.	.	.	.

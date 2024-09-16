@@ -13,7 +13,7 @@
 *MM75	*MM75	*MM75	*	*
 4B	.	.	.	.
 =1	=1	=1	=1	=1
-4e	A	I	.	.
+4e	A	I	None	.
 4a	.	.	.	.
 4b	B/b7	V/V	.	.
 4ff#	.	.	.	.
@@ -34,7 +34,7 @@
 4ddn	B-:7(#4)	-IIm7	Fr/I	.
 8dnL	.	.	.	.
 8aJ	.	.	.	.
-2e	A:sus4	I	.	IAC
+2e	A:sus4	I	None	IAC
 .	A	.	.	//
 =5	=5	=5	=5	=5
 4e	A	.	.	.

@@ -12,7 +12,7 @@
 *M4/4	*M4/4	*M4/4	*	*
 *MM60	*MM60	*MM60	*	*
 =1-	=1-	=1-	=1-	=1-
-4GG	G:min	i	.	.
+4GG	G:min	i	None	.
 4BB-	.	.	.	.
 2GG	.	.	.	.
 =2	=2	=2	=2	=2
@@ -28,7 +28,7 @@
 2C#	C#:min	#iv	-v	.
 2Cn	.	.	.	//
 =5	=5	=5	=5	=5
-4GG	G:min	i	.	.
+4GG	G:min	i	None	.
 4BB-	.	.	.	.
 2GG	.	.	.	.
 =6	=6	=6	=6	=6
@@ -36,7 +36,7 @@
 4GG	.	.	.	.
 2FF	B-:min/5	iiic	ivc/-vii	.
 =7	=7	=7	=7	=7
-4FF	F:min	-vii	.	.
+4FF	F:min	-vii	None	.
 4C	.	.	.	.
 4BBn	.	.	.	.
 4FF	.	.	.	.
@@ -48,7 +48,7 @@
 4BB-	.	.	.	.
 2GG	.	.	.	.
 =10	=10	=10	=10	=10
-4BB-	G:min	i	.	.
+4BB-	G:min	i	None	.
 4GG	.	.	.	.
 2FF	B-:min/5	iiic	.	.
 =11	=11	=11	=11	=11
